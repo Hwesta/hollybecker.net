@@ -531,13 +531,13 @@ input[type="submit"]:focus, input[type="reset"]:focus, input[type="button"]:focu
 .button.button-primary,
 button.button-primary {
   color: #fff;
-  background-color: #33c3f0;
-  border-color: #33c3f0; }
+  background-color: #33c3ff;
+  border-color: #33c3ff; }
 
 input[type="submit"].button-primary, input[type="reset"].button-primary, input[type="button"].button-primary {
   color: #fff;
-  background-color: #33c3f0;
-  border-color: #33c3f0; }
+  background-color: #33c3ff;
+  border-color: #33c3ff; }
 
 .button.button-primary:hover,
 button.button-primary:hover {
@@ -602,12 +602,12 @@ textarea {
   padding-bottom: 6px; }
 
 input[type="email"]:focus, input[type="number"]:focus, input[type="search"]:focus, input[type="text"]:focus, input[type="tel"]:focus, input[type="url"]:focus, input[type="password"]:focus {
-  border: 1px solid #33c3f0;
+  border: 1px solid #33c3ff;
   outline: 0; }
 
 textarea:focus,
 select:focus {
-  border: 1px solid #33c3f0;
+  border: 1px solid #33c3ff;
   outline: 0; }
 
 label,
@@ -646,7 +646,6 @@ ol {
   margin-top: 0; }
 
 ul {
-  padding-left: 0;
   margin-top: 0; }
   ul ul, ul ol {
     margin: 1.5rem 0 1.5rem 3rem;
@@ -657,7 +656,7 @@ ol ol, ol ul {
   font-size: 90%; }
 
 li {
-  margin-bottom: 1rem; }
+  margin-bottom: 0.5rem; }
 
 /*
 * Skeleton V2.0.4
@@ -746,15 +745,40 @@ form {
 */
 body {
   display: flex;
-  flex-direction: row;
-  justify-content: space-around; }
+  flex-wrap: wrap;
+  justify-content: flex-start; }
+  @media (min-width: 1000px) {
+    body {
+      flex-direction: row; } }
 
 header {
-  width: 30.66667%;
-  border: 1px solid #f00; }
+  width: 100%;
+  min-width: 200px;
+  margin: 0px auto 0px 0px;
+  padding: 1em;
+  flex-basis: 1; }
+  @media (min-width: 1000px) {
+    header {
+      height: 100%;
+      max-width: 20%;
+      padding: 2em; } }
+
+section#header {
+  border-bottom: 1px solid #e1e1e1; }
+
+nav {
+  margin: 1em auto; }
+  nav ul {
+    list-style: none inside; }
 
 main {
-  width: 65.33333%;
-  border: 1px solid #f0f; }
+  width: 100%;
+  margin: 0px auto;
+  padding: 1em;
+  flex-basis: 2; }
+  @media (min-width: 1000px) {
+    main {
+      max-width: 70%;
+      padding: 2em; } }
 
 /*# sourceMappingURL=main.css.map */

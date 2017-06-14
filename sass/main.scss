@@ -29,14 +29,44 @@
 
 body {
     display: flex;
-    flex-direction: row;
-    justify-content: space-around;
+    flex-wrap: wrap;
+    justify-content: flex-start;
+
+    @media (#{$bp-larger-than-desktop}) {
+        flex-direction: row;
+    }
 }
 
 header {
-    width: grid-column-width(4);
+    width: 100%;
+    min-width: 200px;
+    margin: 0px auto 0px 0px;
+    padding: 1em;
+    flex-basis: 1;
+    @media (#{$bp-larger-than-desktop}) {
+        height: 100%;
+        max-width: 20%;
+        padding: 2em;
+    }
+}
+
+section#header {
+    border-bottom: 1px solid $light-grey;
+}
+nav {
+    margin: 1em auto;
+    ul {
+        list-style: none inside;
+    }
 }
 
 main {
-    width: grid-column-width(8);
+    width: 100%;
+    margin: 0px auto;
+    padding: 1em;
+    flex-basis: 2;
+    @media (#{$bp-larger-than-desktop}) {
+        max-width: 70%;
+        padding: 2em;
+    }
 }
