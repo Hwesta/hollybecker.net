@@ -28,51 +28,52 @@
 @import "modules/media-queries";
 
 body {
+    box-sizing: border-box;
     display: flex;
     flex-wrap: wrap;
+    flex-direction: row;
     justify-content: flex-start;
-
-    @media (#{$bp-larger-than-desktop}) {
-        flex-direction: row;
-    }
 }
 
 header {
+    box-sizing: border-box;
     width: 100%;
-    min-width: 200px;
-    margin: 0px auto 0px 0px;
     padding: 1em;
-    flex-basis: 1;
-    @media (#{$bp-larger-than-desktop}) {
-        height: 100%;
-        max-width: 20%;
+    @media (#{$bp-larger-than-tablet}) {
+        max-width: 25%;
         padding: 2em;
     }
+    // border: 1px solid #f00;
 }
 
 section {
+    box-sizing: border-box;
     border-bottom: 1px solid $light-grey;
 }
 
 nav {
+    box-sizing: border-box;
     margin: 1em auto;
     ul {
         list-style: none inside;
+        padding: 0;
+        text-align: center;
     }
 }
 
 main {
+    box-sizing: border-box;
     width: 100%;
-    margin: 0px auto;
     padding: 1em;
-    flex-basis: 2;
-    @media (#{$bp-larger-than-desktop}) {
+    @media (#{$bp-larger-than-tablet}) {
         max-width: 70%;
         padding: 2em;
     }
+    // border: 1px solid #0f0;
 }
 
 footer {
+    box-sizing: border-box;
     width: 90%;
     padding: 0.2em;
     font-size: 0.8em;

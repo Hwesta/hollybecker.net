@@ -708,44 +708,44 @@ form {
 * Sass Version by Seth Coelen https://github.com/whatsnewsaes
 */
 body {
+  box-sizing: border-box;
   display: flex;
   flex-wrap: wrap;
+  flex-direction: row;
   justify-content: flex-start; }
-  @media (min-width: 1000px) {
-    body {
-      flex-direction: row; } }
 
 header {
+  box-sizing: border-box;
   width: 100%;
-  min-width: 200px;
-  margin: 0px auto 0px 0px;
-  padding: 1em;
-  flex-basis: 1; }
-  @media (min-width: 1000px) {
+  padding: 1em; }
+  @media (min-width: 750px) {
     header {
-      height: 100%;
-      max-width: 20%;
+      max-width: 25%;
       padding: 2em; } }
 
 section {
+  box-sizing: border-box;
   border-bottom: 1px solid #e1e1e1; }
 
 nav {
+  box-sizing: border-box;
   margin: 1em auto; }
   nav ul {
-    list-style: none inside; }
+    list-style: none inside;
+    padding: 0;
+    text-align: center; }
 
 main {
+  box-sizing: border-box;
   width: 100%;
-  margin: 0px auto;
-  padding: 1em;
-  flex-basis: 2; }
-  @media (min-width: 1000px) {
+  padding: 1em; }
+  @media (min-width: 750px) {
     main {
       max-width: 70%;
       padding: 2em; } }
 
 footer {
+  box-sizing: border-box;
   width: 90%;
   padding: 0.2em;
   font-size: 0.8em; }
