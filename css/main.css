@@ -269,15 +269,15 @@ h1 {
   line-height: 1.2; }
 
 h2 {
-  font-size: 3.6rem;
+  font-size: 3.4rem;
   line-height: 1.25; }
 
 h3 {
-  font-size: 3.0rem;
+  font-size: 2.8rem;
   line-height: 1.3; }
 
 h4 {
-  font-size: 2.4rem;
+  font-size: 2.2rem;
   line-height: 1.35; }
 
 h5 {
@@ -288,24 +288,6 @@ h6 {
   font-size: 1.5rem;
   line-height: 1.6; }
 
-@media (min-width: 550px) {
-  h1 {
-    font-size: 5.0rem; }
-
-  h2 {
-    font-size: 4.2rem; }
-
-  h3 {
-    font-size: 3.6rem; }
-
-  h4 {
-    font-size: 3.0rem; }
-
-  h5 {
-    font-size: 2.4rem; }
-
-  h6 {
-    font-size: 1.5rem; } }
 p {
   margin-top: 0; }
 
@@ -637,26 +619,8 @@ label > .label-body {
 * 12/9/2014
 * Sass Version by Seth Coelen https://github.com/whatsnewsaes
 */
-ul {
-  list-style: circle inside; }
-
-ol {
-  list-style: decimal inside;
-  padding-left: 0;
-  margin-top: 0; }
-
-ul {
-  margin-top: 0; }
-  ul ul, ul ol {
-    margin: 1.5rem 0 1.5rem 3rem;
-    font-size: 90%; }
-
-ol ol, ol ul {
-  margin: 1.5rem 0 1.5rem 3rem;
-  font-size: 90%; }
-
 li {
-  margin-bottom: 0.5rem; }
+  margin-bottom: 0.3rem; }
 
 /*
 * Skeleton V2.0.4
