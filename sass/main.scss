@@ -26,3 +26,17 @@
 @import "modules/tables";
 @import "modules/spacing";
 @import "modules/media-queries";
+
+body {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+header {
+    width: grid-column-width(4);
+}
+
+main {
+    width: grid-column-width(8);
+}
