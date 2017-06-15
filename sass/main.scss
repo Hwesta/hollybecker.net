@@ -33,17 +33,21 @@ body {
     flex-wrap: wrap;
     flex-direction: row;
     justify-content: flex-start;
+    background: url('../images/background-omega.jpg') #8CD3D9;
 }
 
 header {
     box-sizing: border-box;
-    width: 100%;
-    padding: 1em;
+    width: 90%;
+    margin: 1rem auto auto;
+    padding: 1rem;
     @media (#{$bp-larger-than-tablet}) {
         max-width: 25%;
-        padding: 2em;
+        padding: 2rem;
     }
-    // border: 1px solid #f00;
+    border: 1px solid $dark-grey;
+    background: #fff;
+    color: #000;
 }
 
 section {
@@ -63,18 +67,21 @@ nav {
 
 main {
     box-sizing: border-box;
-    width: 100%;
-    padding: 1em;
+    width: 90%;
+    margin: 1rem auto 1rem;
+    padding: 1rem;
     @media (#{$bp-larger-than-tablet}) {
         max-width: 70%;
-        padding: 2em;
+        padding: 2rem;
     }
-    // border: 1px solid #0f0;
+    border: 1px solid $dark-grey;
+    background: #fff;
+    color: #000;
 }
 
 footer {
     box-sizing: border-box;
     width: 90%;
-    padding: 0.2em;
-    font-size: 0.8em;
+    padding-top: 1rem;
+    font-size: 1rem;
 }
