@@ -85,3 +85,15 @@ footer {
     padding-top: 1rem;
     font-size: 1rem;
 }
+
+aside {
+    float: right;
+    border: 1px solid $dark-grey;
+    margin: 1rem;
+    padding: 1rem;
+    background: $light-grey;
+    max-width: 50%;
+    @media (#{$bp-larger-than-tablet}) {
+        max-width: 30%;
+    }
+}
