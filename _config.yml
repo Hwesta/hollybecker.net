@@ -38,7 +38,3 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-
-# Set SASS dir
-sass:
-  sass_dir: _sass
