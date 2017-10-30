@@ -8,7 +8,7 @@ tags: Japanese
 ## {{ page.title }}
 
 <section markdown='1'>
-When I encounter a word I don't know in Japanese, one of my techniques is to use google.jp to image search for it.  The goal is to keep from translating the word into English and to get a sense of what it mean in Japanese instead.
+When I encounter a word I don't know in Japanese, one of my techniques is to use google.jp to image search for it.  The goal is to keep from translating the word into English and to get a sense of what it means in Japanese instead.
 
 The other day I came across <ruby>邪魔<rt>jyama</rt></ruby> and googled it.
 
