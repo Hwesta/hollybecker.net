@@ -1,7 +1,8 @@
 ---
 layout: default
 title: "TIL: SASS & locale-gen"
-excerpt: When deploying my newly Jekyll-ified site to my webserver, I ran into some locale problems with SASS generation and thought someone else can learn from my pain.
+summary: When deploying my newly Jekyll-ified site to my webserver, I ran into some locale problems with SASS generation and thought someone else can learn from my pain.
+excerpt: I decided to switch this site from a handful of HTML & CSS pages to a static site generator, Jekyll. When deploying it to my webserver, I ran into some locale problems with SASS generation and thought someone else can learn from my pain.
 date: 2017-10-22
 tags: til jekyll sass locale
 ---
