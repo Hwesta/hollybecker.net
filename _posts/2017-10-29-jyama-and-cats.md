@@ -5,8 +5,6 @@ excerpt: Cats are the definition of obstructionist.
 tags: Japanese
 ---
 
-## {{ page.title }}
-
 <section markdown='1'>
 When I encounter a word I don't know in Japanese, one of my techniques is to use google.jp to image search for it.  The goal is to keep from translating the word into English and to get a sense of what it means in Japanese instead.
 

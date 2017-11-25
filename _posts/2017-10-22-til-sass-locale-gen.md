@@ -6,8 +6,6 @@ date: 2017-10-22
 tags: til jekyll sass locale
 ---
 
-## {{ page.title }}
-
 <section id='intro' markdown='1'>
 I decided to switch this site from a handful of HTML & CSS pages to a static site generator, Jekyll. When deploying it to my webserver, I ran into some locale problems with SASS generation and thought someone else can learn from my pain.
 

@@ -3,8 +3,6 @@ layout: default
 title: Christmabirthday Wishlist 2017
 ---
 
-## Christmabirthday Wishlist 2017
-
 <section markdown='1'>
 
 ### Playable
