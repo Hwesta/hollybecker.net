@@ -2,7 +2,7 @@
 layout: default
 title: Can I Use That Code? Software licences as a user
 summary: Software licences are fascinating, complicated and important.
-excerpt: Software licences are fantastic! They allow you to use other people's code and allow others to use your code, enabling the whole open source community. Software licences are also complicated. Just because code is on the internet doesn't mean you can use it!
+excerpt: I gave a talk on software licences at PyCon Canada.  Software licences are fantastic complicated and important, enabling the whole open source community. Also, just because code is on the internet doesn't mean you can use it!
 tags: software-licences open-source
 ---
 
