@@ -34,19 +34,27 @@ Kobo doesn't let you buy someone a book, just an e-gift card.  Maybe an e-gift c
   * Yes: black, oolong, rooibos, herbal
   * Yes: unflavored
   * Yes: flavored: fruity, sweet, chai
-  * No: green, hibiscus, camomile, straight peppermint
+  * No: green, hibiscus, chamomile, straight peppermint, licorice
+* Tea forté
+  * [Coconut Chocolate Truffle black](https://www.teaforte.com/store/gourmet-tea/coconut-chocolate-truffle/)
+  * [Sweet Orange Spice black](https://www.teaforte.com/store/gourmet-tea/sweet-orange-spice/)
+  * [Blood Orange black](https://www.teaforte.com/store/gourmet-tea/blood-orange/)
+  * [Bombay Chai black](https://www.teaforte.com/store/gourmet-tea/bombay-chai/)
 * Chocolate
   * dark or milk, not white
   * Fazerina Orange Truffle milk chocolate (Finnish)
 
 ### Hangable
 
+* Birdfeeders & birdseed
+  * Need to do some research about which kinds
+
 * Picture frames
   * Specific sizes to come
 
 * [Cat Tail Cup](https://topatoco.com/collections/red-wombat/products/rw-teamatters?variant=39883594895) print (and frame) $14 USD
 * [Prairie Cup](https://topatoco.com/collections/red-wombat/products/rw-teamatters?variant=39883594575) print (and frame) $14 USD
-* [Tea Mage](https://topatoco.com/collections/red-wombat/products/rw-teamatters?variant=39883594383) print (and frame)  $14 USD
+* [Tea Mage](https://topatoco.com/collections/red-wombat/products/rw-teamatters?variant=39883594383) print (and frame) $14 USD
 
 ### Wearable
 
