@@ -5,12 +5,15 @@ title: Christmabirthday Wishlist 2017
 
 <section markdown='1'>
 
+Last updated: Dec 3
+
 ### Playable
 
+* [Cat Lady](https://boardgamegeek.com/boardgame/228504/cat-lady) ([Publisher](https://alderacstore.com/cat-lady/)) $25
 * [Sail to India](https://boardgamegeek.com/boardgame/141736/sail-india) ([Amazon.ca](https://www.amazon.ca/dp/B00J1JLT6U/)) $24
 * [Fairy Tale](https://boardgamegeek.com/boardgame/13823/fairy-tale) ([Starlit Citadel](https://www.starlitcitadel.com/games/fairy-tale.html)) $23
 * [Red 7](https://boardgamegeek.com/boardgame/161417/red7) ([Starlit Citadel](https://www.starlitcitadel.com/games/red-7.html)) $16
-* [Five Tribes](https://boardgamegeek.com/boardgame/157354/five-tribes) ([Amazon.com](https://www.amazon.com/Days-of-Wonder-DOW-8401/dp/B00L6JDRE0/) [Starlit Citadel](https://www.starlitcitadel.com/games/five-tribes.html)) $43 USD, $85 CAD
+* ~~[Five Tribes](https://boardgamegeek.com/boardgame/157354/five-tribes) ([Amazon.com](https://www.amazon.com/Days-of-Wonder-DOW-8401/dp/B00L6JDRE0/) [Starlit Citadel](https://www.starlitcitadel.com/games/five-tribes.html)) $43 USD, $85 CAD~~
 * [Broom Service: the card game](https://boardgamegeek.com/boardgame/192735/broom-service-card-game) ([Amazon.ca](https://www.amazon.ca/Broom-Service-The-Card-Game/dp/B01HF1QCWQ/)) $17
 
 ### Readable
