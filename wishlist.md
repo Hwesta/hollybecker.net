@@ -5,7 +5,7 @@ title: Christmabirthday Wishlist 2017
 
 <section markdown='1'>
 
-Last updated: Dec 3
+Last updated: Dec 10
 
 ### Playable
 
@@ -29,6 +29,7 @@ Kobo doesn't let you buy someone a book, just an e-gift card.  Maybe an e-gift c
 ### Usable
 
 * New power brick: [Anker PowerCore 13000 C](https://www.anker.com/products/variant/-PowerCore-13000-C/A1216011) $28 USD
+* Birding Camera: Canon Powershot SX730 HS ([Costco](https://www.costco.ca/Canon-Powershot-SX730-HS-20.3-MP-Digital-Camera%2C-Black.product.100362619.html)) $550
 * Spotting Scope ~$1500
   * Please talk to me first
 
@@ -51,6 +52,7 @@ Kobo doesn't let you buy someone a book, just an e-gift card.  Maybe an e-gift c
 
 * Birdfeeders & birdseed
   * Need to do some research about which kinds
+  * Please talk to me first
 
 * Picture frames
   * Specific sizes to come
