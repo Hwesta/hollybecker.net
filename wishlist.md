@@ -5,12 +5,12 @@ title: Christmabirthday Wishlist 2017
 
 <section markdown='1'>
 
-Last updated: Dec 10
+Last updated: Jan 1, 2018
 
 ### Playable
 
-* [Cat Lady](https://boardgamegeek.com/boardgame/228504/cat-lady) ([Publisher](https://alderacstore.com/cat-lady/)) $25
-* [Sail to India](https://boardgamegeek.com/boardgame/141736/sail-india) ([Amazon.ca](https://www.amazon.ca/dp/B00J1JLT6U/)) $24
+* ~~[Cat Lady](https://boardgamegeek.com/boardgame/228504/cat-lady) ([Publisher](https://alderacstore.com/cat-lady/)) $25~~
+* ~~[Sail to India](https://boardgamegeek.com/boardgame/141736/sail-india) ([Amazon.ca](https://www.amazon.ca/dp/B00J1JLT6U/)) $24~~
 * [Fairy Tale](https://boardgamegeek.com/boardgame/13823/fairy-tale) ([Starlit Citadel](https://www.starlitcitadel.com/games/fairy-tale.html)) $23
 * [Red 7](https://boardgamegeek.com/boardgame/161417/red7) ([Starlit Citadel](https://www.starlitcitadel.com/games/red-7.html)) $16
 * ~~[Five Tribes](https://boardgamegeek.com/boardgame/157354/five-tribes) ([Amazon.com](https://www.amazon.com/Days-of-Wonder-DOW-8401/dp/B00L6JDRE0/) [Starlit Citadel](https://www.starlitcitadel.com/games/five-tribes.html)) $43 USD, $85 CAD~~
@@ -28,7 +28,7 @@ Kobo doesn't let you buy someone a book, just an e-gift card.  Maybe an e-gift c
 
 ### Usable
 
-* New power brick: [Anker PowerCore 13000 C](https://www.anker.com/products/variant/-PowerCore-13000-C/A1216011) $28 USD
+* ~~New power brick: [Anker PowerCore 13000 C](https://www.anker.com/products/variant/-PowerCore-13000-C/A1216011) $28 USD~~
 * Birding Camera: Canon Powershot SX730 HS ([Costco](https://www.costco.ca/Canon-Powershot-SX730-HS-20.3-MP-Digital-Camera%2C-Black.product.100362619.html)) $550
 * Spotting Scope ~$1500
   * Please talk to me first
@@ -63,11 +63,7 @@ Kobo doesn't let you buy someone a book, just an e-gift card.  Maybe an e-gift c
 
 ### Wearable
 
-* Slippers, two pairs
-  * full foot (not just toes), easy to put on, comfortable
-  * cute (cat, fox, bird) and/or brightly colored
-  * Probably medium
-
+* ~~Slippers, two pairs~~
 * [Fox hat](http://canadacosplay.com/aviatorfoxhat.php) $35 USD
 * Or [Other fox hat](http://canadacosplay.com/fox_hat.php) $25 USD
 * Kitty ears
@@ -75,6 +71,5 @@ Kobo doesn't let you buy someone a book, just an e-gift card.  Maybe an e-gift c
   * Brown, clip on, where the clip goes front to back (perpendicular to hair falling normally)
   * Commission acceptable
   * ~$20-$50 ?
-
 
 </section>
