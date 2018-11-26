@@ -55,7 +55,7 @@ Kobo doesn't let you buy someone a book, just an e-gift card.  Maybe an e-gift c
 * [Tea Mage](https://topatoco.com/collections/red-wombat/products/rw-teamatters?variant=39883594383) print (needs frame) $14 USD
 
 * [Lifetime of Learning poster](https://shopzenpencils.com/collections/posters/products/learning) print (needs frame) $35 USD
-* [Birding is my Favorite Video Game](https://topatoco.com/collections/romo/products/romo-videogame) print (needs frame) $14 USD
+* [Animals with Misleading Names](https://topatoco.com/collections/romo/products/romo-names) print (needs frame) $14 USD
 
 ### Wearable
 
