@@ -1,15 +1,17 @@
 ---
 layout: default
-title: Christmabirthday Wishlist 2017
+title: Christmabirthday Wishlist 2018
 ---
 
 <section markdown='1'>
 
-Last updated: March 22, 2018
+Last updated: Nov 25, 2018
 
 ### Playable
 
+* [Azul](https://boardgamegeek.com/boardgame/230802/azul) $35-45
 * [Fairy Tale](https://boardgamegeek.com/boardgame/13823/fairy-tale) ([Starlit Citadel](https://www.starlitcitadel.com/games/fairy-tale.html)) $23
+* [Sidereal Confluence](https://boardgamegeek.com/boardgame/202426/sidereal-confluence-trading-and-negotiation-elysia) $70-80
 
 ### Readable
 
@@ -22,8 +24,6 @@ Kobo doesn't let you buy someone a book, just an e-gift card.  Maybe an e-gift c
 
 ### Usable
 
-* ~~New power brick: [Anker PowerCore 13000 C](https://www.anker.com/products/variant/-PowerCore-13000-C/A1216011) $28 USD~~
-* ~~Birding Camera: Canon Powershot SX730 HS ([Costco](https://www.costco.ca/Canon-Powershot-SX730-HS-20.3-MP-Digital-Camera%2C-Black.product.100362619.html)) $550~~
 * Spotting Scope $1500-$2000
   * Please talk to me first
 
@@ -31,22 +31,21 @@ Kobo doesn't let you buy someone a book, just an e-gift card.  Maybe an e-gift c
 * Loose-leaf tea
   * Yes: black, oolong, rooibos, herbal
   * Yes: unflavored
-  * Yes: flavored: fruity, sweet, chai
+  * Yes: flavored: fruity, sweet, chocolate, chai
   * No: green, hibiscus, chamomile, straight peppermint, licorice
 * Tea forté
   * [Coconut Chocolate Truffle black](https://www.teaforte.com/store/gourmet-tea/coconut-chocolate-truffle/)
   * [Sweet Orange Spice black](https://www.teaforte.com/store/gourmet-tea/sweet-orange-spice/)
   * [Blood Orange black](https://www.teaforte.com/store/gourmet-tea/blood-orange/)
   * [Bombay Chai black](https://www.teaforte.com/store/gourmet-tea/bombay-chai/)
+* [Bluebird Tea](https://birdandblendtea.com/us_en/)
+  * [Pineapple Mint](https://birdandblendtea.com/us_en/pineapple-mint.html)
+  * [Gingerbread Chai black](https://birdandblendtea.com/us_en/christmas/christmas-tea/gingerbread-chai.html)
 * Chocolate
   * dark or milk, not white
-  * Fazerina Orange Truffle milk chocolate (Finnish)
+  * [Fazerina](http://www.fazershop.com/en-US/products/11617/fazerina-100-g-chocolate-bar/) Orange Truffle milk chocolate (Finnish)
 
 ### Hangable
-
-* Birdfeeders & birdseed
-  * Need to do some research about which kinds
-  * Please talk to me first
 
 * Picture frames
   * Specific sizes to come
