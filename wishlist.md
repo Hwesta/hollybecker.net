@@ -11,7 +11,7 @@ Last updated: Nov 25, 2018
 
 * [Azul](https://boardgamegeek.com/boardgame/230802/azul) $35-45
 * [Fairy Tale](https://boardgamegeek.com/boardgame/13823/fairy-tale) ([Starlit Citadel](https://www.starlitcitadel.com/games/fairy-tale.html)) $23
-* [Sidereal Confluence](https://boardgamegeek.com/boardgame/202426/sidereal-confluence-trading-and-negotiation-elysia) $70-80
+* [Board Game Geek wishlist](https://boardgamegeek.com/wishlist/Hwesta) (Note: Some are marked as "Don't Buy This")
 
 ### Readable
 
@@ -55,6 +55,7 @@ Kobo doesn't let you buy someone a book, just an e-gift card.  Maybe an e-gift c
 * [Tea Mage](https://topatoco.com/collections/red-wombat/products/rw-teamatters?variant=39883594383) print (needs frame) $14 USD
 
 * [Lifetime of Learning poster](https://shopzenpencils.com/collections/posters/products/learning) print (needs frame) $35 USD
+* [Pyre](https://store.supergiantgames.com/products/pyre-24-x-36-poster) poster (needs frame) $20 USD
 * [Animals with Misleading Names](https://topatoco.com/collections/romo/products/romo-names) print (needs frame) $14 USD
 
 ### Wearable
