@@ -5,11 +5,14 @@ title: Christmabirthday Wishlist 2018
 
 <section markdown='1'>
 
-Last updated: Dec 4, 2018
+Last updated: Dec 12, 2018
 
 ### Playable
 
 * [Azul](https://boardgamegeek.com/boardgame/230802/azul) $35-45
+* [Sagrada](https://boardgamegeek.com/boardgame/199561/sagrada) ([Starlit Citadel](https://www.starlitcitadel.com/games/sagrada.html)) $43
+* [Kodama: The Tree Spirits](https://boardgamegeek.com/boardgame/181810/kodama-tree-spirits) ([Starlit Citadel](https://www.starlitcitadel.com/games/kodama-the-tree-spirits.html)) $22
+* [Istanbul: The Dice Game](https://www.starlitcitadel.com/games/istanbul-the-dice-game.html) ([Starlit Citadel](https://boardgamegeek.com/boardgame/235488/istanbul-dice-game)) $33
 * [Fairy Tale](https://boardgamegeek.com/boardgame/13823/fairy-tale) ([Starlit Citadel](https://www.starlitcitadel.com/games/fairy-tale.html)) $23
 * [Board Game Geek wishlist](https://boardgamegeek.com/wishlist/Hwesta) (Note: Some are marked as "Don't Buy This")
 
@@ -43,6 +46,7 @@ Kobo doesn't let you buy someone a book, just an e-gift card.  Maybe an e-gift c
   * [Gingerbread Chai black](https://birdandblendtea.com/us_en/christmas/christmas-tea/gingerbread-chai.html)
 * Chocolate
   * dark or milk, not white
+  * No: coffee, peanuts, alcohol
   * [Fazerina](http://www.fazershop.com/en-US/products/11617/fazerina-100-g-chocolate-bar/) Orange Truffle milk chocolate (Finnish)
 
 ### Hangable
@@ -53,7 +57,6 @@ Kobo doesn't let you buy someone a book, just an e-gift card.  Maybe an e-gift c
 * [Cat Tail Cup](https://topatoco.com/collections/red-wombat/products/rw-teamatters?variant=39883594895) print (needs frame) $14 USD
 * [Prairie Cup](https://topatoco.com/collections/red-wombat/products/rw-teamatters?variant=39883594575) print (needs frame) $14 USD
 * [Tea Mage](https://topatoco.com/collections/red-wombat/products/rw-teamatters?variant=39883594383) print (needs frame) $14 USD
-
 * [Lifetime of Learning poster](https://shopzenpencils.com/collections/posters/products/learning) print (needs frame) $35 USD
 * [Pyre](https://store.supergiantgames.com/products/pyre-24-x-36-poster) poster (needs frame) $20 USD
 * [Animals with Misleading Names](https://topatoco.com/collections/romo/products/romo-names) print (needs frame) $14 USD
