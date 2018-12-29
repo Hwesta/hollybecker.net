@@ -5,15 +5,14 @@ title: Christmabirthday Wishlist 2018
 
 <section markdown='1'>
 
-Last updated: Dec 12, 2018
+Last updated: Dec 29, 2018
 
 ### Playable
 
-* [Azul](https://boardgamegeek.com/boardgame/230802/azul) $35-45
 * [Sagrada](https://boardgamegeek.com/boardgame/199561/sagrada) ([Starlit Citadel](https://www.starlitcitadel.com/games/sagrada.html)) $43
-* [Kodama: The Tree Spirits](https://boardgamegeek.com/boardgame/181810/kodama-tree-spirits) ([Starlit Citadel](https://www.starlitcitadel.com/games/kodama-the-tree-spirits.html)) $22
 * [Istanbul: The Dice Game](https://www.starlitcitadel.com/games/istanbul-the-dice-game.html) ([Starlit Citadel](https://boardgamegeek.com/boardgame/235488/istanbul-dice-game)) $33
-* [Fairy Tale](https://boardgamegeek.com/boardgame/13823/fairy-tale) ([Starlit Citadel](https://www.starlitcitadel.com/games/fairy-tale.html)) $23
+* [Kodama: The Tree Spirits](https://boardgamegeek.com/boardgame/181810/kodama-tree-spirits) ([Starlit Citadel](https://www.starlitcitadel.com/games/kodama-the-tree-spirits.html)) $22
+* ~~[Fairy Tale](https://boardgamegeek.com/boardgame/13823/fairy-tale) ([Starlit Citadel](https://www.starlitcitadel.com/games/fairy-tale.html)) $23~~
 * [Board Game Geek wishlist](https://boardgamegeek.com/wishlist/Hwesta) (Note: Some are marked as "Don't Buy This")
 
 ### Readable
@@ -37,11 +36,10 @@ Kobo doesn't let you buy someone a book, just an e-gift card.  Maybe an e-gift c
   * Yes: flavored: fruity, sweet, chocolate, chai
   * No: green, hibiscus, chamomile, straight peppermint, licorice
 * Tea forté
-  * [Coconut Chocolate Truffle black](https://www.teaforte.com/store/gourmet-tea/coconut-chocolate-truffle/)
   * [Sweet Orange Spice black](https://www.teaforte.com/store/gourmet-tea/sweet-orange-spice/)
   * [Blood Orange black](https://www.teaforte.com/store/gourmet-tea/blood-orange/)
   * [Bombay Chai black](https://www.teaforte.com/store/gourmet-tea/bombay-chai/)
-* [Bluebird Tea](https://birdandblendtea.com/us_en/)
+* [Bird & Blend Tea](https://birdandblendtea.com/us_en/)
   * [Pineapple Mint](https://birdandblendtea.com/us_en/pineapple-mint.html)
   * [Gingerbread Chai black](https://birdandblendtea.com/us_en/christmas/christmas-tea/gingerbread-chai.html)
 * Chocolate
@@ -63,8 +61,6 @@ Kobo doesn't let you buy someone a book, just an e-gift card.  Maybe an e-gift c
 
 ### Wearable
 
-* [Fox hat](http://canadacosplay.com/aviatorfoxhat.php) $35 USD
-* Or [Other fox hat](http://canadacosplay.com/fox_hat.php) $25 USD
 * Kitty ears
   * Please talk to me first
   * Brown, clip on, where the clip goes front to back (perpendicular to hair falling normally)
