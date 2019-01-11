@@ -5,13 +5,13 @@ title: Christmabirthday Wishlist 2018
 
 <section markdown='1'>
 
-Last updated: Dec 29, 2018
+Last updated: Jan 10, 2019
 
 ### Playable
 
-* [Sagrada](https://boardgamegeek.com/boardgame/199561/sagrada) ([Starlit Citadel](https://www.starlitcitadel.com/games/sagrada.html)) $43
+* ~~[Sagrada](https://boardgamegeek.com/boardgame/199561/sagrada) ([Starlit Citadel](https://www.starlitcitadel.com/games/sagrada.html)) $43~~
 * [Istanbul: The Dice Game](https://www.starlitcitadel.com/games/istanbul-the-dice-game.html) ([Starlit Citadel](https://boardgamegeek.com/boardgame/235488/istanbul-dice-game)) $33
-* [Kodama: The Tree Spirits](https://boardgamegeek.com/boardgame/181810/kodama-tree-spirits) ([Starlit Citadel](https://www.starlitcitadel.com/games/kodama-the-tree-spirits.html)) $22
+* ~~[Kodama: The Tree Spirits](https://boardgamegeek.com/boardgame/181810/kodama-tree-spirits) ([Starlit Citadel](https://www.starlitcitadel.com/games/kodama-the-tree-spirits.html)) $22~~
 * ~~[Fairy Tale](https://boardgamegeek.com/boardgame/13823/fairy-tale) ([Starlit Citadel](https://www.starlitcitadel.com/games/fairy-tale.html)) $23~~
 * [Board Game Geek wishlist](https://boardgamegeek.com/wishlist/Hwesta) (Note: Some are marked as "Don't Buy This")
 
