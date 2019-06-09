@@ -5,7 +5,7 @@ title: Christmabirthday Wishlist 2018
 
 <section markdown='1'>
 
-Last updated: Apr 7, 2019
+Last updated: June 9, 2019
 
 ### Playable
 
@@ -15,14 +15,10 @@ Last updated: Apr 7, 2019
 
 Kobo doesn't let you buy someone a book, just an e-gift card.  Maybe an e-gift card for the same amount as a book?
 
+* Kobo eReader [Kobo Forma](https://ca.kobobooks.com/products/kobo-forma) or [Kobo Aura H2O](https://ca.kobobooks.com/collections/ereaders/products/kobo-aura-h2o-edition-2)
 * [Kobo gift card](https://www.kobo.com/ca/en/p/giftcards) Email: skysong.the.wise@gmail.com
 * よつばと manga in Japanese
 * 7" tablet for reading manga
-  * Please talk to me first
-
-### Usable
-
-* Spotting Scope $2000-$4000
   * Please talk to me first
 
 ### Edible & Drinkable
@@ -62,7 +58,10 @@ Kobo doesn't let you buy someone a book, just an e-gift card.  Maybe an e-gift c
 * Kitty ears
   * Please talk to me first
   * Brown, clip on, where the clip goes front to back (perpendicular to hair falling normally)
-  * Commission acceptable
-  * ~$20-$50 ?
+  * Commission or off-the-shelf
+* Solmate Socks
+  * [Element Socks Set](https://solmatesocks.com/collections/gift-packs/products/elements-gift-set) (Air, Earth, Fire, Water)
+  * [Fifth Element Crew Socks](https://solmatesocks.com/collections/crew-socks/products/fifth-element-crew-socks)
+  * [Mars Crew Socks](https://solmatesocks.com/collections/crew-socks/products/adult-crew-socks-mars)
 
 </section>
