@@ -5,21 +5,19 @@ title: Christmabirthday Wishlist 2018
 
 <section markdown='1'>
 
-Last updated: June 9, 2019
+Last updated: Oct 21, 2019
 
 ### Playable
 
 * [Board Game Geek wishlist](https://boardgamegeek.com/wishlist/Hwesta) (Note: Some are marked as "Don't Buy This")
+* Ryuutama RPG Hardcover [Amazon US](https://www.amazon.com/Ryuutama-Natural-Fantasy-Role-Play/dp/098364585X) $35 USD [Atomic Empire](https://www.atomicempire.com/Item/186881) $28 USD
 
 ### Readable
 
-Kobo doesn't let you buy someone a book, just an e-gift card.  Maybe an e-gift card for the same amount as a book?
+Kobo doesn't let you buy someone a book, just an e-gift card. I buy a lot of books from Kobo, and read the rest from the library.
 
-* Kobo eReader [Kobo Forma](https://ca.kobobooks.com/products/kobo-forma) or [Kobo Aura H2O](https://ca.kobobooks.com/collections/ereaders/products/kobo-aura-h2o-edition-2)
 * [Kobo gift card](https://www.kobo.com/ca/en/p/giftcards) Email: skysong.the.wise@gmail.com
-* よつばと manga in Japanese
-* 7" tablet for reading manga
-  * Please talk to me first
+
 
 ### Edible & Drinkable
 * Loose-leaf tea
@@ -32,12 +30,14 @@ Kobo doesn't let you buy someone a book, just an e-gift card.  Maybe an e-gift c
   * [Blood Orange black](https://www.teaforte.com/store/gourmet-tea/blood-orange/)
   * [Bombay Chai black](https://www.teaforte.com/store/gourmet-tea/bombay-chai/)
 * [Bird & Blend Tea](https://birdandblendtea.com/us_en/)
+  * [Advent Calendar](https://birdandblendtea.com/us_en/tea-advent-calendar.html) $45 USD
   * [Pineapple Mint](https://birdandblendtea.com/us_en/pineapple-mint.html)
   * [Gingerbread Chai black](https://birdandblendtea.com/us_en/christmas/christmas-tea/gingerbread-chai.html)
+  * [Chocolate Digestives](https://birdandblendtea.com/us_en/chocolate-digestives.html)
 * Chocolate
   * Yes: dark chocolate, milk chocolate
   * No: white chocolate
-  * Yes: fruity, nuts, puffed rice, honey etc
+  * Yes: fruity, nuts, puffed rice, honey, caramel etc
   * No: coffee, peanuts, alcohol
   * [Fazerina](http://www.fazershop.com/en-US/products/11617/fazerina-100-g-chocolate-bar/) Orange Truffle milk chocolate (Finnish)
 
@@ -46,15 +46,18 @@ Kobo doesn't let you buy someone a book, just an e-gift card.  Maybe an e-gift c
 * Picture frames
   * Specific sizes to come
 
+* [Bird A Day 2020 Desk Calendar (Western)](https://cornelllabpgstore.com/product/bird-a-day-2019-desk-calendar-western/) $17 USD
 * [Cat Tail Cup](https://topatoco.com/collections/red-wombat/products/rw-teamatters?variant=39883594895) print (needs frame) $14 USD
 * [Prairie Cup](https://topatoco.com/collections/red-wombat/products/rw-teamatters?variant=39883594575) print (needs frame) $14 USD
 * [Tea Mage](https://topatoco.com/collections/red-wombat/products/rw-teamatters?variant=39883594383) print (needs frame) $14 USD
 * [Lifetime of Learning poster](https://shopzenpencils.com/collections/posters/products/learning) print (needs frame) $35 USD
 * [Pyre](https://store.supergiantgames.com/products/pyre-24-x-36-poster) poster (needs frame) $20 USD
+* [Wood Warblers 4-pack](https://topatoco.com/collections/romo/products/romo-bbirds-4pack) prints (need frames) $40 USD
 * [Animals with Misleading Names](https://topatoco.com/collections/romo/products/romo-names) print (needs frame) $14 USD
 
 ### Wearable
 
+* [eBird Global Big Day shirt](https://shorepromotions.com/ebird_store/shop/product-detail/1000530) $20 USD + shipping
 * Kitty ears
   * Please talk to me first
   * Brown, clip on, where the clip goes front to back (perpendicular to hair falling normally)
