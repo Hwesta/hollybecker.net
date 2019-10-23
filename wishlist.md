@@ -5,12 +5,21 @@ title: Christmabirthday Wishlist 2018
 
 <section markdown='1'>
 
-Last updated: Oct 21, 2019
+Last updated: Oct 22, 2019
 
 ### Playable
 
 * [Board Game Geek wishlist](https://boardgamegeek.com/wishlist/Hwesta) (Note: Some are marked as "Don't Buy This")
 * Ryuutama RPG Hardcover [Amazon US](https://www.amazon.com/Ryuutama-Natural-Fantasy-Role-Play/dp/098364585X) $35 USD [Atomic Empire](https://www.atomicempire.com/Item/186881) $28 USD
+* [Xbox Design Lab controller](https://www.microsoft.com/en-ca/store/configure/Xbox-Design-Lab/900WZDF9XJVG) $92 CAD
+  * Body: Regal Purple
+  * Back: Photon Blue with Rubberized Grips
+  * Bumpers: Deep Pink
+  * Triggers: Deep Pink
+  * D-pad: Deep Pink
+  * Thumbsticks: Photon Blue
+  * ABXY: Colors on Black
+  * View & Menu: White on Black
 
 ### Readable
 
@@ -57,14 +66,16 @@ Kobo doesn't let you buy someone a book, just an e-gift card. I buy a lot of boo
 
 ### Wearable
 
-* [eBird Global Big Day shirt](https://shorepromotions.com/ebird_store/shop/product-detail/1000530) $20 USD + shipping
+Shirt size is usually straight cut (men's) XL. Shoe size is women's 8 or 9.
+
+* [eBird Global Big Day shirt (XL)](https://shorepromotions.com/ebird_store/shop/product-detail/1000530) $20 USD + shipping
 * Kitty ears
   * Please talk to me first
   * Brown, clip on, where the clip goes front to back (perpendicular to hair falling normally)
   * Commission or off-the-shelf
 * Solmate Socks
-  * [Element Socks Set](https://solmatesocks.com/collections/gift-packs/products/elements-gift-set) (Air, Earth, Fire, Water)
-  * [Fifth Element Crew Socks](https://solmatesocks.com/collections/crew-socks/products/fifth-element-crew-socks)
-  * [Mars Crew Socks](https://solmatesocks.com/collections/crew-socks/products/adult-crew-socks-mars)
+  * [Element Socks Set](https://solmatesocks.com/collections/gift-packs/products/elements-gift-set) (Air, Earth, Fire, Water) $65 USD
+  * [Fifth Element Crew Socks](https://solmatesocks.com/collections/crew-socks/products/fifth-element-crew-socks) $20 USD
+  * [Mars Crew Socks](https://solmatesocks.com/collections/crew-socks/products/adult-crew-socks-mars) $20 USD
 
 </section>
