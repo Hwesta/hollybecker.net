@@ -5,12 +5,24 @@ title: Christmabirthday Wishlist 2018
 
 <section markdown='1'>
 
-Last updated: Oct 22, 2019
+Last updated: Oct 27, 2019
+
+### Donations
+
+I have a lot of stuff, and tend to buy the things I want, so feel free to make a donation in my name to any of these organizations.
+
+* [Bird Studies Canada](https://www.birdscanada.org) - Canadian charity for bird research, citizen science, education and conservation. I'm involved with several of their citizen science programs.
+* [BC Civil Liberties Association](https://bccla.org) - Defending civil rights in Canada through education, advocacy, policy research and legal challenges.
+* [Vancouver Food Bank](https://foodbank.bc.ca) - Support for my local community.
+* [UNHCR](https://give.unhcr.ca) - Support for displaced people around the world.
+* [Lead Now](https://www.leadnow.ca) - Progressive Canadian advocacy group.
+* [Portland Hotel Society](https://www.phs.ca) - Harm reduction and housing support in Vancouver's downtown eastside.
+
 
 ### Playable
 
 * [Board Game Geek wishlist](https://boardgamegeek.com/wishlist/Hwesta) (Note: Some are marked as "Don't Buy This")
-* Ryuutama RPG Hardcover [Amazon US](https://www.amazon.com/Ryuutama-Natural-Fantasy-Role-Play/dp/098364585X) $35 USD [Atomic Empire](https://www.atomicempire.com/Item/186881) $28 USD
+* ~~Ryuutama RPG Hardcover [Amazon US](https://www.amazon.com/Ryuutama-Natural-Fantasy-Role-Play/dp/098364585X) $35 USD [Atomic Empire](https://www.atomicempire.com/Item/186881) $28 USD~~
 * [Xbox Design Lab controller](https://www.microsoft.com/en-ca/store/configure/Xbox-Design-Lab/900WZDF9XJVG) $92 CAD
   * Body: Regal Purple
   * Back: Photon Blue with Rubberized Grips
@@ -20,13 +32,6 @@ Last updated: Oct 22, 2019
   * Thumbsticks: Photon Blue
   * ABXY: Colors on Black
   * View & Menu: White on Black
-
-### Readable
-
-Kobo doesn't let you buy someone a book, just an e-gift card. I buy a lot of books from Kobo, and read the rest from the library.
-
-* [Kobo gift card](https://www.kobo.com/ca/en/p/giftcards) Email: skysong.the.wise@gmail.com
-
 
 ### Edible & Drinkable
 * Loose-leaf tea
@@ -50,6 +55,14 @@ Kobo doesn't let you buy someone a book, just an e-gift card. I buy a lot of boo
   * No: coffee, peanuts, alcohol
   * [Fazerina](http://www.fazershop.com/en-US/products/11617/fazerina-100-g-chocolate-bar/) Orange Truffle milk chocolate (Finnish)
 
+
+### Readable
+
+Kobo doesn't let you buy someone a book, just an e-gift card.
+
+* [Kobo gift card](https://www.kobo.com/ca/en/p/giftcards) Email: skysong.the.wise@gmail.com
+
+
 ### Hangable
 
 * Picture frames
@@ -59,10 +72,10 @@ Kobo doesn't let you buy someone a book, just an e-gift card. I buy a lot of boo
 * [Cat Tail Cup](https://topatoco.com/collections/red-wombat/products/rw-teamatters?variant=39883594895) print (needs frame) $14 USD
 * [Prairie Cup](https://topatoco.com/collections/red-wombat/products/rw-teamatters?variant=39883594575) print (needs frame) $14 USD
 * [Tea Mage](https://topatoco.com/collections/red-wombat/products/rw-teamatters?variant=39883594383) print (needs frame) $14 USD
-* [Lifetime of Learning poster](https://shopzenpencils.com/collections/posters/products/learning) print (needs frame) $35 USD
-* [Pyre](https://store.supergiantgames.com/products/pyre-24-x-36-poster) poster (needs frame) $20 USD
 * [Wood Warblers 4-pack](https://topatoco.com/collections/romo/products/romo-bbirds-4pack) prints (need frames) $40 USD
+* [Pyre](https://store.supergiantgames.com/products/pyre-24-x-36-poster) poster (needs frame) $20 USD
 * [Animals with Misleading Names](https://topatoco.com/collections/romo/products/romo-names) print (needs frame) $14 USD
+* [Lifetime of Learning poster](https://shopzenpencils.com/collections/posters/products/learning) print (needs frame) $35 USD
 
 ### Wearable
 
