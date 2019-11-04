@@ -81,7 +81,7 @@ Kobo doesn't let you buy someone a book, just an e-gift card.
 
 Shirt size is usually straight cut (men's) XL. Shoe size is women's 8 or 9.
 
-* [eBird Global Big Day shirt (XL)](https://shorepromotions.com/ebird_store/shop/product-detail/1000530) $20 USD + shipping
+* [eBird Global Big Day shirt (XL)](https://shorepromotions.com/ebird_store/shop/product-detail/1000530) $20 USD + shipping (Discount until 2019-11-30: LABWEAR15)
 * Kitty ears
   * Please talk to me first
   * Brown, clip on, where the clip goes front to back (perpendicular to hair falling normally)
