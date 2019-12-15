@@ -1,17 +1,17 @@
 ---
 layout: default
-title: Christmabirthday Wishlist 2018
+title: Wishlist
 ---
 
 <section markdown='1'>
 
-Last updated: Oct 27, 2019
+Last updated: Dec 15, 2019
 
 ### Donations
 
 I have a lot of stuff, and tend to buy the things I want, so feel free to make a donation in my name to any of these organizations.
 
-* [Bird Studies Canada](https://www.birdscanada.org) - Canadian charity for bird research, citizen science, education and conservation. I'm involved with several of their citizen science programs.
+* [Birds Canada](https://www.birdscanada.org) - Canadian charity for bird research, citizen science, education and conservation. I'm involved with several of their citizen science programs.
 * [BC Civil Liberties Association](https://bccla.org) - Defending civil rights in Canada through education, advocacy, policy research and legal challenges.
 * [Vancouver Food Bank](https://foodbank.bc.ca) - Support for my local community.
 * [UNHCR](https://give.unhcr.ca) - Support for displaced people around the world.
@@ -22,7 +22,8 @@ I have a lot of stuff, and tend to buy the things I want, so feel free to make a
 ### Playable
 
 * [Board Game Geek wishlist](https://boardgamegeek.com/wishlist/Hwesta) (Note: Some are marked as "Don't Buy This")
-* ~~Ryuutama RPG Hardcover [Amazon US](https://www.amazon.com/Ryuutama-Natural-Fantasy-Role-Play/dp/098364585X) $35 USD [Atomic Empire](https://www.atomicempire.com/Item/186881) $28 USD~~
+* [Legend of Zelda: Wind Waker HD (Wii U)](https://www.nintendo.com/games/detail/the-legend-of-zelda-the-wind-waker-hd-wii-u/) ~$20 CAD secondhand, cartridge not digital
+* [Eberron Campaign Setting (D&D 3.5)](https://en.wikipedia.org/wiki/Eberron_Campaign_Setting) ~$40 CAD secondhand
 * [Xbox Design Lab controller](https://www.microsoft.com/en-ca/store/configure/Xbox-Design-Lab/900WZDF9XJVG) $92 CAD
   * Body: Regal Purple
   * Back: Photon Blue with Rubberized Grips
@@ -81,7 +82,7 @@ Kobo doesn't let you buy someone a book, just an e-gift card.
 
 Shirt size is usually straight cut (men's) XL. Shoe size is women's 8 or 9.
 
-* [eBird Global Big Day shirt (XL)](https://shorepromotions.com/ebird_store/shop/product-detail/1000530) $20 USD + shipping (Discount until 2019-11-30: LABWEAR15)
+* [eBird Global Big Day shirt (XL)](https://shorepromotions.com/ebird_store/shop/product-detail/1000530) $20 USD + shipping
 * Kitty ears
   * Please talk to me first
   * Brown, clip on, where the clip goes front to back (perpendicular to hair falling normally)
