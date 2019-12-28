@@ -5,7 +5,7 @@ title: Wishlist
 
 <section markdown='1'>
 
-Last updated: Dec 19, 2019
+Last updated: Dec 28, 2019
 
 ### Donations
 
@@ -23,7 +23,6 @@ I have a lot of stuff, and tend to buy the things I want, so feel free to make a
 
 * [Board Game Geek wishlist](https://boardgamegeek.com/wishlist/Hwesta) (Note: Some are marked as "Don't Buy This")
 * [Legend of Zelda: Wind Waker HD (Wii U)](https://www.nintendo.com/games/detail/the-legend-of-zelda-the-wind-waker-hd-wii-u/) ~$20 CAD secondhand, cartridge not digital
-* ~~[Hades](https://store.steampowered.com/app/1145360/Hades/) $23 CAD~~
 * [Eberron Campaign Setting (D&D 3.5)](https://en.wikipedia.org/wiki/Eberron_Campaign_Setting) ~$40 CAD secondhand
 * [Xbox Design Lab controller](https://www.microsoft.com/en-ca/store/configure/Xbox-Design-Lab/900WZDF9XJVG) $92 CAD
   * Body: Regal Purple
@@ -83,7 +82,7 @@ Kobo doesn't let you buy someone a book, just an e-gift card.
 
 Shirt size is usually straight cut (men's) XL. Shoe size is women's 8 or 9.
 
-* [eBird Global Big Day shirt (XL)](https://shorepromotions.com/ebird_store/shop/product-detail/1000530) $20 USD + shipping
+* ~~[eBird Global Big Day shirt (XL)](https://shorepromotions.com/ebird_store/shop/product-detail/1000530) $20 USD + shipping~~
 * Kitty ears
   * Please talk to me first
   * Brown, clip on, where the clip goes front to back (perpendicular to hair falling normally)
@@ -91,6 +90,6 @@ Shirt size is usually straight cut (men's) XL. Shoe size is women's 8 or 9.
 * Solmate Socks
   * [Element Socks Set](https://solmatesocks.com/collections/gift-packs/products/elements-gift-set) (Air, Earth, Fire, Water) $65 USD
   * [Fifth Element Crew Socks](https://solmatesocks.com/collections/crew-socks/products/fifth-element-crew-socks) $20 USD
-  * [Mars Crew Socks](https://solmatesocks.com/collections/crew-socks/products/adult-crew-socks-mars) $20 USD
+  * ~~[Mars Crew Socks](https://solmatesocks.com/collections/crew-socks/products/adult-crew-socks-mars) $20 USD~~
 
 </section>
