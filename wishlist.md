@@ -5,7 +5,7 @@ title: Wishlist
 
 <section markdown='1'>
 
-Last updated: Dec 28, 2019
+Last updated: July 19, 2020
 
 ### Donations
 
@@ -45,16 +45,14 @@ I have a lot of stuff, and tend to buy the things I want, so feel free to make a
   * [Blood Orange black](https://www.teaforte.com/store/gourmet-tea/blood-orange/)
   * [Bombay Chai black](https://www.teaforte.com/store/gourmet-tea/bombay-chai/)
 * [Bird & Blend Tea](https://birdandblendtea.com/us_en/)
-  * [Advent Calendar](https://birdandblendtea.com/us_en/tea-advent-calendar.html) $45 USD
   * [Pineapple Mint](https://birdandblendtea.com/us_en/pineapple-mint.html)
-  * [Gingerbread Chai black](https://birdandblendtea.com/us_en/christmas/christmas-tea/gingerbread-chai.html)
   * [Chocolate Digestives](https://birdandblendtea.com/us_en/chocolate-digestives.html)
 * Chocolate
   * Yes: dark chocolate, milk chocolate
   * No: white chocolate
   * Yes: fruity, nuts, puffed rice, honey, caramel etc
   * No: coffee, peanuts, alcohol
-  * [Fazerina](http://www.fazershop.com/en-US/products/11617/fazerina-100-g-chocolate-bar/) Orange Truffle milk chocolate (Finnish)
+  * Fazerina Orange Truffle milk chocolate (Finnish)
 
 
 ### Readable
@@ -69,7 +67,6 @@ Kobo doesn't let you buy someone a book, just an e-gift card.
 * Picture frames
   * Specific sizes to come
 
-* [Bird A Day 2020 Desk Calendar (Western)](https://cornelllabpgstore.com/product/bird-a-day-2019-desk-calendar-western/) $17 USD
 * [Cat Tail Cup](https://topatoco.com/collections/red-wombat/products/rw-teamatters?variant=39883594895) print (needs frame) $14 USD
 * [Prairie Cup](https://topatoco.com/collections/red-wombat/products/rw-teamatters?variant=39883594575) print (needs frame) $14 USD
 * [Tea Mage](https://topatoco.com/collections/red-wombat/products/rw-teamatters?variant=39883594383) print (needs frame) $14 USD
@@ -82,14 +79,11 @@ Kobo doesn't let you buy someone a book, just an e-gift card.
 
 Shirt size is usually straight cut (men's) XL. Shoe size is women's 8 or 9.
 
-* ~~[eBird Global Big Day shirt (XL)](https://shorepromotions.com/ebird_store/shop/product-detail/1000530) $20 USD + shipping~~
 * Kitty ears
   * Please talk to me first
   * Brown, clip on, where the clip goes front to back (perpendicular to hair falling normally)
   * Commission or off-the-shelf
 * Solmate Socks
-  * [Element Socks Set](https://solmatesocks.com/collections/gift-packs/products/elements-gift-set) (Air, Earth, Fire, Water) $65 USD
-  * [Fifth Element Crew Socks](https://solmatesocks.com/collections/crew-socks/products/fifth-element-crew-socks) $20 USD
-  * ~~[Mars Crew Socks](https://solmatesocks.com/collections/crew-socks/products/adult-crew-socks-mars) $20 USD~~
-
+  * [Rainbow Crew Socks](https://solmatesocks.com/collections/crew-socks/products/rainbow-crew-socks?variant=32082276253762) $20 USD
+  * [Raspberry Crew Socks](https://solmatesocks.com/collections/crew-socks/products/adult-crew-socks-raspberry) $20 USD
 </section>
