@@ -24,15 +24,7 @@ I have a lot of stuff, and tend to buy the things I want, so feel free to make a
 * [Board Game Geek wishlist](https://boardgamegeek.com/wishlist/Hwesta) (Note: Some are marked as "Don't Buy This")
 * [Legend of Zelda: Wind Waker HD (Wii U)](https://www.nintendo.com/games/detail/the-legend-of-zelda-the-wind-waker-hd-wii-u/) ~$20 CAD secondhand, cartridge not digital
 * [Eberron Campaign Setting (D&D 3.5)](https://en.wikipedia.org/wiki/Eberron_Campaign_Setting) ~$40 CAD secondhand
-* [Xbox Design Lab controller](https://www.microsoft.com/en-ca/store/configure/Xbox-Design-Lab/900WZDF9XJVG) $92 CAD
-  * Body: Regal Purple
-  * Back: Photon Blue with Rubberized Grips
-  * Bumpers: Deep Pink
-  * Triggers: Deep Pink
-  * D-pad: Deep Pink
-  * Thumbsticks: Photon Blue
-  * ABXY: Colors on Black
-  * View & Menu: White on Black
+* ~~[Xbox Design Lab controller](https://www.microsoft.com/en-ca/store/configure/Xbox-Design-Lab/900WZDF9XJVG) $92 CAD~~
 
 ### Edible & Drinkable
 * Loose-leaf tea
