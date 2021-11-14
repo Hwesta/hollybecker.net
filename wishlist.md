@@ -5,7 +5,7 @@ title: Wishlist
 
 <section markdown='1'>
 
-Last updated: Dec 7, 2020
+Last updated: Nov 13, 2021
 
 ### Donations
 
@@ -13,8 +13,9 @@ I have a lot of stuff, and tend to buy the things I want, so feel free to make a
 
 * [Birds Canada](https://www.birdscanada.org) - Canadian charity for bird research, citizen science, education and conservation. I'm involved with several of their citizen science programs.
 * [BC Civil Liberties Association](https://bccla.org) - Defending civil rights in Canada through education, advocacy, policy research and legal challenges.
-* [Vancouver Food Bank](https://foodbank.bc.ca) - Support for my local community.
 * [UNHCR](https://give.unhcr.ca) - Support for displaced people around the world.
+* [EcoJustice](https://ecojustice.ca/) - Legal challenges for environmental causes - at-risk species, pollution, climate change.
+* [Vancouver Food Bank](https://foodbank.bc.ca) - Support for my local community.
 * [Lead Now](https://www.leadnow.ca) - Progressive Canadian advocacy group.
 * [Portland Hotel Society](https://www.phs.ca) - Harm reduction and housing support in Vancouver's downtown eastside.
 
@@ -28,13 +29,15 @@ I have a lot of stuff, and tend to buy the things I want, so feel free to make a
 ### Edible & Drinkable
 * Loose-leaf tea
   * Yes: black, oolong, rooibos, herbal
-  * Yes: unflavored
+  * No: green, chamomile, peppermint
+  * Yes: Lady Londonderry, Kambaa, Monk's Blend,
+  * No: Lapsang Souchong, Darjeeling
   * Yes: flavored: fruity, sweet, chocolate, chai
-  * No: green, hibiscus, chamomile, straight peppermint, licorice
+  * No: licorice
 * Tea forté
-  * [Sweet Orange Spice black](https://www.teaforte.com/store/gourmet-tea/sweet-orange-spice/)
-  * [Blood Orange black](https://www.teaforte.com/store/gourmet-tea/blood-orange/)
-  * [Bombay Chai black](https://www.teaforte.com/store/gourmet-tea/bombay-chai/)
+  * [Sweet Orange Spice black](https://teaforte.com/products/sweet-orange-spice-tea)
+  * [Blood Orange black](https://teaforte.com/products/blood-orange-tea)
+  * [Bombay Chai black](https://teaforte.com/products/bombay-chai-tea)
 * [Bird & Blend Tea](https://birdandblendtea.com/us_en/)
   * [Pineapple Mint](https://birdandblendtea.com/us_en/pineapple-mint.html)
   * [Chocolate Digestives](https://birdandblendtea.com/us_en/chocolate-digestives.html)
@@ -62,9 +65,9 @@ Kobo doesn't let you buy someone a book, just an e-gift card.
 * [Prairie Cup](https://topatoco.com/collections/red-wombat/products/rw-teamatters?variant=39883594575) print (needs frame) $14 USD
 * [Tea Mage](https://topatoco.com/collections/red-wombat/products/rw-teamatters?variant=39883594383) print (needs frame) $14 USD
 * [Wood Warblers 4-pack](https://topatoco.com/collections/romo/products/romo-bbirds-4pack) prints (need frames) $40 USD
-* [Pyre](https://store.supergiantgames.com/products/pyre-24-x-36-poster) poster (needs frame) $20 USD
 * [Animals with Misleading Names](https://topatoco.com/collections/romo/products/romo-names) print (needs frame) $14 USD
-* [Lifetime of Learning poster](https://shopzenpencils.com/collections/posters/products/learning) print (needs frame) $35 USD
+* [Pyre](https://store.supergiantgames.com/products/pyre-24-x-36-poster) poster (needs frame) $20 USD
+* [Lifetime of Learning poster](https://aungthan.com/store/learning) print (needs frame) $35 USD
 
 ### Wearable
 
