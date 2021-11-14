@@ -5,7 +5,7 @@ title: Wishlist
 
 <section markdown='1'>
 
-Last updated: Nov 13, 2021
+Last updated: Nov 14, 2021
 
 ### Donations
 
@@ -50,6 +50,9 @@ I have a lot of stuff, and tend to buy the things I want, so feel free to make a
 
 
 ### Readable
+
+* [To be Taught if Fortunate](https://storestock.massybooks.com/item/aN-e9fxjO81Ap3fjZFq3Jw) by Becky Chambers, this cover specifically, $23
+* [A Pocket Guide to Pigeon Watching](https://storestock.massybooks.com/item/DQv8lywhnkobo9D4e9Vsag) by Rosemary Mosco, $20
 
 Kobo doesn't let you buy someone a book, just an e-gift card.
 
