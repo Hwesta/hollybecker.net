@@ -5,7 +5,7 @@ title: Wishlist
 
 <section markdown='1'>
 
-Last updated: Nov 14, 2021
+Last updated: Feb 3, 2022
 
 ### Donations
 
@@ -47,6 +47,7 @@ I have a lot of stuff, and tend to buy the things I want, so feel free to make a
   * Yes: fruity, nuts, puffed rice, honey, caramel etc
   * No: coffee, peanuts, alcohol
   * Fazerina Orange Truffle milk chocolate (Finnish)
+* Purdy's faves: Cherry caramel, Almond burst, Chai tea caramel, Salted hazelnut flake, Cordial cherry, Lemon blackberry, Turona, Marzipan, Petit chocolat, Yuzu, Hedgehog, Mandarin
 
 
 ### Readable
@@ -64,17 +65,17 @@ Kobo doesn't let you buy someone a book, just an e-gift card.
 * Picture frames
   * Specific sizes to come
 
+* [Inspiring Owl](https://topatoco.com/collections/romo/products/romo-pygowl-pr) print (needs frame) $16 USD
 * [Cat Tail Cup](https://topatoco.com/collections/red-wombat/products/rw-teamatters?variant=39883594895) print (needs frame) $14 USD
 * [Prairie Cup](https://topatoco.com/collections/red-wombat/products/rw-teamatters?variant=39883594575) print (needs frame) $14 USD
 * [Tea Mage](https://topatoco.com/collections/red-wombat/products/rw-teamatters?variant=39883594383) print (needs frame) $14 USD
 * [Wood Warblers 4-pack](https://topatoco.com/collections/romo/products/romo-bbirds-4pack) prints (need frames) $40 USD
-* [Animals with Misleading Names](https://topatoco.com/collections/romo/products/romo-names) print (needs frame) $14 USD
 * [Pyre](https://store.supergiantgames.com/products/pyre-24-x-36-poster) poster (needs frame) $20 USD
 * [Lifetime of Learning poster](https://aungthan.com/store/learning) print (needs frame) $35 USD
 
 ### Wearable
 
-Shirt size is usually straight cut (men's) XL. Shoe size is women's 8 or 9.
+Shirt size is usually straight cut (men's) XL. Shoe size is women's 8.5 or 9.
 
 * Kitty ears
   * Please talk to me first
