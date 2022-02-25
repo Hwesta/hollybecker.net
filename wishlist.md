@@ -5,7 +5,9 @@ title: Wishlist
 
 <section markdown='1'>
 
-Last updated: Feb 3, 2022
+Last updated: Feb 24, 2022
+
+Also available on [Wishlistr](https://www.wishlistr.com/hwesta) if you want to reserve things
 
 ### Donations
 
@@ -23,7 +25,7 @@ I have a lot of stuff, and tend to buy the things I want, so feel free to make a
 ### Playable
 
 * [Board Game Geek wishlist](https://boardgamegeek.com/wishlist/Hwesta) (Note: Some are marked as "Don't Buy This")
-* [Legend of Zelda: Wind Waker HD (Wii U)](https://www.nintendo.com/games/detail/the-legend-of-zelda-the-wind-waker-hd-wii-u/) ~$20 CAD secondhand, cartridge not digital
+* Legend of Zelda: Wind Waker HD (Wii U) ~$20 CAD secondhand, cartridge not digital
 * [Eberron Campaign Setting (D&D 3.5)](https://en.wikipedia.org/wiki/Eberron_Campaign_Setting) Out of print, ~$40 CAD secondhand
 
 ### Edible & Drinkable
@@ -54,6 +56,8 @@ I have a lot of stuff, and tend to buy the things I want, so feel free to make a
 
 * [To be Taught if Fortunate](https://storestock.massybooks.com/item/aN-e9fxjO81Ap3fjZFq3Jw) by Becky Chambers, this cover specifically, $23
 * [A Pocket Guide to Pigeon Watching](https://storestock.massybooks.com/item/DQv8lywhnkobo9D4e9Vsag) by Rosemary Mosco, $20
+* [Penric's Progress](https://storestock.massybooks.com/item/rPCoGQ_-yAXYOmUKwj3new) by Lois McMaster Bujold
+* [Penric's Travels](https://storestock.massybooks.com/item/rPCoGQ_-yAVY0P4ty6Fg3w) by Lois McMaster Bujold
 
 Kobo doesn't let you buy someone a book, just an e-gift card.
 
@@ -70,7 +74,6 @@ Kobo doesn't let you buy someone a book, just an e-gift card.
 * [Prairie Cup](https://topatoco.com/collections/red-wombat/products/rw-teamatters?variant=39883594575) print (needs frame) $14 USD
 * [Tea Mage](https://topatoco.com/collections/red-wombat/products/rw-teamatters?variant=39883594383) print (needs frame) $14 USD
 * [Wood Warblers 4-pack](https://topatoco.com/collections/romo/products/romo-bbirds-4pack) prints (need frames) $40 USD
-* [Pyre](https://store.supergiantgames.com/products/pyre-24-x-36-poster) poster (needs frame) $20 USD
 * [Lifetime of Learning poster](https://aungthan.com/store/learning) print (needs frame) $35 USD
 
 ### Wearable
