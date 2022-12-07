@@ -5,7 +5,7 @@ title: Wishlist
 
 <section markdown='1'>
 
-Last updated: Feb 24, 2022
+Last updated: Dec 7, 2022
 
 Also available on [Wishlistr](https://www.wishlistr.com/hwesta) if you want to reserve things
 
@@ -26,9 +26,10 @@ I have a lot of stuff, and tend to buy the things I want, so feel free to make a
 
 * [Board Game Geek wishlist](https://boardgamegeek.com/wishlist/Hwesta) (Note: Some are marked as "Don't Buy This")
 * Legend of Zelda: Wind Waker HD (Wii U) ~$20 CAD secondhand, cartridge not digital
-* [Eberron Campaign Setting (D&D 3.5)](https://en.wikipedia.org/wiki/Eberron_Campaign_Setting) Out of print, ~$40 CAD secondhand
+
 
 ### Edible & Drinkable
+
 * Loose-leaf tea
   * Yes: black, oolong, rooibos, herbal
   * No: green, chamomile, peppermint
@@ -40,9 +41,6 @@ I have a lot of stuff, and tend to buy the things I want, so feel free to make a
   * [Sweet Orange Spice black](https://teaforte.com/products/sweet-orange-spice-tea)
   * [Blood Orange black](https://teaforte.com/products/blood-orange-tea)
   * [Bombay Chai black](https://teaforte.com/products/bombay-chai-tea)
-* [Bird & Blend Tea](https://birdandblendtea.com/us_en/)
-  * [Pineapple Mint](https://birdandblendtea.com/us_en/pineapple-mint.html)
-  * [Chocolate Digestives](https://birdandblendtea.com/us_en/chocolate-digestives.html)
 * Chocolate
   * Yes: dark chocolate, milk chocolate
   * No: white chocolate
@@ -58,6 +56,7 @@ I have a lot of stuff, and tend to buy the things I want, so feel free to make a
 * [A Pocket Guide to Pigeon Watching](https://storestock.massybooks.com/item/DQv8lywhnkobo9D4e9Vsag) by Rosemary Mosco, $20
 * [Penric's Progress](https://storestock.massybooks.com/item/rPCoGQ_-yAXYOmUKwj3new) by Lois McMaster Bujold
 * [Penric's Travels](https://storestock.massybooks.com/item/rPCoGQ_-yAVY0P4ty6Fg3w) by Lois McMaster Bujold
+* [Penric's Labors](https://storestock.massybooks.com/item/rPCoGQ_-yAWu4blgqRqwPA) by Lois McMaster Bujold
 
 Kobo doesn't let you buy someone a book, just an e-gift card.
 
@@ -66,24 +65,16 @@ Kobo doesn't let you buy someone a book, just an e-gift card.
 
 ### Hangable
 
-* Picture frames
-  * Specific sizes to come
-
+* [Wood Warblers 4-pack](https://topatoco.com/collections/romo/products/romo-bbirds-4pack) prints (need frames) $40 USD
 * [Inspiring Owl](https://topatoco.com/collections/romo/products/romo-pygowl-pr) print (needs frame) $16 USD
 * [Cat Tail Cup](https://topatoco.com/collections/red-wombat/products/rw-teamatters?variant=39883594895) print (needs frame) $14 USD
 * [Prairie Cup](https://topatoco.com/collections/red-wombat/products/rw-teamatters?variant=39883594575) print (needs frame) $14 USD
 * [Tea Mage](https://topatoco.com/collections/red-wombat/products/rw-teamatters?variant=39883594383) print (needs frame) $14 USD
-* [Wood Warblers 4-pack](https://topatoco.com/collections/romo/products/romo-bbirds-4pack) prints (need frames) $40 USD
 * [Lifetime of Learning poster](https://aungthan.com/store/learning) print (needs frame) $35 USD
+
 
 ### Wearable
 
 Shirt size is usually straight cut (men's) XL. Shoe size is women's 8.5 or 9.
 
-* Kitty ears
-  * Please talk to me first
-  * Brown, clip on, where the clip goes front to back (perpendicular to hair falling normally)
-  * Commission or off-the-shelf
-* Solmate Socks
-  * [Raspberry Crew Socks](https://solmatesocks.com/collections/crew-socks/products/adult-crew-socks-raspberry) $20 USD
 </section>
