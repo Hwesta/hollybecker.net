@@ -5,7 +5,7 @@ title: Wishlist
 
 <section markdown='1'>
 
-Last updated: Dec 7, 2022
+Last updated: Aug 3, 2023
 
 Also available on [Wishlistr](https://www.wishlistr.com/hwesta) if you want to reserve things
 
@@ -52,7 +52,7 @@ I have a lot of stuff, and tend to buy the things I want, so feel free to make a
 
 ### Readable
 
-* [To be Taught if Fortunate](https://storestock.massybooks.com/item/aN-e9fxjO81Ap3fjZFq3Jw) by Becky Chambers, this cover specifically, $23
+* [Be Sure](https://storestock.massybooks.com/item/Il6kMAbOMSdmmsZyh3BXGQ) by Seanan McGuire, $27
 * [A Pocket Guide to Pigeon Watching](https://storestock.massybooks.com/item/DQv8lywhnkobo9D4e9Vsag) by Rosemary Mosco, $20
 * [Penric's Progress](https://storestock.massybooks.com/item/rPCoGQ_-yAXYOmUKwj3new) by Lois McMaster Bujold
 * [Penric's Travels](https://storestock.massybooks.com/item/rPCoGQ_-yAVY0P4ty6Fg3w) by Lois McMaster Bujold
@@ -65,7 +65,6 @@ Kobo doesn't let you buy someone a book, just an e-gift card.
 
 ### Hangable
 
-* [Wood Warblers 4-pack](https://topatoco.com/collections/romo/products/romo-bbirds-4pack) prints (need frames) $40 USD
 * [Inspiring Owl](https://topatoco.com/collections/romo/products/romo-pygowl-pr) print (needs frame) $16 USD
 * [Cat Tail Cup](https://topatoco.com/collections/red-wombat/products/rw-teamatters?variant=39883594895) print (needs frame) $14 USD
 * [Prairie Cup](https://topatoco.com/collections/red-wombat/products/rw-teamatters?variant=39883594575) print (needs frame) $14 USD
