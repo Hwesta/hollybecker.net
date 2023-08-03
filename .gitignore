@@ -6,3 +6,4 @@ vendor
 .jekyll-cache
 bin
 images/uncommitted
+albums/
