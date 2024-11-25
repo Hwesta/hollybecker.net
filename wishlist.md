@@ -5,7 +5,7 @@ title: Wishlist
 
 <section markdown='1'>
 
-Last updated: Dec 28, 2023
+Last updated: Nov 24, 2024
 
 Also available on [Wishlistr](https://www.wishlistr.com/hwesta) if you want to reserve things
 
@@ -18,27 +18,29 @@ I have a lot of stuff, and tend to buy the things I want, so feel free to make a
 * [UNHCR](https://give.unhcr.ca) - Support for displaced people around the world.
 * [EcoJustice](https://ecojustice.ca/) - Legal challenges for environmental causes - at-risk species, pollution, climate change.
 * [Lead Now](https://www.leadnow.ca) - Progressive Canadian advocacy group.
-* [Portland Hotel Society](https://www.phs.ca) - Harm reduction and housing support in Vancouver's downtown eastside.
 
 
-### Playable
+### Crafting
+
+* Yarn swift - [like this](https://www.urbanyarns.com/estelle-blue-swift/), $50
+* Ball winder - [like this](https://www.baaadannas.store/estelle-blue-yarn-winder.html) or [this](https://www.baaadannas.store/knitters-pride-wool-winder.html), $50-70
+
+
+### Games
 
 * [Board Game Geek wishlist](https://boardgamegeek.com/wishlist/Hwesta) (Note: Some are marked as "Don't Buy This")
 * Legend of Zelda: Wind Waker HD (Wii U) ~$20 CAD secondhand, cartridge not digital
-* Animal Crossing (Nintendo Switch) - cartridge not digital
 
-### Edible & Drinkable
+
+### Tasty
 
 * Loose-leaf tea
-  * Yes: black, oolong, rooibos, herbal
-  * No: green, matcha, chamomile, peppermint
+  * Yes: black, oolong, herbal
+  * No: green, matcha, chamomile, peppermint, rooibos
   * Yes: Lady Londonderry, Kambaa, Monk's Blend, Asaam
   * No: Lapsang Souchong, Darjeeling
   * Yes: flavored: fruity, sweet, chocolate, chai
   * No: licorice
-* Tea forté
-  * [Sweet Orange Spice black](https://teaforte.com/products/sweet-orange-spice-tea)
-  * [Bombay Chai black](https://teaforte.com/products/bombay-chai-tea)
 * Chocolate
   * Yes: dark chocolate, milk chocolate
   * No: white chocolate
@@ -46,11 +48,9 @@ I have a lot of stuff, and tend to buy the things I want, so feel free to make a
   * No: coffee, peanuts, alcohol, matcha
   * Fazerina Orange Truffle milk chocolate (Finnish)
 * Purdy's faves: Cherry caramel, Almond burst, Chai tea caramel, Salted hazelnut flake, Cordial cherry, Lemon blackberry, Turona, Marzipan, Petit chocolat, Yuzu, Hedgehog, Mandarin
-*
 
-### Readable
 
-* [Kobo gift card](https://www.kobo.com/ca/en/p/giftcards) Email: skysong.the.wise@gmail.com
+### Books
 
 I'd love to have paper copies of these books!
 
@@ -60,9 +60,10 @@ I'd love to have paper copies of these books!
 * [Penric's Travels](https://storestock.massybooks.com/item/rPCoGQ_-yAVY0P4ty6Fg3w) by Lois McMaster Bujold
 * [Penric's Labors](https://storestock.massybooks.com/item/rPCoGQ_-yAWu4blgqRqwPA) by Lois McMaster Bujold
 * [Vancouver tree book](https://storestock.massybooks.com/item/uhgRg_OtpjXDOTbYTMXerg)
+* [Imperial Radch trilogy](https://storestock.massybooks.com/item/2-gUryvjjJ-RlB-gzl2h1A) by Ann Leckie, $70
 
 
-### Hangable
+### Art
 
 * [Inspiring Owl](https://topatoco.com/collections/romo/products/romo-pygowl-pr) $16 USD
 * [Cat Tail Cup](https://topatoco.com/collections/red-wombat/products/rw-teamatters?variant=39883594895) $14 USD
@@ -71,10 +72,10 @@ I'd love to have paper copies of these books!
 * [Lifetime of Learning poster](https://aungthan.com/store/learning) $35 USD
 
 
-### Wearable
+### Clothing
 
 Shirt size is usually straight cut (men's) XL. Shoe size is women's 8.5 or 9.
 
-* Lap-sized electric blanket
+* Flannel sheets with holly pattern on them, Queen sized
 
 </section>
