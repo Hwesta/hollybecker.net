@@ -5,7 +5,7 @@ title: Wishlist
 
 <section markdown='1'>
 
-Last updated: Oct 22, 2025
+Last updated: Dec 2, 2025
 
 Also available on [Wishlistr](https://www.wishlistr.com/hwesta) if you want to reserve things
 
@@ -62,7 +62,6 @@ I'd love to have paper copies of these books!
 * [Penric's Travels](https://storestock.massybooks.com/item/rPCoGQ_-yAVY0P4ty6Fg3w) by Lois McMaster Bujold
 * [Penric's Labors](https://storestock.massybooks.com/item/rPCoGQ_-yAWu4blgqRqwPA) by Lois McMaster Bujold
 * [Imperial Radch trilogy](https://storestock.massybooks.com/item/2-gUryvjjJ-RlB-gzl2h1A) by Ann Leckie, $70
-* [The Birding Dictionary](https://www.hachettebookgroup.com/titles/rosemary-mosco/the-birding-dictionary/9781523525355/) by Rosemary Mosco
 
 
 ### Art
@@ -78,7 +77,5 @@ I'd love to have paper copies of these books!
 Shirt size is usually straight cut (men's) XL. Shoe size is women's 8.5 or 9.
 
 No teacups, I have too many already.
-
-* Flannel sheets with holly pattern on them, queen sized
 
 </section>
