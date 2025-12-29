@@ -6,7 +6,7 @@ title: Blog posts
 <section>
     <h3>{{ post.title }}</h3>
 
-    <p>{{ post.date | date: "%B %-d, %Y"}}</p>
+    <p class="blog-meta">posted on {{ post.date | date: "%B %-d, %Y"}}</p>
 
     <p>{{ post.excerpt }} <a href="{{ post.url | prepend: site.baseurl }}">Continue</a></p>
 

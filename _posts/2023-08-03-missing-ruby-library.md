@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: blog-post
 title: The case of the missing 32-bit Ruby package
 summary: On a 32-bit Arch server I recently started getting a LoadError from Ruby when importing date_core, even though the package was installed. Where did it go and why is this happening?
 excerpt: On a 32-bit Arch server I recently started getting a LoadError from Ruby when importing date_core, even though the package was installed. Where did it go and why is this happening?

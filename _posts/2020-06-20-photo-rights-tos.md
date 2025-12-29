@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: blog-post
 title: Photo rights & Terms of Service
 summary: In the world of Terms of Service & copyright licenses, it's amazing how much difference a couple words can mean.
 excerpt: I take a lot of bird photos, and while I enjoy uploading them to eBird for inclusion in their scientific collection, I also like showing them off to friends. However, I also know social media sites are infamous for their aggressive rights grabs on user content, so I read several Terms of Service trying to figure out which was least-bad for uploading photos to, including Dreamwidth, Flickr, Twitter & Facebook.

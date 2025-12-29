@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: blog-post
 title: <ruby>邪魔<rp> (</rp><rt>じゃま</rt><rp>)</rp></ruby> and cats
 summary: Cats are the definition of obstructionist.
 excerpt: The other day I came across <ruby>邪魔<rt>jyama</rt></ruby> and googled it to find out the meaning and came across... pictures of cats on keyboards?

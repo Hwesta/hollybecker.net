@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: blog-post
 title: How to buy Japanese books (from Kobo)
 summary: I managed to exchange money for books in Japanese! With a dedicated Kobo eReader and a Rakuten ID, I bought Japanese language books and synced them to the eReader.
 excerpt: I've found it very hard to buy Japanese language media from outside Japan, and ebooks in particular are hard to find in other ways. I have an eReader I like reading on, which means I don't want to use the bookseller's mobile app to read a book, which cuts out most of the options. My eReader is made by Kobo, which is owned by Rakuten, which is a Japanese company. This should be easy!

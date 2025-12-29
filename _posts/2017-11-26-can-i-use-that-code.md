@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: blog-post
 title: Can I Use That Code? Software licences as a user
 summary: Software licences are fascinating, complicated and important.
 excerpt: I gave a talk on software licences at PyCon Canada.  Software licences are fantastic complicated and important, enabling the whole open source community. Also, just because code is on the internet doesn't mean you can use it!
@@ -126,4 +126,3 @@ But most of all, **remember to check the licence!** Just because code is on the 
 
 [^1]:
     When making this talk I got to learn the difference between licence (with a c) and license (with an s).  In American English, they only use license.  In non-American English, licence is the noun (think advi**c**e) and license is the verb (think advi**s**e).  [Grammarist](http://grammarist.com/spelling/licence-license/) has a good explanation.
-
