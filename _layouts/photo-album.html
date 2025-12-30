@@ -1,0 +1,15 @@
+---
+layout: bare
+---
+<style>
+    :root {
+        --container-width-large-screen: 1000px;
+    }
+</style>
+
+<hgroup>
+    <h2>{{ page.title }}</h2>
+    <p class="blog-meta">{% if page.attendees %}{{page.attendees}}, {% endif %}{{ page.start_date | date: "%B %-d, %Y" }} - {{ page.end_date | date: "%B %-d, %Y" }}</p>
+</hgroup>
+
+{{ content }}

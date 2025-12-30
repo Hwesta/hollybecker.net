@@ -194,3 +194,31 @@ pre>code {
     padding: 0.5rem 1rem;
     white-space: pre;
 }
+
+/* Image gallery */
+
+div.image-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: normal;
+    /* border: 1px solid red; */
+    margin: 0;
+    padding: 0;
+
+    figure {
+        flex: 1 0 0%;
+        /* border: 1px solid blue; */
+        margin: 0.5rem;
+        padding: 0;
+        text-align: center;
+
+        img {
+            object-fit: scale-down;
+            /* border: 1px solid green; */
+            max-height: 550px;
+            min-width: 300px;
+            max-width: 100%;
+        }
+    }
+}
