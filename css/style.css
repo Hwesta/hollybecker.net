@@ -3,6 +3,7 @@
 :root {
     /* Colors */
     --light-grey: #e1e1e1;
+    --medium-grey: #aaa;
     --dark-grey: #333;
     --primary-color: #4161a1;
     --secondary-color: #555;
@@ -207,7 +208,7 @@ div.image-gallery {
     padding: 0;
 
     figure {
-        flex: 1 0 0%;
+        flex: 1;
         /* border: 1px solid blue; */
         margin: 0.5rem;
         padding: 0;
@@ -216,9 +217,33 @@ div.image-gallery {
         img {
             object-fit: scale-down;
             /* border: 1px solid green; */
-            max-height: 550px;
+            max-height: 800px;
             min-width: 300px;
             max-width: 100%;
         }
     }
+}
+
+.mapbox {
+    margin: 0 auto;
+    width: 100%;
+    max-width: calc(var(--container-width-large-screen) / 2);
+    border: 1px var(--primary-color) solid;
+}
+
+.mapbox>div {
+    margin: 2px;
+}
+
+.mapbox>figcaption {
+    background-color: var(--primary-color);
+    color: white;
+    font-style: italic;
+    padding: 2px;
+    margin: 2px;
+    text-align: center;
+}
+
+.map {
+    height: 300px;
 }
