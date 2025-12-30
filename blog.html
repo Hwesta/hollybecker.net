@@ -4,11 +4,11 @@ title: Blog posts
 ---
 {% for post in site.posts %}
 <section>
-    <h3>{{ post.title }}</h3>
+    <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
 
     <p class="blog-meta">posted on {{ post.date | date: "%B %-d, %Y"}}</p>
 
-    <p>{{ post.excerpt }} <a href="{{ post.url | prepend: site.baseurl }}">Continue</a></p>
+    <p>{{ post.excerpt }}</p>
 
 </section>
 {% endfor %}
