@@ -17,8 +17,8 @@ While most of the content can be found elsewhere on the internet, I know many pe
 
 
 [talk]: {{ "talks" | relative_url }}
-[PyConCA]: https://2017.pycon.ca/schedule/18/
-[PyCascades]: https://www.pycascades.com/talks/can-i-use-that-code-software-licences-as-a-user/
+[PyConCA]: https://2017.pycon.ca/en/schedule/18/
+[PyCascades]: https://2018.pycascades.com/talks/can-i-use-that-code-software-licences-as-a-user/
 
 </section>
 
