@@ -1,0 +1,11 @@
+{% extends "layout.html" %}
+
+{% block title %}{{ this.title }}{% endblock %}
+{% block body %}
+<h2>Trip Photo Albums</h2>
+<ul>
+    {% for child in this.pagination.items %}
+    <li><a href="{{child|url}}">{{child.title}}</a> <i>{{child.start_date}} - {{child.end_date}}</i></li>
+    {% endfor %}
+</ul>
+{% endblock %}

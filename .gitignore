@@ -5,5 +5,5 @@ _site
 vendor
 .jekyll-cache
 bin
-images/uncommitted
-albums/
+_uncommitted
+resume

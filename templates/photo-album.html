@@ -1,0 +1,40 @@
+{% extends "layout.html" %}
+{% block title %}Trip photo album - {{ this.title | striptags }}{% endblock %}
+{% if this.summary %}
+{% block summary %}{{ this.summary }}{% endblock %}
+{% endif %}
+
+{% block extra_head %}
+<style>
+    :root {
+        --container-width-large-screen: 1000px;
+    }
+</style>
+
+<!-- Leaflet start -->
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
+<!-- Make sure you put this AFTER Leaflet's CSS -->
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo=" crossorigin=""></script>
+<script>
+    var mapboxUrl = 'https://tile.openstreetmap.org/{z}/{x}/{y}.png';
+    var mapboxAttribution = '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors';
+
+    const mapbox = (map) => {
+        return L.tileLayer(mapboxUrl, {
+            attribution: mapboxAttribution,
+        }).addTo(map)
+    };
+</script>
+
+<!-- Leaflet end -->
+{% endblock %}
+
+{% block body %}
+<hgroup>
+    <h2>{{ this.title }}</h2>
+    <p class="blog-meta">{% if this.attendees %}{{this.attendees}}, {% endif %}{{ this.start_date | dateformat('medium') }} - {{ this.end_date | dateformat('medium') }}</p>
+</hgroup>
+
+{{ this.body }}
+{% endblock %}

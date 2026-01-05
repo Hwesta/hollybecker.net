@@ -1,0 +1,579 @@
+title: Family trip to Huatulco, Mexico
+---
+attendees: with my parents and brother
+---
+body:
+
+<figure class="mapbox map-journey">
+    <div id="map-49.2827291--123.12073749999999-15.830949299999999--96.31990809999999" class="map"></div>
+    <figcaption>Vancouver to Santa María Huatulco</figcaption>
+</figure>
+
+<script>
+
+    var src_lat = 49.2827291;
+    var src_lon = -123.12073749999999;
+    var dst_lat = 15.830949299999999;
+    var dst_lon = -96.31990809999999;
+
+    var map = L.map('map-49.2827291--123.12073749999999-15.830949299999999--96.31990809999999', {
+        zoomSnap: 0.5
+    });
+
+    mapbox(map);
+
+    L.marker([src_lat, src_lon]).addTo(map);
+    L.marker([dst_lat, dst_lon]).addTo(map);
+
+    var polyline = L.polyline([[src_lat, src_lon], [dst_lat, dst_lon]], { color: 'red' }).addTo(map);
+
+    // zoom the map to the polyline
+    map.fitBounds(polyline.getBounds());
+
+</script>
+<p>We had a direct flight from Vancouver to Huatulco, which was convenient. Nice views flying over the gulf islands too.</p>
+<div class='image-gallery'>
+    <figure>
+        <img src="BZ0mFbG4Liu2sBHcGHuoNjXQUVc.jpg" alt="TODO">
+    </figure>
+</div>
+<figure class="mapbox map-location">
+    <div id="map-15.765422899999999--96.1001048" class="map"></div>
+    <figcaption>Las Brisas Huatulco</figcaption>
+</figure>
+
+<script>
+    var lat = 15.765422899999999;
+    var lon = -96.1001048;
+
+    var map = L.map('map-15.765422899999999--96.1001048', {
+        center: [lat, lon],
+        zoom: 14
+    });
+    mapbox(map);
+
+    L.marker([lat, lon]).addTo(map);
+</script>
+
+<p>We had a fantastic view from our balcony</p>
+<div class='image-gallery'>
+    <figure>
+        <img src="89Nfx-ASubghEpnwxP-7mryZTK8.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="JLp8TkhgTXA0PaSYcAkWCbMGRDI.jpg" alt="TODO">
+    </figure>
+</div>
+<p>The rest of the resort was also lovely.</p>
+<div class='image-gallery'>
+    <figure>
+        <img src="ebj_P7bgALqblek8rDj-7G3Jqtw.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="tsxyN77tE9vX4dDgIIEPk5R5OLw.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="CLh8M7bMtX9F8p4l_EG-Ot_4-bQ.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="JI_RBwvh2f4GZq2Uu5y_z4JNKZY.jpg" alt="TODO">
+    </figure>
+</div>
+<p>My favorite part were the little carts that would drive you all over the resort.</p>
+<div class='image-gallery'>
+    <figure>
+        <img src="oN3Tm-xyVHdXispgVb2_ziOa7XQ.jpg" alt="TODO">
+    </figure>
+</div>
+<p>Entertainment include belly dancers and flaming poi!</p>
+<div class='image-gallery'>
+    <figure>
+        <img src="P3xV2p0UtW2KxAFCtzgMHYNsEQQ.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="NeVdDgnykvHbE5vnQV9LjS2q_uo.jpg" alt="TODO">
+    </figure>
+</div>
+<p>If you tipped the cleaning staff, you got elaborate bed decorations.</p>
+<div class='image-gallery'>
+    <figure>
+        <img src="0ik18PVKfakjVTd_6uSqJWbjcYc.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="dNrY9NocrWPQpKHmM8MrMdEybbI.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="vrLtU7WNZBAR5GFLEupdrX4TaFU.jpg" alt="TODO">
+    </figure>
+</div>
+<p>They also set up elaborate romantic dinners on the beach in the evening, complete with candles and flowers strewn about the beach.</p>
+<div class='image-gallery'>
+    <figure>
+        <img src="mtsnnVXfK4We80vpVqpMjG2UL_M.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="2LjhcDmw131an3wWGszzULQo6b4.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="8Hgaql20wJfYOzEU8kCDmhK-7Ds.jpg" alt="TODO">
+    </figure>
+</div>
+<p>The food was nothing special, but I really enjoyed the pineapples! My most practiced phrase was "jugo de piña por favor". This was my fanciest dinner (in town).</p>
+<div class='image-gallery'>
+    <figure>
+        <img src="hOBOYn8wkNxJvUand0wXuyIdxdM.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="uN3ridBbt84WqAqcCBKS8bdkKzw.jpg" alt="TODO">
+    </figure>
+</div>
+<p>Most of our snorkelling was done off of these two beaches: Ventura & Secreta</p>
+<div class='image-gallery'>
+    <figure>
+        <img src="rVolYdADphk57cNPqe2T4bDPVfU.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="OTd0qQYn5OCCg4ayZ-X2g0VTtzs.jpg" alt="TODO">
+    </figure>
+</div>
+<p>We went snorkelling a lot, and my camera is waterproof!
+    (Warning: lots of snorkelling photos...)</p>
+<div class='image-gallery'>
+    <figure>
+        <img src="ACoYZxaX3YyEIZlR-iy_ac5czJE.jpg" alt="TODO">
+    </figure>
+</div>
+<p>We saw whole schools of fish...</p>
+<div class='image-gallery'>
+    <figure>
+        <img src="GPc_z6zicTKitp_Tx71UY9dXWSs.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="yNzI4-tWqmBgW91uRbDCdXptDAQ.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="lL8DZwlpzhVvoNIC87P72gzND5g.jpg" alt="TODO">
+    </figure>
+</div>
+<p>Small fish...</p>
+<div class='image-gallery'>
+    <figure>
+        <img src="bFwqblXIn2EYUn1Q3ZW73ptyw4I.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="3JgePXIS19b5hvvKeAmSJj67FN0.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="9K0Dp90uSDOkMnRohrhF4HC1qVk.jpg" alt="TODO">
+    </figure>
+</div>
+<p>Blue fish...</p>
+<div class='image-gallery'>
+    <figure>
+        <img src="lHE4cUREuD4FCNvjd0M-JInB7Yc.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="oPohVhXPRo6kdfq4UVXApT3Z_XM.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="WbOPvgSQX6WeDDdPI0T1KwaPxn4.jpg" alt="TODO">
+    </figure>
+</div>
+<p>Long fish...</p>
+<div class='image-gallery'>
+    <figure>
+        <img src="Acjl6suK3pmjBO6miohr1wpXWk.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="Ob5eeBtPETPTuml58QQQxygosL0.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="ghmI6uc0s4xIRzoaN6-i6i1oWJ8.jpg" alt="TODO">
+    </figure>
+</div>
+<p>Spotted fish...</p>
+<div class='image-gallery'>
+    <figure>
+        <img src="wKmU2nqNNMIylS_rAnFpM85XNO0.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="3Zwfu33KT8LTcGfc1m5AEm2qL0I.jpg" alt="TODO">
+    </figure>
+</div>
+<p>Angel fish...</p>
+<div class='image-gallery'>
+    <figure>
+        <img src="N4bVtilqWqi0o3Qr0xWdvUuFTOs.jpg" alt="TODO">
+    </figure>
+</div>
+<p>Lots of other fish...</p>
+<div class='image-gallery'>
+    <figure>
+        <img src="Y0PutlfvmahTm8CdHLzh6bR9RKk.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="R0JrIykVkLH8a371_x3qD5x666A.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="B9e8hEH0JK3biHmO0wUtdRPrN-Q.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="SarfSb4E9vLQ3ush7nkITejfNDc.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="MZukU7b0-JGIYHnKxsTalHmjBbA.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="nAo0LfqopGq7ncay06qVYYvElWs.jpg" alt="TODO">
+    </figure>
+</div>
+<p>An eel...</p>
+<div class='image-gallery'>
+    <figure>
+        <img src="6S5RM7aFTe81njLQXZV5qwK-Dek.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="ZXlOdB2eIqZXhgAGldNaFeQQKqI.jpg" alt="TODO">
+    </figure>
+</div>
+<p>And people-fish!</p>
+<div class='image-gallery'>
+    <figure>
+        <img src="LcRQ23xk88KonTJx3IPTsMTE2Do.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="KKr-v3eGPTCfL4yhPtt9OeFjB5M.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="E9A7-a4P_PS_P-Q5-S1mpJ9KHKY.jpg" alt="TODO">
+    </figure>
+</div>
+<p>We also explored the lovely waters of the bay...</p>
+<div class='image-gallery'>
+    <figure>
+        <img src="0roinBFVm099J1EsCkJvqKjC9A.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="Sh1V6qNjHo-dMNEVIGSUVkvyqi0.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="ejhre-jmFydAbqq1-3w9g8-7E4Y.jpg" alt="TODO">
+    </figure>
+</div>
+<p>...by kayak...</p>
+<div class='image-gallery'>
+    <figure>
+        <img src="PU2GVs_6BZcF3bs9iSvcJ08t01o.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="vZP0wJ6e2SA1sYoGv6gC_GThQQI.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="d6C0jQayecfb0k2GPYSJ1EdTQbo.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="wSwsxWd9ekxg1o53wHN3ncO8_qc.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="U5AUc8l-KAbTWoKEJxSP1_VMsRs.jpg" alt="TODO">
+    </figure>
+</div>
+<p>...by sailboat...</p>
+<div class='image-gallery'>
+    <figure>
+        <img src="mY4HDNgIunJ5xyV0siC05wemQAc.jpg" alt="TODO">
+    </figure>
+</div>
+<p>(my toenails matched the boat)</p>
+<div class='image-gallery'>
+    <figure>
+        <img src="m65fCjZuKjeuFJDXFvEXCgiHtuw.jpg" alt="TODO">
+    </figure>
+</div>
+<p>...and by paddleboard.</p>
+<div class='image-gallery'>
+    <figure>
+        <img src="6JkVcrrhZDswO-Z2y57dNDWP5kc.jpg" alt="TODO">
+    </figure>
+</div>
+<p>This guy swam in from his boat holding a plate of fresh oysters for sale.</p>
+<div class='image-gallery'>
+    <figure>
+        <img src="jz3kF7k-vbl-Srjmf4hOBLXZQig.jpg" alt="TODO">
+    </figure>
+</div>
+<p>There were also lots of other critters around</p>
+<p>Iguanas sunning themselves</p>
+<div class='image-gallery'>
+    <figure>
+        <img src="VNWMJK4Q5Z_mRb12_uqCYlEA37A.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="QS41HZ_D-7JHi6ve5I40lMHv8rE.jpg" alt="TODO">
+    </figure>
+</div>
+<p>Andrew tried to befriend one.</p>
+<div class='image-gallery'>
+    <figure>
+        <img src="TlLbOi2uh36PaDYlfb9z_595AZY.jpg" alt="TODO">
+    </figure>
+</div>
+<p>Grey squirrels with a red head and belly</p>
+<div class='image-gallery'>
+    <figure>
+        <img src="XLI_xWbKxa5Hyb_1OcnDZBiPXLQ.jpg" alt="TODO">
+    </figure>
+</div>
+<p>Ants marching across the stairs to our room</p>
+<div class='image-gallery'>
+    <figure>
+        <img src="gkAUPNLZp7lPrxf913qcqM3zOcA.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="p2c4FYWLbV5FtOT2haIMair-cU4.jpg" alt="TODO">
+    </figure>
+</div>
+<p>A termite nest</p>
+<div class='image-gallery'>
+    <figure>
+        <img src="qCYa60QJ3f0tKtpzGh8KS3HsQnk.jpg" alt="TODO">
+    </figure>
+</div>
+<p>Lots of birds around the resort: grackles, jays, vultures, something not in English...</p>
+<div class='image-gallery'>
+    <figure>
+        <img src="9RRA3fu13xfGHoGvSqGtU9qHa5U.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="f-Yx2SZSQ_ujCtFurqKvUKFEGbQ.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="EhcttVUS9tD8D5nT2a9jXM0abT8.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="iK-pmQYVn60j17OW6ZtYMB5KPDw.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="lOQO_kW8vtnl3_dLqvB5m0RDDxQ.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="hzDTXpGrr_PHwqzwofgX7RSwylY.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="jWDTT_gFc4gpg53z0xmpuL3fVKc.jpg" alt="TODO">
+    </figure>
+</div>
+<p>On the morning birdwatching tour, the highlights were the grey hawk and the peregrine falcon.</p>
+<div class='image-gallery'>
+    <figure>
+        <img src="SddwF4XIpGb2UsHLNlbFlWKq8V8.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="xNS8uMFs5btq6Cg1uq4zzW2skXY.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="j_XF-qsJEn7jrtsl9gg7eZjtIVo.jpg" alt="TODO">
+    </figure>
+</div>
+<p>And some people</p>
+<div class='image-gallery'>
+    <figure>
+        <img src="meGfehwE1pyOxYwPkCW7yM7rejg.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="Mexr7CCViWdi71-cLWXPnnCe5PI.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="mQSl22plIqxAqrGPIMwjaeHpz64.jpg" alt="TODO">
+    </figure>
+</div>
+<figure class="mapbox map-journey">
+    <div id="map-15.765422899999999--96.1001048-15.7691974--96.134143" class="map"></div>
+    <figcaption>Las Brisas Huatulco to Crucecita</figcaption>
+</figure>
+
+<script>
+    var src_lat = 15.765422899999999;
+    var src_lon = -96.1001048;
+    var dst_lat = 15.7691974;
+    var dst_lon = -96.134143;
+
+    var map = L.map('map-15.765422899999999--96.1001048-15.7691974--96.134143', {
+        zoomSnap: 0.5
+    });
+    mapbox(map);
+
+    L.marker([src_lat, src_lon]).addTo(map);
+    L.marker([dst_lat, dst_lon]).addTo(map);
+    var polyline = L.polyline([[src_lat, src_lon], [dst_lat, dst_lon]], { color: 'red' }).addTo(map);
+
+    // zoom the map to the polyline
+    map.fitBounds(polyline.getBounds());
+</script>
+<p>We went into town to see the sights. It was totally dead during the day, and a party in the evening.</p>
+<div class='image-gallery'>
+    <figure>
+        <img src="0griBl0fF-leRP6TThqOAPTKfQo.jpg" alt="TODO">
+    </figure>
+</div>
+<p>Of course I found the Japanese fan shop in town.</p>
+<div class='image-gallery'>
+    <figure>
+        <img src="diz_uqiMRZsfhRYASCdOqzuYFDQ.jpg" alt="TODO">
+    </figure>
+</div>
+<p>The local art style includes lots of bright colors and patterns - I loved it!</p>
+<div class='image-gallery'>
+    <figure>
+        <img src="xQlCPevrQ32N-OSdc4W34M7f0pQ.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="LjG8SVT_gXLW8JbiU8R09VYK2IE.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="3VLUQ4jQyWaXOhRuE-Gw5NgDZes.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="BdRj5Y_1Pt63r8EftHUH9E2I4Bo.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="PUvaqw-W5-uE4gnYe1uufzY_jj0.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="BtWpaJ0Ut7aU7cytRmBK2Xy0dOA.jpg" alt="TODO">
+    </figure>
+</div>
+<p>The most impressive piece was this lion head that was big enough to eat me</p>
+<div class='image-gallery'>
+    <figure>
+        <img src="O5SfjKGugLcXYGuQt0ERFTWgEh0.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="UGTg6ewErCeHiQtZA3NcwkJ3AHY.jpg" alt="TODO">
+    </figure>
+</div>
+<p>I liked it so much, I bought a frog to match my geckos from La Paz!</p>
+<div class='image-gallery'>
+    <figure>
+        <img src="J-TC1U69R1SHEqYgVpPaA3jOkSk.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="cxF0Ws_pnfaCW8N8Y0maQpV4yf4.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="QWKYrB7ohknrUyuDd9NnrKbOue4.jpg" alt="TODO">
+    </figure>
+</div>
+<figure class="mapbox map-journey">
+    <div id="map-15.765422899999999--96.1001048-15.7489259--96.4672856" class="map"></div>
+    <figcaption>Las Brisas Huatulco to San Pedro Pochutla</figcaption>
+</figure>
+
+<script>
+    var src_lat = 15.765422899999999;
+    var src_lon = -96.1001048;
+    var dst_lat = 15.7489259;
+    var dst_lon = -96.4672856;
+
+    var map = L.map('map-15.765422899999999--96.1001048-15.7489259--96.4672856', {
+        zoomSnap: 0.5
+    });
+    mapbox(map);
+
+    L.marker([src_lat, src_lon]).addTo(map);
+    L.marker([dst_lat, dst_lon]).addTo(map);
+    var polyline = L.polyline([[src_lat, src_lon], [dst_lat, dst_lon]], { color: 'red' }).addTo(map);
+
+    // zoom the map to the polyline
+    map.fitBounds(polyline.getBounds());
+</script>
+<p>Mom and I took a trip to Pochutla, a nearby town, for their market day.</p>
+<div class='image-gallery'>
+    <figure>
+        <img src="WVPqmLtTmzgtXEtSxujSNAZ5EWU.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="5JlIZWQIj_K4CQF76BM4CjDn76E.jpg" alt="TODO">
+    </figure>
+</div>
+<p>The bathrooms were more exciting than at the resort: this is the museum's bathroom, missing a toilet seat, soap and toilet paper.</p>
+<div class='image-gallery'>
+    <figure>
+        <img src="-iQJrx9PTJ_rxwTb_f8ZP5A4BS0.jpg" alt="TODO">
+    </figure>
+</div>
+<p>These were the best bananas I've ever eaten! One was a 'pineapple banana' - very sweet.</p>
+<div class='image-gallery'>
+    <figure>
+        <img src="H-vCyXscGfONLNiyPYrrFCsfRYw.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="lsHBPZdegoYbZV1jCX7xg_-mSJk.jpg" alt="TODO">
+    </figure>
+</div>
+<p>Tried a bunch of other interesting food I don't have names for.</p>
+<div class='image-gallery'>
+    <figure>
+        <img src="kRm0tvNX2pbTEPfpG7Bn_mAEp0I.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="Uy2LVnw-ujMD8rbuknnuK6BtozY.jpg" alt="TODO">
+    </figure>
+</div>
+<p>My favorite part was the chocolate making: the guide brought cocoa beans, almonds, cinnamon and sugar, and a local woman ground them into chocolate!</p>
+<div class='image-gallery'>
+    <figure>
+        <img src="KJdusyMZosEZXSv6ygnTuxBaco8.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="DzEnj-R8bTahTU3zyRFx-Op99fg.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="G8f35TMBDM47lEYWSQ7GvkVU5bs.jpg" alt="TODO">
+    </figure>
+</div>
+<p>Of course I found the game shop</p>
+<div class='image-gallery'>
+    <figure>
+        <img src="OmhzVFuRs7VDon6AmsZEtRTtLq4.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="qYmwN5uqLG3GGo1kCYCwktKNx9s.jpg" alt="TODO">
+    </figure>
+</div>
+<p>The churches were also lovely</p>
+<div class='image-gallery'>
+    <figure>
+        <img src="VQP80KeDh-5wZFNzaS3pgeQA6Tg.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="fbEwxHTMquehAdDGtM0-ml_zdzs.jpg" alt="TODO">
+    </figure>
+</div>
+<figure class="mapbox map-journey">
+    <div id="map-15.765422899999999--96.1001048-49.2827291--123.12073749999999" class="map"></div>
+    <figcaption>Las Brisas Huatulco to Vancouver</figcaption>
+</figure>
+
+<script>
+    var src_lat = 15.765422899999999;
+    var src_lon = -96.1001048;
+    var dst_lat = 49.2827291;
+    var dst_lon = -123.12073749999999;
+
+    var map = L.map('map-15.765422899999999--96.1001048-49.2827291--123.12073749999999', {
+        zoomSnap: 0.5
+    });
+    mapbox(map);
+
+    L.marker([src_lat, src_lon]).addTo(map);
+    L.marker([dst_lat, dst_lon]).addTo(map);
+    var polyline = L.polyline([[src_lat, src_lon], [dst_lat, dst_lon]], { color: 'red' }).addTo(map);
+
+    // zoom the map to the polyline
+    map.fitBounds(polyline.getBounds());
+</script>
+---
+end_date: 2017-01-20
+---
+start_date: 2017-01-12

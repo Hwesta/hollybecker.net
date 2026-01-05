@@ -1,0 +1,21 @@
+title: deleted-route-bug
+---
+body:
+
+Example:
+took like a month of off and on work to discover a bug
+problem was: route had been deleted from routes file during a refactor, not noticed
+how did this happen?
+
+2-4 systems talking
+no observability
+* couldn't see what errors existed
+* no access to logs
+
+no end to end testing
+* nothing caught the deleted endpoint
+
+system design
+* error case (404 route not found) the same as expected case (no data/data exhausted also used 404)
+---
+_hidden: yes

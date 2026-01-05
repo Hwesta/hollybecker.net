@@ -1,0 +1,12 @@
+{% extends "layout.html" %}
+{% from "macros/blog.html" import render_blog_post %}
+{# don't change the description if no value available#}
+{% if this.summary or this.preview %}
+{% block summary %}{% if this.summary%}{{ this.summary }}{% else%}{{this.preview | striptags }}{% endif %}{% endblock %}
+{% endif %}
+
+{% block title %}{{ this.title | striptags }}{% endblock %}
+
+{% block body %}
+{{ render_blog_post(this) }}
+{% endblock %}

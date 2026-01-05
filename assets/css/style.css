@@ -1,0 +1,257 @@
+@import "/css/normalize.css";
+
+:root {
+    /* Colors */
+    --light-grey: #e1e1e1;
+    --medium-grey: #aaa;
+    --dark-grey: #333;
+    --primary-color: #4161a1;
+    --secondary-color: #555;
+    --border-color: #162f61;
+    --link-color: #2091b3;
+    --hoverlink-color: #20677c;
+    --font-color: #222;
+
+    /* Grid variables */
+    --container-width: 95%;
+    --container-width-large-screen: 800px;
+
+    /* Other stuff */
+    --border-radius: 4px;
+}
+
+
+/* LAYOUT */
+
+body {
+    background: url('../images/background-omega.jpg') #8CD3D9 fixed;
+    line-height: 1.6;
+    font-family: "Raleway", "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-weight: 400;
+}
+
+header,
+main,
+footer {
+    /* Set a single stacked column */
+    box-sizing: border-box;
+    width: var(--container-width);
+    max-width: var(--container-width-large-screen);
+    margin: 0.6rem auto;
+    padding: 0.6rem;
+
+    border: 1px solid var(--border-color);
+    border-radius: var(--border-radius);
+    background: #fff;
+    color: #000;
+}
+
+/* Header/nav link styling */
+header h1 a {
+    text-decoration: none;
+}
+
+header a,
+header a:visited,
+header a:hover {
+    /* Header links get colors */
+    color: var(--primary-color);
+}
+
+header .active a {
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+}
+
+header a:hover {
+    text-decoration: underline;
+    text-decoration-thickness: 4px;
+}
+
+/* Horizontally align header text with links*/
+header {
+    display: flex;
+    align-items: center;
+}
+
+hgroup {
+    /* Title is twice as wide as links */
+    flex: 2;
+}
+
+nav {
+    flex: 1;
+
+    ul {
+        list-style-type: none;
+        padding: 0 0.5rem;
+        margin: 0;
+
+        li {
+            text-align: right;
+            font-variant: small-caps;
+            font-weight: bold;
+            padding-bottom: 0.2rem;
+
+
+            a {
+                text-decoration: none;
+            }
+        }
+
+
+    }
+}
+
+main {
+    padding: 1.2rem;
+}
+
+footer {
+    margin-top: 1rem;
+    font-size: 80%;
+}
+
+/* CONTENT */
+
+aside {
+    float: right;
+    border: 1px solid var(--dark-grey);
+    margin: 1rem;
+    padding: 1rem;
+    background: var(--light-grey);
+    max-width: 50%;
+
+    @media (min-width: 800px) {
+        max-width: 30%;
+    }
+}
+
+.blog-meta {
+    font-style: italic;
+    margin: 0;
+}
+
+a {
+    color: var(--link-color);
+}
+
+a:hover {
+    color: var(--hover-link-color);
+}
+
+
+h1,
+h2,
+h3,
+h4 {
+    margin-top: 0.5em;
+    margin-bottom: 0.5rem;
+    font-weight: 300;
+}
+
+h1 {
+    margin-top: 0;
+    font-size: 2.5rem;
+    line-height: 1.2;
+}
+
+h2 {
+    margin-top: 0;
+    font-size: 2.1rem;
+    line-height: 1.25;
+}
+
+h3 {
+    font-size: 1.6rem;
+    line-height: 1.3;
+}
+
+h4 {
+    font-size: 1.4rem;
+}
+
+hr {
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+    border-width: 0;
+    border-top: 1px solid var(--primary-color);
+}
+
+blockquote {
+    margin-left: 1.3rem;
+    padding-left: 0.7rem;
+    border-left: 2px solid var(--primary-color);
+}
+
+main ul {
+    margin-bottom: 0.4rem;
+}
+
+/* Code */
+code {
+    padding: 0 .2rem;
+    font-size: 90%;
+    white-space: nowrap;
+    background: #f1f1f1;
+    border: 1px solid #e1e1e1;
+    border-radius: 3px;
+}
+
+pre>code {
+    display: block;
+    padding: 0.5rem 1rem;
+    white-space: pre;
+}
+
+/* Image gallery */
+
+div.image-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: normal;
+    /* border: 1px solid red; */
+    margin: 0;
+    padding: 0;
+
+    figure {
+        flex: 1;
+        /* border: 1px solid blue; */
+        margin: 0.5rem;
+        padding: 0;
+        text-align: center;
+
+        img {
+            object-fit: scale-down;
+            /* border: 1px solid green; */
+            max-height: 800px;
+            min-width: 300px;
+            max-width: 100%;
+        }
+    }
+}
+
+.mapbox {
+    margin: 0 auto;
+    width: 100%;
+    max-width: calc(var(--container-width-large-screen) / 2);
+    border: 1px var(--primary-color) solid;
+}
+
+.mapbox>div {
+    margin: 2px;
+}
+
+.mapbox>figcaption {
+    background-color: var(--primary-color);
+    color: white;
+    font-style: italic;
+    padding: 2px;
+    margin: 2px;
+    text-align: center;
+}
+
+.map {
+    height: 300px;
+}

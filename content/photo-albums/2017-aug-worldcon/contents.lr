@@ -1,0 +1,1320 @@
+title: WorldCon75 (Helsinki & Estonia)
+---
+attendees: with Dale
+---
+body:
+
+<figure class="mapbox map-journey">
+    <div id="map-49.1966913--123.1815123-53.325525999999996--113.5635858" class="map"></div>
+    <figcaption>Vancouver International Airport to Edmonton International Airport</figcaption>
+</figure>
+
+<script>
+    var src_lat = 49.1966913;
+    var src_lon = -123.1815123;
+    var dst_lat = 53.325525999999996;
+    var dst_lon = -113.5635858;
+
+    var map = L.map('map-49.1966913--123.1815123-53.325525999999996--113.5635858', {
+        zoomSnap: 0.5
+    });
+    mapbox(map);
+
+    L.marker([src_lat, src_lon]).addTo(map);
+    L.marker([dst_lat, dst_lon]).addTo(map);
+    var polyline = L.polyline([[src_lat, src_lon], [dst_lat, dst_lon]], { color: 'red' }).addTo(map);
+
+    // zoom the map to the polyline
+    map.fitBounds(polyline.getBounds());
+</script><p>I had the best view on the plane for the first leg.</p><div class='image-gallery'>    <figure>
+        <img src="waMnynVv7A_lIcJPOxywEQMjYuU.jpg" alt="TODO">
+    </figure>
+</div><figure class="mapbox map-journey">
+    <div id="map-53.325525999999996--113.5635858-63.986806599999994--22.627966699999998" class="map"></div>
+    <figcaption>Edmonton International Airport to Keflavik International Airport</figcaption>
+</figure>
+
+<script>
+    var src_lat = 53.325525999999996;
+    var src_lon = -113.5635858;
+    var dst_lat = 63.986806599999994;
+    var dst_lon = -22.627966699999998;
+
+    var map = L.map('map-53.325525999999996--113.5635858-63.986806599999994--22.627966699999998', {
+        zoomSnap: 0.5
+    });
+    mapbox(map);
+
+    L.marker([src_lat, src_lon]).addTo(map);
+    L.marker([dst_lat, dst_lon]).addTo(map);
+    var polyline = L.polyline([[src_lat, src_lon], [dst_lat, dst_lon]], { color: 'red' }).addTo(map);
+
+    // zoom the map to the polyline
+    map.fitBounds(polyline.getBounds());
+</script><p>We got to see the northern lights! The IcelandAir plane we were on had fancy lights above the luggage storage area.</p><div class='image-gallery'>    <figure>
+        <img src="S57-8bufzY5EXYeOf2mXBKsARKU.jpg" alt="TODO">
+    </figure>
+</div><p>It was pretty amazing to see the sun come up in the north.</p><div class='image-gallery'>    <figure>
+        <img src="s9z27UUuvUe8LkB1MX4F_OZ5LMc.jpg" alt="TODO">
+    </figure>
+</div><p>Iceland was amazing even just flying over it, I want to go back and actually see it.</p><div class='image-gallery'>    <figure>
+        <img src="Q6qvl4n4Z2AKHFjOb2tl_l4yIQo.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="z4teEsGjDxh0Vpk4ElQ-YktHtpY.jpg" alt="TODO">
+    </figure>
+</div><p>On the way, we were the furthest north we've ever been: 68° 4' N !</p><figure class="mapbox map-journey">
+    <div id="map-63.986806599999994--22.627966699999998-60.169862599999995-24.9383788" class="map"></div>
+    <figcaption>Keflavik International Airport to Helsinki</figcaption>
+</figure>
+
+<script>
+    var src_lat = 63.986806599999994;
+    var src_lon = -22.627966699999998;
+    var dst_lat = 60.169862599999995;
+    var dst_lon = 24.9383788;
+
+    var map = L.map('map-63.986806599999994--22.627966699999998-60.169862599999995-24.9383788', {
+        zoomSnap: 0.5
+    });
+    mapbox(map);
+
+    L.marker([src_lat, src_lon]).addTo(map);
+    L.marker([dst_lat, dst_lon]).addTo(map);
+    var polyline = L.polyline([[src_lat, src_lon], [dst_lat, dst_lon]], { color: 'red' }).addTo(map);
+
+    // zoom the map to the polyline
+    map.fitBounds(polyline.getBounds());
+</script><p>We spent our first day exploring town and getting adjusted to the jetlag.</p>
+<figure class="mapbox map-location">
+    <div id="map-60.18721-24.959064299999998" class="map"></div>
+    <figcaption>Cafelito</figcaption>
+</figure>
+
+<script>
+    var lat = 60.18721;
+    var lon = 24.959064299999998;
+
+    var map = L.map('map-60.18721-24.959064299999998', {
+        center: [lat, lon],
+        zoom: 14
+    });
+    mapbox(map);
+
+    L.marker([lat, lon]).addTo(map);
+</script>
+
+<p>Apparently, most cafes don't open until 9 or 10, and we were up at 6 from the jetlag. Breakfast was worth it though.  Every tiny cafe we went to had at least 4 loose leaf tea options: black, green, white and herbal. It was amazing.</p><div class='image-gallery'>    <figure>
+        <img src="E5yslp2NZ_aiMcc7NGmV9dBvxNM.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="vqEh-5B6K-9nlcXvhHxpDJ83Eao.jpg" alt="TODO">
+    </figure>
+</div><p>Everyone really does ride bikes everywhere. This was the courtyard of our AirBnB. Most streets were 2-4 lanes of cars, 2 lanes of tram, plus wide bike lanes and sidewalks (or mixed use bikelane/sidewalks).</p><div class='image-gallery'>    <figure>
+        <img src="alCR5AX17KdKzygxJIICwSDcRko.jpg" alt="TODO">
+    </figure>
+</div><p>They also have lots more trains! Including lots of long and short distance rail.</p><div class='image-gallery'>    <figure>
+        <img src="9d7NUmyrV8P2Q9t1cnwYT4gDQGw.jpg" alt="TODO">
+    </figure>
+</div><p>Lots of nice historical boats too.</p><div class='image-gallery'>    <figure>
+        <img src="4z8PO2mPYFLGTl7B2H2Y1aSClVE.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="yvbiw_h06rZelQX28CJnwNVM3F0.jpg" alt="TODO">
+    </figure>
+</div><p>We stumbled on a shop, Finn Enterprise, that had both modern and historical weapons. These knife sheathes had been made by bored soldiers during WWII/Winter War/Continuation War from the remains of downed Russian planes.</p><div class='image-gallery'>    <figure>
+        <img src="jP_1yn0Lw3FSwTNx9BRTWMkSprQ.jpg" alt="TODO">
+    </figure>
+</div>
+<figure class="mapbox map-location">
+    <div id="map-60.1685436-24.959949899999998" class="map"></div>
+    <figcaption>Uspenski Cathedral</figcaption>
+</figure>
+
+<script>
+    var lat = 60.1685436;
+    var lon = 24.959949899999998;
+
+    var map = L.map('map-60.1685436-24.959949899999998', {
+        center: [lat, lon],
+        zoom: 14
+    });
+    mapbox(map);
+
+    L.marker([lat, lon]).addTo(map);
+</script>
+
+<p>Uspenski Cathedral, center of Finnish Orthodox faith, was impressive inside and out.</p><div class='image-gallery'>    <figure>
+        <img src="6VuCBcuFOXnADdSPJS7fGcaGj4g.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="7wRiRuEQGTShHvI9PAHCF7Llgys.jpg" alt="TODO">
+    </figure>
+</div>
+<figure class="mapbox map-location">
+    <div id="map-60.1704191-24.9521651" class="map"></div>
+    <figcaption>Helsinki Cathedral</figcaption>
+</figure>
+
+<script>
+    var lat = 60.1704191;
+    var lon = 24.9521651;
+
+    var map = L.map('map-60.1704191-24.9521651', {
+        center: [lat, lon],
+        zoom: 14
+    });
+    mapbox(map);
+
+    L.marker([lat, lon]).addTo(map);
+</script>
+
+<p>Helsinki Cathedral, a Finnish Evangelical Lutheran church, dominated Senate Square, but was surprisingly simple inside.</p><div class='image-gallery'>    <figure>
+        <img src="VqVRII02wU30fdXgEkmFY9tF5vo.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="6ETztnJk05i-r2_lfnQKv5-jWrI.jpg" alt="TODO">
+    </figure>
+</div>
+<figure class="mapbox map-location">
+    <div id="map-60.1694794-24.952286599999997" class="map"></div>
+    <figcaption>Senate Square</figcaption>
+</figure>
+
+<script>
+    var lat = 60.1694794;
+    var lon = 24.952286599999997;
+
+    var map = L.map('map-60.1694794-24.952286599999997', {
+        center: [lat, lon],
+        zoom: 14
+    });
+    mapbox(map);
+
+    L.marker([lat, lon]).addTo(map);
+</script>
+
+<p>The Government Palace & Helsinki University border Senate Square, with the national library just around the corner.  The photos don't do justice to how big the square was.</p><div class='image-gallery'>    <figure>
+        <img src="rTmZCq-4Fms0WW7RsoOHg4us0cU.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="9hrcEY7noCX-AP49mbTvJjtaqDo.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="FJjtDXhQdT9O09WBLgrEarCf4K4.jpg" alt="TODO">
+    </figure>
+</div>
+<figure class="mapbox map-location">
+    <div id="map-60.1725226-24.9438176" class="map"></div>
+    <figcaption>Finnish National Theatre</figcaption>
+</figure>
+
+<script>
+    var lat = 60.1725226;
+    var lon = 24.9438176;
+
+    var map = L.map('map-60.1725226-24.9438176', {
+        center: [lat, lon],
+        zoom: 14
+    });
+    mapbox(map);
+
+    L.marker([lat, lon]).addTo(map);
+</script>
+
+<p>The Finnish National Theater might not have been as tall as the churches, but still impressive.</p><div class='image-gallery'>    <figure>
+        <img src="IOFo6Cehc_9Q1UJSQ62lEJxbXAE.jpg" alt="TODO">
+    </figure>
+</div><p>The street our AirBnB was on was named after this guy! Aleksiskivenkatu (aka Aleksis Kivi's Street). Aleksis Kivi wrote the first significant novel in the Finnish language, and is among the earliest & greatest Finnish language authors.</p><div class='image-gallery'>    <figure>
+        <img src="hiVGR0mvgJAhaKsWKZsNQRjHayo.jpg" alt="TODO">
+    </figure>
+</div>
+<figure class="mapbox map-location">
+    <div id="map-60.1718729-24.941421599999998" class="map"></div>
+    <figcaption>Central railway station</figcaption>
+</figure>
+
+<script>
+    var lat = 60.1718729;
+    var lon = 24.941421599999998;
+
+    var map = L.map('map-60.1718729-24.941421599999998', {
+        center: [lat, lon],
+        zoom: 14
+    });
+    mapbox(map);
+
+    L.marker([lat, lon]).addTo(map);
+</script>
+
+<p>Even the Central Railway Station was gorgeous.</p><div class='image-gallery'>    <figure>
+        <img src="-7I5CyTkoiv2EJcQTrqMviR526A.jpg" alt="TODO">
+    </figure>
+</div>
+<figure class="mapbox map-location">
+    <div id="map-60.184187099999995-24.949578199999998" class="map"></div>
+    <figcaption>Kallio Church</figcaption>
+</figure>
+
+<script>
+    var lat = 60.184187099999995;
+    var lon = 24.949578199999998;
+
+    var map = L.map('map-60.184187099999995-24.949578199999998', {
+        center: [lat, lon],
+        zoom: 14
+    });
+    mapbox(map);
+
+    L.marker([lat, lon]).addTo(map);
+</script>
+
+<p>Kallio Church was visible from quite a distance away because all the streets pointed at it.</p><div class='image-gallery'>    <figure>
+        <img src="1gJ034mUU5DOqk17I2fWvfnBEpk.jpg" alt="TODO">
+    </figure>
+</div>
+<figure class="mapbox map-location">
+    <div id="map-60.167481499999994-24.9476095" class="map"></div>
+    <figcaption>Esplanadi</figcaption>
+</figure>
+
+<script>
+    var lat = 60.167481499999994;
+    var lon = 24.9476095;
+
+    var map = L.map('map-60.167481499999994-24.9476095', {
+        center: [lat, lon],
+        zoom: 14
+    });
+    mapbox(map);
+
+    L.marker([lat, lon]).addTo(map);
+</script>
+
+<p>We found the Canadian Embassy too!</p><div class='image-gallery'>    <figure>
+        <img src="NXVAXHhqYhjAApHQtVPdmCXgFHo.jpg" alt="TODO">
+    </figure>
+</div>
+<figure class="mapbox map-location">
+    <div id="map-60.2032502-24.936463699999997" class="map"></div>
+    <figcaption>Messukeskus</figcaption>
+</figure>
+
+<script>
+    var lat = 60.2032502;
+    var lon = 24.936463699999997;
+
+    var map = L.map('map-60.2032502-24.936463699999997', {
+        center: [lat, lon],
+        zoom: 14
+    });
+    mapbox(map);
+
+    L.marker([lat, lon]).addTo(map);
+</script>
+
+<p>The reason we came: WorldCon75!
+(That's the mascot: Major Ursa!)</p><div class='image-gallery'>    <figure>
+        <img src="G4V4lhoTQpEuh7ldy17VIauAnXQ.jpg" alt="TODO">
+    </figure>
+</div><p>The opening ceremonies did a great job of showcasing some Finnish culture. Much of the text was in Finnish, but the speaking was in English.</p><div class='image-gallery'>    <figure>
+        <img src="r3INgRRXPH7qFQJxzjWLF1fOe4U.jpg" alt="TODO">
+    </figure>
+</div><p>Lots of great cosplay, more than I could get photos of.</p><div class='image-gallery'>    <figure>
+        <img src="WhNwxy5fqZZdHCNC_S6ijhecOxE.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="HKEntTcJUZbqT9tukUHwH5fkFR8.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="ZRLU2ZdaPPqJyPedNultdm1un_c.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="ZgMfBNAYKN4IpKBrG8UPkQPHCEI.jpg" alt="TODO">
+    </figure>
+</div><p>Surprise hit for me: learning Finnish folk dances, and historical dances.</p><div class='image-gallery'>    <figure>
+        <img src="tAFlcweI-fkpDu0YQ24ZmwqR3qo.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="EDAh_MBXs4eiEy9hUDhy9r2xJEc.jpg" alt="TODO">
+    </figure>
+</div><p>The Hugo Award ceremony was the highlight.  I was most excited when Ursula Vernon won.</p><p>Astronaut and Special Guest Kjell Lindgren gave out an award again.  (In 2015 he presented Best Novel from the ISS!)  This time there was a running joke, because the presenter before him accidentally opened the wrong envelope. Kjell joked that he'd always wanted to open an awards envelope (and didn't get to).  He made the same joke at the closing ceremonies!</p><p>I was too busy having fun at the con to have many photos of it.</p><p>After WorldCon finished, we went birding of course!</p>
+<figure class="mapbox map-location">
+    <div id="map-60.214153599999996-24.9922996" class="map"></div>
+    <figcaption>Pornaistenniemen lintutorni</figcaption>
+</figure>
+
+<script>
+    var lat = 60.214153599999996;
+    var lon = 24.9922996;
+
+    var map = L.map('map-60.214153599999996-24.9922996', {
+        center: [lat, lon],
+        zoom: 14
+    });
+    mapbox(map);
+
+    L.marker([lat, lon]).addTo(map);
+</script>
+
+<p>It was gorgeous weather up in the marshy island park.</p><div class='image-gallery'>    <figure>
+        <img src="6dAMPIpq6Gx56-OQlZyo6bFETt0.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="hRlRRTTrr4sM3cPWulY_Fm-ykPI.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="Ju0BQHphxzJ1CwdB8C2LDZ-nnXI.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="slj4njSSihTiGBudECg2CAYtHE8.jpg" alt="TODO">
+    </figure>
+</div><p>New birds! These are barnacle geese, which seem to be as common as Canada geese are at home.  Unlike Canada geese, they're actually kinda friendly.</p><div class='image-gallery'>    <figure>
+        <img src="J4vjeau_-WWnA8eKjhiu5dAHcVU.jpg" alt="TODO">
+    </figure>
+</div>
+<figure class="mapbox map-location">
+    <div id="map-60.208566299999994-25.0015173" class="map"></div>
+    <figcaption>Lammassaren lintutorni (birdwatching tower)</figcaption>
+</figure>
+
+<script>
+    var lat = 60.208566299999994;
+    var lon = 25.0015173;
+
+    var map = L.map('map-60.208566299999994-25.0015173', {
+        center: [lat, lon],
+        zoom: 14
+    });
+    mapbox(map);
+
+    L.marker([lat, lon]).addTo(map);
+</script>
+
+<p>We were lucky enough to meet some birdwatching locals who helped us identify a bunch of the local shorebirds.</p><div class='image-gallery'>    <figure>
+        <img src="PlhHIJPMb0gcyOxhLjBu7rHzRkw.jpg" alt="TODO">
+    </figure>
+</div><p>Visible from the birdwatching tower were historic Finnish cows & sheep that are being conserved at the park.</p><div class='image-gallery'>    <figure>
+        <img src="50NKOlJ3zJvxNXcSlJYEFlBqcjM.jpg" alt="TODO">
+    </figure>
+</div><p>The island is also used for camping and summer cottages.</p><div class='image-gallery'>    <figure>
+        <img src="nK1LcnEX_wb1UkSGBwajfQjiDKY.jpg" alt="TODO">
+    </figure>
+</div><p>Next up: museums!</p>
+<figure class="mapbox map-location">
+    <div id="map-60.17257-24.932975199999998" class="map"></div>
+    <figcaption>Parliament House (Eduskuntatalo)</figcaption>
+</figure>
+
+<script>
+    var lat = 60.17257;
+    var lon = 24.932975199999998;
+
+    var map = L.map('map-60.17257-24.932975199999998', {
+        center: [lat, lon],
+        zoom: 14
+    });
+    mapbox(map);
+
+    L.marker([lat, lon]).addTo(map);
+</script>
+
+<p>Parliament House was unfortunately being repaired, so no tours.</p><div class='image-gallery'>    <figure>
+        <img src="ZqsPoZemvAztQOwWlowck1wo4_8.jpg" alt="TODO">
+    </figure>
+</div>
+<figure class="mapbox map-location">
+    <div id="map-60.174978599999996-24.9316106" class="map"></div>
+    <figcaption>Finnish National Museum</figcaption>
+</figure>
+
+<script>
+    var lat = 60.174978599999996;
+    var lon = 24.9316106;
+
+    var map = L.map('map-60.174978599999996-24.9316106', {
+        center: [lat, lon],
+        zoom: 14
+    });
+    mapbox(map);
+
+    L.marker([lat, lon]).addTo(map);
+</script>
+
+<div class='image-gallery'>    <figure>
+        <img src="cCnutysOIqo7ZP-JMbiFzmF_VwM.jpg" alt="TODO">
+    </figure>
+</div><p>The National Museum had a broken window in the front door from the 1918 civil war, just after they declared independence. Quite the introduction to Finnish history!</p><div class='image-gallery'>    <figure>
+        <img src="WYZNoGq4L9xsNUcPOXg26f6VDs0.jpg" alt="TODO">
+    </figure>
+</div><p>Everything was labelled in the two national languages: Finnish and Swedish, as well as English.</p><p>Everything was gorgeous, from ceilings and windows to thrones.</p><div class='image-gallery'>    <figure>
+        <img src="lXaqneKVX0U6mv43fEFoCm943Us.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="v8AeayWVGQ4toGjoqIIanx3kBkg.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="wov49L3OBE1RepFuuIrkhy2oUHw.jpg" alt="TODO">
+    </figure>
+</div><p>I liked the bowls shaped like birds, used for dipping milk or beer out of a big central barrel.</p><div class='image-gallery'>    <figure>
+        <img src="iCBHzR4zDt_9yDcpkOVszg3SZIQ.jpg" alt="TODO">
+    </figure>
+</div><p>The display on the last 100 years of Finland was very up to date! I liked that the museum took a political stance on immigration.</p><div class='image-gallery'>    <figure>
+        <img src="eiF46rqeoD-1Svwpm1GF2JlFRpE.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="h3NUOARqvWwpkdPrWat5QpW70vs.jpg" alt="TODO">
+    </figure>
+</div><p>There were so many churches we didn't bother getting amazing photos of each one.</p><div class='image-gallery'>    <figure>
+        <img src="TtK_T79ThGwe28Wy5YcOshtIais.jpg" alt="TODO">
+    </figure>
+</div><p>Stopped at the Moomin Cafe for a snack, including a traditional Finnish Karelian pastry.</p><div class='image-gallery'>    <figure>
+        <img src="XBfUVXYLlsqdcFlGSVo6PwBlCLk.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="XWEtIFoUurMNMRftlV5NWqyYLQI.jpg" alt="TODO">
+    </figure>
+</div><p>The design museum highlighted a few famous things to come out of Finland: Nokia, Angry Birds, and the Ball Chair (I thought it was uncomfortable).</p><div class='image-gallery'>    <figure>
+        <img src="e9yK9Z4DI6dErt_8kyN-D7FkJDo.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="81WYR3pf1G4cnsnFdKipV1IkVaI.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="x2o2KUL_qa0w_RDoqrlwtzh7Q80.jpg" alt="TODO">
+    </figure>
+</div><p>We also found the most Finnish thing possible: Moomin Fiskars scissors.</p><div class='image-gallery'>    <figure>
+        <img src="tXkNviynJatluNyT493xE3cxQjw.jpg" alt="TODO">
+    </figure>
+</div>
+<figure class="mapbox map-location">
+    <div id="map-60.1631195-24.947279899999998" class="map"></div>
+    <figcaption>Architecture Museum</figcaption>
+</figure>
+
+<script>
+    var lat = 60.1631195;
+    var lon = 24.947279899999998;
+
+    var map = L.map('map-60.1631195-24.947279899999998', {
+        center: [lat, lon],
+        zoom: 14
+    });
+    mapbox(map);
+
+    L.marker([lat, lon]).addTo(map);
+</script>
+
+<p>The Architecture museum was the surprise hit of the Helsinki museums.  It had a great exhibit explaining what was going on in Finland & Helsinki, in architecture, and how they combined to produce the architecture around Helsinki. Very interesting, and immediately applicable when we went back outside.  Unfortunately didn't get any good photos.</p><div class='image-gallery'>    <figure>
+        <img src="brevy1GQSgAcQsfYZOCn3dQ5bpM.jpg" alt="TODO">
+    </figure>
+</div><p>Our AirBnB was in an apartment building from the 1930s.  It had been built before the days of in-suite washrooms, and had a tiny, bizarrely-shaped bathroom retrofitted in.  There was a communal laundry room but it was busy when we needed it, so we had the novel experience of hanging our clothes to dry in the attic.</p><div class='image-gallery'>    <figure>
+        <img src="JqvL19AXnPmGzjcjl67_JhANdfs.jpg" alt="TODO">
+    </figure>
+</div><figure class="mapbox map-journey">
+    <div id="map-60.1698556-24.9383791-60.145399899999994-24.9881401" class="map"></div>
+    <figcaption>Helsinki to Suomenlinna</figcaption>
+</figure>
+
+<script>
+    var src_lat = 60.1698556;
+    var src_lon = 24.9383791;
+    var dst_lat = 60.145399899999994;
+    var dst_lon = 24.9881401;
+
+    var map = L.map('map-60.1698556-24.9383791-60.145399899999994-24.9881401', {
+        zoomSnap: 0.5
+    });
+    mapbox(map);
+
+    L.marker([src_lat, src_lon]).addTo(map);
+    L.marker([dst_lat, dst_lon]).addTo(map);
+    var polyline = L.polyline([[src_lat, src_lon], [dst_lat, dst_lon]], { color: 'red' }).addTo(map);
+
+    // zoom the map to the polyline
+    map.fitBounds(polyline.getBounds());
+</script><p>Everything about Suomenlinna was amazing.</p><p>The 15 minute trip over was on a tiny public transit ferry with amazing views of the islands and Helinki. It was also the cutest ferry I've ever seen - it had room for 1 or 2 cars!</p><div class='image-gallery'>    <figure>
+        <img src="7Qe32uo0GcPIOghytyEGQ5nBfBI.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="AxhiUyso0zUgDEbuWEYyuyDFETE.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="TcNMikDBf2FvnQqcERfnjnzmWXU.jpg" alt="TODO">
+    </figure>
+</div><p>The views through the 200-300 year old walls were amazing.</p><div class='image-gallery'>    <figure>
+        <img src="5ksBJygIxXTSysbj4c705aTGpto.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="zW_W7W9mE_Bc2ilqDcdtjwnu8GY.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="VodSFM2ehjbgCUicYuTqiv0P6BA.jpg" alt="TODO">
+    </figure>
+</div><p>The canons and walls were amazing.</p><div class='image-gallery'>    <figure>
+        <img src="FrnewpisIVL-L2pLjPv0Juzx_JE.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="OqPw7xDPSDc7jo-ygFoA9sxo1Ng.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="1ok56E95BXzBkET3sgV9WCa7Mgc.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="lDGNvunBleZVTNOBNq1R32zz3fY.jpg" alt="TODO">
+    </figure>
+</div><p>The scale of the restoration and maintenance was amazing. It's largely done by prisoners as rehabilitation work. There's a prison on the island, and the warden had to close the gates because tourists kept walking in! Very different attitude towards crime and punishment/rehabilitation.</p><div class='image-gallery'>    <figure>
+        <img src="QlUZ8-USovzdb9iw9FpJ62Wwz0s.jpg" alt="TODO">
+    </figure>
+</div><p>The cafes were amazing. This was a Russian cafe in the buildings that Russian merchants had lived in on the islands. Previously, the military had the right to destroy anything if they needed to. These houses were built once civilians were provided a safe place to build and promised buildings wouldn't be destroyed based on military needs.</p><div class='image-gallery'>    <figure>
+        <img src="-IsjX3svhZfqSrp66WmoSnVgssE.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="vs9drWfhNtEy2b0P6-0jVDGHs74.jpg" alt="TODO">
+    </figure>
+</div>
+<figure class="mapbox map-location">
+    <div id="map-60.145681399999994-24.9828652" class="map"></div>
+    <figcaption>Suomenlinna Dry Dock</figcaption>
+</figure>
+
+<script>
+    var lat = 60.145681399999994;
+    var lon = 24.9828652;
+
+    var map = L.map('map-60.145681399999994-24.9828652', {
+        center: [lat, lon],
+        zoom: 14
+    });
+    mapbox(map);
+
+    L.marker([lat, lon]).addTo(map);
+</script>
+
+<p>They also do historic boat restoration! The shipyard had serviced wooden sailing ships, built submarines, and now is used to restored historic sailing ships.</p><div class='image-gallery'>    <figure>
+        <img src="tt7VK6Bj4Ks84Ku5EYSVyq0xMeo.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="rsCVeY4F3qr3WrHADFRg4FVuL8U.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="KJ_8blSW271WjRNsdCvyrsXojEc.jpg" alt="TODO">
+    </figure>
+</div><p>Suomenlinna has a ton of museums on it.</p>
+<figure class="mapbox map-location">
+    <div id="map-60.1425857-24.9896039" class="map"></div>
+    <figcaption>Submarine Vesikko</figcaption>
+</figure>
+
+<script>
+    var lat = 60.1425857;
+    var lon = 24.9896039;
+
+    var map = L.map('map-60.1425857-24.9896039', {
+        center: [lat, lon],
+        zoom: 14
+    });
+    mapbox(map);
+
+    L.marker([lat, lon]).addTo(map);
+</script>
+
+<p>We got to tour a restored Finnish WWII era submarine.  It was very small inside! Not enough sleeping areas for everyone to sleep at once, and two of the beds were in the (extremely noisy) engine room!</p><div class='image-gallery'>    <figure>
+        <img src="Id6rVDryhPV0tdaORz0qCVlTEkk.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="DvSAzhinvv9hP59MM3W5lPU2Tlw.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="5spu2GmVhtXrqoSeCn8SqK3iX6Q.jpg" alt="TODO">
+    </figure>
+</div>
+Location: "ehrensvard museo", "" (None,None)
+
+<p>Ehrensvard was the person mostly responsible for the building of the Suomenlinna fortress. His house was a museum, and built into the walls of the fort!</p><div class='image-gallery'>    <figure>
+        <img src="Zg5OWReisgQPoaU9Xjb12hKaaAE.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="-Qi8Vdbd0mvxnSWTWahxYIB0RvM.jpg" alt="TODO">
+    </figure>
+</div>
+<figure class="mapbox map-location">
+    <div id="map-60.144286599999994-24.981745099999998" class="map"></div>
+    <figcaption>Customs Museum</figcaption>
+</figure>
+
+<script>
+    var lat = 60.144286599999994;
+    var lon = 24.981745099999998;
+
+    var map = L.map('map-60.144286599999994-24.981745099999998', {
+        center: [lat, lon],
+        zoom: 14
+    });
+    mapbox(map);
+
+    L.marker([lat, lon]).addTo(map);
+</script>
+
+<p>The Customs Museum had a great section on how hard it was to import cars. Highlights included that car tax got up to 140%, and that at one point a third of the government's income was from car tax!</p><p>This VAX server was in use from 1989 until 2013! Probably the longest used computer in the world.</p><div class='image-gallery'>    <figure>
+        <img src="fj8dK0a9_v0svytqtFIfpbujOd4.jpg" alt="TODO">
+    </figure>
+</div>
+<figure class="mapbox map-location">
+    <div id="map-60.145340299999994-24.987761199999998" class="map"></div>
+    <figcaption>Suomenlinna Museum</figcaption>
+</figure>
+
+<script>
+    var lat = 60.145340299999994;
+    var lon = 24.987761199999998;
+
+    var map = L.map('map-60.145340299999994-24.987761199999998', {
+        center: [lat, lon],
+        zoom: 14
+    });
+    mapbox(map);
+
+    L.marker([lat, lon]).addTo(map);
+</script>
+
+<p>Suomenlinna museum had a lot of history of the islands, from unoccupied though Swedish, Russian and Finnish ownership.</p><p>I was pretty surprised to see the swastika on a toy plane, but a swastika was the insignia of the Finnish Air Force 1918-1945. Finland ended up on the wrong side of WWII because Soviet Russia tried to invade them and Finland decided that the enemy of my enemy is my friend and allied with Nazi Germany.  The had to pay war reparations, in the form of ships and machinery, after WWII to the USSR, which forced their agrarian economy to modernize. When reparations ended in the 60s, they had an economic boom.</p><div class='image-gallery'>    <figure>
+        <img src="mOtfWyYF7_stTUr24t3erNAR3Zk.jpg" alt="TODO">
+    </figure>
+</div><p>It was impossible to get a bad photo on the island - everything was lovely.</p><div class='image-gallery'>    <figure>
+        <img src="gszrA2hEvMXPE6j-1RBVyAzMcuI.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="r0tF9UcQG7Y21aahhFyTR2BVn4s.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="HVOu3jKwk05QlSStCy_1O5F0HYU.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="AJ3os4ThgbB2oIoU8Qn-R-sm55o.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="FP84wswM3QbKoVoAN3gScE-eO9A.jpg" alt="TODO">
+    </figure>
+</div><figure class="mapbox map-journey">
+    <div id="map-60.1698556-24.9383791-59.4369607-24.7535746" class="map"></div>
+    <figcaption>Helsinki to Tallinn</figcaption>
+</figure>
+
+<script>
+    var src_lat = 60.1698556;
+    var src_lon = 24.9383791;
+    var dst_lat = 59.4369607;
+    var dst_lon = 24.7535746;
+
+    var map = L.map('map-60.1698556-24.9383791-59.4369607-24.7535746', {
+        zoomSnap: 0.5
+    });
+    mapbox(map);
+
+    L.marker([src_lat, src_lon]).addTo(map);
+    L.marker([dst_lat, dst_lon]).addTo(map);
+    var polyline = L.polyline([[src_lat, src_lon], [dst_lat, dst_lon]], { color: 'red' }).addTo(map);
+
+    // zoom the map to the polyline
+    map.fitBounds(polyline.getBounds());
+</script><p>We just barely made the ferry to Tallinn! We misjudge how long it would take to get our luggage, the tram got stuck behind an ambulance, and we only made it because the others on the tram started running as soon as they got off so we did too.  Too much excitement!</p><p>The trip over was gorgeous.</p><div class='image-gallery'>    <figure>
+        <img src="1LolfSKJCj-NBl37B7gU07HN1IQ.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="O7e0uDDtGO5NQJsRWQpupmCBFao.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="Ry_xF5bMCZjGqqRu_AL2wPm3ZKc.jpg" alt="TODO">
+    </figure>
+</div>
+<figure class="mapbox map-location">
+    <div id="map-59.436960799999994-24.753574699999998" class="map"></div>
+    <figcaption>Tallinn</figcaption>
+</figure>
+
+<script>
+    var lat = 59.436960799999994;
+    var lon = 24.753574699999998;
+
+    var map = L.map('map-59.436960799999994-24.753574699999998', {
+        center: [lat, lon],
+        zoom: 14
+    });
+    mapbox(map);
+
+    L.marker([lat, lon]).addTo(map);
+</script>
+
+<p>Tallinn greeted us with thunder and lightning, despite the calm ferry over.</p><div class='image-gallery'>    <figure>
+        <img src="MABr6xPZ8Wbgg7gjMYI54O2sp_M.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="ChEX6d9b6iBnRwl4Vclpuvch7zc.jpg" alt="TODO">
+    </figure>
+</div><p>Our first dinner was in a Medieval costume restaurant looking at a 13th century town hall in the 700 year old Old Town. It was pretty amazing.</p><div class='image-gallery'>    <figure>
+        <img src="XkJrkF5j6hYuYvGB3YDrj3D81SY.jpg" alt="TODO">
+    </figure>
+</div><p>Everything about the Old Town was amazing and incredibly old.</p><div class='image-gallery'>    <figure>
+        <img src="XOtw52-Dtlwxf9TxHLtG954YN6E.jpg" alt="TODO">
+    </figure>
+</div><p>Tallinn had many more amazing old buildings, all different eras right next to each other.</p><div class='image-gallery'>    <figure>
+        <img src="lYdJqkE23WtuVlbkRhgtQeUmmZk.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="vAx0VSrNgNDGE0zOTAUH_OylqjY.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="vp6bFpTJ0WKpplA_v6LPm7B2T_8.jpg" alt="TODO">
+    </figure>
+</div><p>And everywhere we turned was another amazing view of a church or historic building.</p><div class='image-gallery'>    <figure>
+        <img src="mZm5SIDs5R3yqBAzNKvhW0GkVh0.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="Pfe-uMAV2Qwz1huzgBUjhiHskfw.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="dq85s4xffMBDZUWZs_DpxWgF_MI.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="C9VsCiQ5KmEW9gga2twkonnMKmA.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="1hzGslgIiP07c7-ENl6LltxHGzw.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="wBrR-YKVMiANvA-96sF_E_GH6ds.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="JahBO96d31kTrhp28BQog8VPNjM.jpg" alt="TODO">
+    </figure>
+</div>
+<figure class="mapbox map-location">
+    <div id="map-59.4709766-24.7084479" class="map"></div>
+    <figcaption>Paljassaare</figcaption>
+</figure>
+
+<script>
+    var lat = 59.4709766;
+    var lon = 24.7084479;
+
+    var map = L.map('map-59.4709766-24.7084479', {
+        center: [lat, lon],
+        zoom: 14
+    });
+    mapbox(map);
+
+    L.marker([lat, lon]).addTo(map);
+</script>
+
+<p>Once again, the first day was birdwatching!  Lovely views back of the city.</p><div class='image-gallery'>    <figure>
+        <img src="tJeHjznXkxpZkGxodAldQ-G3OBE.jpg" alt="TODO">
+    </figure>
+</div><p>We found an old Soviet base that was now abandoned and covered in graffiti.</p><div class='image-gallery'>    <figure>
+        <img src="Zgc39ZfOqDFhhrSINS5S9SFwsRk.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="NcxC0Jl3YI2VfjAVVyXFfN2AM4w.jpg" alt="TODO">
+    </figure>
+</div><p>Then, museums again!</p>
+<figure class="mapbox map-location">
+    <div id="map-59.4383208-24.7452436" class="map"></div>
+    <figcaption>Estonian History Museum - Great Guild Hall</figcaption>
+</figure>
+
+<script>
+    var lat = 59.4383208;
+    var lon = 24.7452436;
+
+    var map = L.map('map-59.4383208-24.7452436', {
+        center: [lat, lon],
+        zoom: 14
+    });
+    mapbox(map);
+
+    L.marker([lat, lon]).addTo(map);
+</script>
+
+<p>The Estonian History Museum is in the Guild Hall! They have so many amazingly historic buildings that they just stick any old museum in them. Lots on the fascinating history of the building too.</p><div class='image-gallery'>    <figure>
+        <img src="YH3EP0GOTpU9_FEagtq40r101Ow.jpg" alt="TODO">
+    </figure>
+</div><p>The exhibits were very well put together, organized thematically rather than chronologically.</p><div class='image-gallery'>    <figure>
+        <img src="YL1O5z1rd-qMbYJkaeC_CQmofR0.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="0BSXYO4Vzl5NACmcbJm_Dmj-rgY.jpg" alt="TODO">
+    </figure>
+</div>
+<figure class="mapbox map-location">
+    <div id="map-59.4386939-24.748147" class="map"></div>
+    <figcaption>Tallinn City Museum</figcaption>
+</figure>
+
+<script>
+    var lat = 59.4386939;
+    var lon = 24.748147;
+
+    var map = L.map('map-59.4386939-24.748147', {
+        center: [lat, lon],
+        zoom: 14
+    });
+    mapbox(map);
+
+    L.marker([lat, lon]).addTo(map);
+</script>
+
+<p>The model of Tallinn in 1825 highlights both the small size of Old Town, and the (now mostly destroyed) bastions.</p><div class='image-gallery'>    <figure>
+        <img src="pMlfjZq2jNA82LD7j4CuLFemZ88.jpg" alt="TODO">
+    </figure>
+</div><p>The Tallinn City Museum had the oldest coin I'd ever seen: Roman coin from 81-96 CE.</p><div class='image-gallery'>    <figure>
+        <img src="-4yuaFmdvw7ArAzXjfEJcBru7uM.jpg" alt="TODO">
+    </figure>
+</div><p>And this coin, which was so fancy it was in an alarmed box, specially lit, in a different room from the rest of the coins (but I don't remember what was fancy about it!)</p><div class='image-gallery'>    <figure>
+        <img src="zZWTWVk9TQAm55nUMz8URVBq0jw.jpg" alt="TODO">
+    </figure>
+</div>
+Location: "Café Dannebrog, Tallinn", "None" (None,None)
+
+<p>We had an evening snack in a cafe built into the wall of Old Tallinn.  You had to haul yourself up tall, steep, narrow stairs with a chain for leverage to get up there, but the patio was long and narrow over one of the gates. Total tourist trap place, but it was pretty special to enjoy the nighttime view of the city from such an unusual place.</p><div class='image-gallery'>    <figure>
+        <img src="DZlkqoyZxosr17FX4uDdjcaqF9g.jpg" alt="TODO">
+    </figure>
+</div>
+<figure class="mapbox map-location">
+    <div id="map-59.436889199999996-24.7425355" class="map"></div>
+    <figcaption>Rataskaevu 16</figcaption>
+</figure>
+
+<script>
+    var lat = 59.436889199999996;
+    var lon = 24.7425355;
+
+    var map = L.map('map-59.436889199999996-24.7425355', {
+        center: [lat, lon],
+        zoom: 14
+    });
+    mapbox(map);
+
+    L.marker([lat, lon]).addTo(map);
+</script>
+
+<p>We had dinner at Rataskaevu 16, a place so fancy it doesn't need a name to advertise. Probably the fanciest meal I've ever had, for ~60 Euro.  Ironically, I think my favorite part was the bread.</p><div class='image-gallery'>    <figure>
+        <img src="kQE5dzaSmnd_qKKxwTsglXoeMFs.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="vA6sQ1iD-OqAqmeYLWYrQMniXo0.jpg" alt="TODO">
+    </figure>
+</div><p>My least favorite was the unnerving surprise in the bathroom. They'd left a clear cover over a steep staircase.</p><div class='image-gallery'>    <figure>
+        <img src="zPBYv1Ie3Iy8V9mJd_KBulcm_oY.jpg" alt="TODO">
+    </figure>
+</div>
+<figure class="mapbox map-location">
+    <div id="map-59.4413382-24.7478066" class="map"></div>
+    <figcaption>St Olaf's church</figcaption>
+</figure>
+
+<script>
+    var lat = 59.4413382;
+    var lon = 24.7478066;
+
+    var map = L.map('map-59.4413382-24.7478066', {
+        center: [lat, lon],
+        zoom: 14
+    });
+    mapbox(map);
+
+    L.marker([lat, lon]).addTo(map);
+</script>
+
+<p>We climbed up this!</p><div class='image-gallery'>    <figure>
+        <img src="uIEStDKHF1KbnymWDzuCTWk0L_A.jpg" alt="TODO">
+    </figure>
+</div><p>St. Olaf's cathedral claims to have been the tallest building in the world from 1549 to 1625. You could pay to climb up to the top of the tower (not roof) for an amazing view, via 258 tiny curving stairs.</p><div class='image-gallery'>    <figure>
+        <img src="53tuiG2m542vI_fH5sEj4aVvguQ.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="jL6MmyQERgmmAnLvE7aWyIDp_D0.jpg" alt="TODO">
+    </figure>
+</div><p>The view at the top was amazing</p><div class='image-gallery'>    <figure>
+        <img src="4FkeAJeP8vy1XUtKc7xNGGM3hGE.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="2zpITQElMxC--sttiGYKWx6sPqE.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="5WKauYWmm-GSCZJGytm-5l450GY.jpg" alt="TODO">
+    </figure>
+</div><p>But terrifying</p><div class='image-gallery'>    <figure>
+        <img src="WPVVU_oBQV1Q33EZjVlWNV0nghU.jpg" alt="TODO">
+    </figure>
+</div><p>Proof I made it to the top!</p><div class='image-gallery'>    <figure>
+        <img src="LK-puafx5bxOB960F2EIJpIkSUk.jpg" alt="TODO">
+    </figure>
+</div>
+<figure class="mapbox map-location">
+    <div id="map-59.446109299999996-24.7532008" class="map"></div>
+    <figcaption>Linnahall</figcaption>
+</figure>
+
+<script>
+    var lat = 59.446109299999996;
+    var lon = 24.7532008;
+
+    var map = L.map('map-59.446109299999996-24.7532008', {
+        center: [lat, lon],
+        zoom: 14
+    });
+    mapbox(map);
+
+    L.marker([lat, lon]).addTo(map);
+</script>
+
+<p>We stumbled across the sailing pavilion from the 1980 summer Olympics, when Estonia was part of Soviet Russia. An amazing example of Soviet architecture and urban decay.</p><div class='image-gallery'>    <figure>
+        <img src="s4ra8Vw_f3tgCt4HMLHu_TKCzEA.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="qSjBdRXgkfbbPjsfE86ENu5SiVI.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="AT1tONGwWd-i5OPa7EjHrgJyUqI.jpg" alt="TODO">
+    </figure>
+</div>
+<figure class="mapbox map-location">
+    <div id="map-59.4441542-24.7494211" class="map"></div>
+    <figcaption>Energy Discovery Centre</figcaption>
+</figure>
+
+<script>
+    var lat = 59.4441542;
+    var lon = 24.7494211;
+
+    var map = L.map('map-59.4441542-24.7494211', {
+        center: [lat, lon],
+        zoom: 14
+    });
+    mapbox(map);
+
+    L.marker([lat, lon]).addTo(map);
+</script>
+
+<p>The Energy Discovery Center was a science center in an old power plant. They had the biggest Tesla coil & Faraday cage I'd ever seen - and we got to see the show!</p><div class='image-gallery'>    <figure>
+        <img src="IKzx3CBFQDaCZYtKUs_abnG5Mzc.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="Z5PLRSy0HeWhemeC8wW1HdV986M.jpg" alt="TODO">
+    </figure>
+</div>
+<figure class="mapbox map-location">
+    <div id="map-59.4425302-24.749452299999998" class="map"></div>
+    <figcaption>Estonian Maritime Museum</figcaption>
+</figure>
+
+<script>
+    var lat = 59.4425302;
+    var lon = 24.749452299999998;
+
+    var map = L.map('map-59.4425302-24.749452299999998', {
+        center: [lat, lon],
+        zoom: 14
+    });
+    mapbox(map);
+
+    L.marker([lat, lon]).addTo(map);
+</script>
+
+<p>The Maritime Museum was in Fat Margaret, one of the towers that was part of the city's medieval gate system. Over its lifetime, it was a fortification, gunpowder & weapon storehouse, prison, and part of the 1917 revolution.  Now it has a museum and a delightful cafe with a wonderful view on the top floor.</p><div class='image-gallery'>    <figure>
+        <img src="99A2kuIw2b0eZ3OsiNya2udOCh0.jpg" alt="TODO">
+    </figure>
+</div><p>Most of the museums had English: in Finland, they had Finnish, Swedish & English, in Estonia they had Estonian and English. The Maritime Museum, however, was mostly in Russian, since it dated from the Soviet era!</p><div class='image-gallery'>    <figure>
+        <img src="kD8AZevq8fAeB5ewCntEgZT6qWY.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="ZwR0ECNziivKBSa0NCGqPnptKcA.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="fXExak_gCHw0uE4w51ZkSb_iVXo.jpg" alt="TODO">
+    </figure>
+</div><p>The boat from the deadliest peacetime maritime disaster in Europe!</p><div class='image-gallery'>    <figure>
+        <img src="M1VHFb7jFNZv1LwB9KkirdhoQJc.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="ys_kqzpd0sb1oLmjZIJNwLAHoE4.jpg" alt="TODO">
+    </figure>
+</div><p>There was a lot more travel in ancient times than I realized. These are coins from Estonia, including Arabic, Byzantine and Indian coins.</p><div class='image-gallery'>    <figure>
+        <img src="sHClxkqPcXM33Vj4KBpUo6uIAiM.jpg" alt="TODO">
+    </figure>
+</div><figure class="mapbox map-journey">
+    <div id="map-59.436960799999994-24.753574699999998-60.1698557-24.9383791" class="map"></div>
+    <figcaption>Tallinn to Helsinki</figcaption>
+</figure>
+
+<script>
+    var src_lat = 59.436960799999994;
+    var src_lon = 24.753574699999998;
+    var dst_lat = 60.1698557;
+    var dst_lon = 24.9383791;
+
+    var map = L.map('map-59.436960799999994-24.753574699999998-60.1698557-24.9383791', {
+        zoomSnap: 0.5
+    });
+    mapbox(map);
+
+    L.marker([src_lat, src_lon]).addTo(map);
+    L.marker([dst_lat, dst_lon]).addTo(map);
+    var polyline = L.polyline([[src_lat, src_lon], [dst_lat, dst_lon]], { color: 'red' }).addTo(map);
+
+    // zoom the map to the polyline
+    map.fitBounds(polyline.getBounds());
+</script><p>The ferry ride back was bumpier than going to Tallinn, but had amazing sunset views.</p><div class='image-gallery'>    <figure>
+        <img src="kn_iFycjaPDGM2a2RREdxDFkIxI.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="x1jWuvUxEQ30q43vYJbYmSxWcCY.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="OgkUtRqwKsU1Uru1zyckEHTiZTY.jpg" alt="TODO">
+    </figure>
+</div>
+<figure class="mapbox map-location">
+    <div id="map-60.1698556-24.9383791" class="map"></div>
+    <figcaption>Helsinki</figcaption>
+</figure>
+
+<script>
+    var lat = 60.1698556;
+    var lon = 24.9383791;
+
+    var map = L.map('map-60.1698556-24.9383791', {
+        center: [lat, lon],
+        zoom: 14
+    });
+    mapbox(map);
+
+    L.marker([lat, lon]).addTo(map);
+</script>
+
+<p>Our last full day in Helsinki! By this point I'm quite attached to Helsinki and don't want to leave. (My overworked feet were voting to go home.)</p><p>Our final AirBnb was super cute, tiny, and made great use of the space with a loft bed.</p><div class='image-gallery'>    <figure>
+        <img src="GbdTXQbdgxuQD_BVY7qh_2qzrnE.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="amRLFoUEVXwICPb4M5duE1iaG_A.jpg" alt="TODO">
+    </figure>
+</div>
+<figure class="mapbox map-location">
+    <div id="map-60.1647191-24.937785299999998" class="map"></div>
+    <figcaption>Café Ekberg</figcaption>
+</figure>
+
+<script>
+    var lat = 60.1647191;
+    var lon = 24.937785299999998;
+
+    var map = L.map('map-60.1647191-24.937785299999998', {
+        center: [lat, lon],
+        zoom: 14
+    });
+    mapbox(map);
+
+    L.marker([lat, lon]).addTo(map);
+</script>
+
+<p>Fancy brunch at Ekberg, a cafe that was over 150 years old.</p><div class='image-gallery'>    <figure>
+        <img src="Go3Mb-aNyNF7izN9HXL_xqhLC70.jpg" alt="TODO">
+    </figure>
+</div>
+<figure class="mapbox map-location">
+    <div id="map-60.1690226-24.9541365" class="map"></div>
+    <figcaption>Helsinki City Museum</figcaption>
+</figure>
+
+<script>
+    var lat = 60.1690226;
+    var lon = 24.9541365;
+
+    var map = L.map('map-60.1690226-24.9541365', {
+        center: [lat, lon],
+        zoom: 14
+    });
+    mapbox(map);
+
+    L.marker([lat, lon]).addTo(map);
+</script>
+
+<p>The Helsinki City Museum had a display on sexual and gender minority rights in Helsinki - very interesting!</p><div class='image-gallery'>    <figure>
+        <img src="VDlBv7k88fKqzqO7Bk_V-1WRmUo.jpg" alt="TODO">
+    </figure>
+</div>
+<figure class="mapbox map-location">
+    <div id="map-60.1826766-24.8869929" class="map"></div>
+    <figcaption>Seurasaari Open-Air Museum</figcaption>
+</figure>
+
+<script>
+    var lat = 60.1826766;
+    var lon = 24.8869929;
+
+    var map = L.map('map-60.1826766-24.8869929', {
+        center: [lat, lon],
+        zoom: 14
+    });
+    mapbox(map);
+
+    L.marker([lat, lon]).addTo(map);
+</script>
+
+<p>We didn't make it out to the Seurasaari Open Air Museum until they were almost closed, but we did get some good birdwatching in.</p><div class='image-gallery'>    <figure>
+        <img src="pCTZmU8p4PNCyU3vaCe5lMxckCU.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="XpFESB-Wif0zcxA7ygTDssehPrQ.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="RrUtMvoxffGJCuYZmEKbhYY4Z6Y.jpg" alt="TODO">
+    </figure>
+</div><p>I got to hold some Great Tits, and we almost got a photo of it too.</p><div class='image-gallery'>    <figure>
+        <img src="RISdwX6Bq_v5OApEr6AF17OlpQE.jpg" alt="TODO">
+    </figure>
+</div><p>The ducks left trails in the algae over the clay pit pools!</p><div class='image-gallery'>    <figure>
+        <img src="qgQKiM-n7YbCa3XTLOiPsx_n0vM.jpg" alt="TODO">
+    </figure>
+</div><p>And, back on the train to head home.</p><div class='image-gallery'>    <figure>
+        <img src="tUXOGuncffEbD4GhRa06CpPLxaE.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="174NEc5-1felJ2cl8DKSt8hOGeo.jpg" alt="TODO">
+    </figure>
+</div>
+<figure class="mapbox map-location">
+    <div id="map-60.321041599999994-24.9528604" class="map"></div>
+    <figcaption>Helsinki Airport</figcaption>
+</figure>
+
+<script>
+    var lat = 60.321041599999994;
+    var lon = 24.9528604;
+
+    var map = L.map('map-60.321041599999994-24.9528604', {
+        center: [lat, lon],
+        zoom: 14
+    });
+    mapbox(map);
+
+    L.marker([lat, lon]).addTo(map);
+</script>
+
+<p>European reporting is a little more opinionated than North American reporting...</p><div class='image-gallery'>    <figure>
+        <img src="kBBLf4kD7dw-R0D_Q8jHKmieq1Q.jpg" alt="TODO">
+    </figure>
+</div><figure class="mapbox map-journey">
+    <div id="map-60.1698556-24.9383791-49.2827291--123.12073749999999" class="map"></div>
+    <figcaption>Helsinki to Vancouver</figcaption>
+</figure>
+
+<script>
+    var src_lat = 60.1698556;
+    var src_lon = 24.9383791;
+    var dst_lat = 49.2827291;
+    var dst_lon = -123.12073749999999;
+
+    var map = L.map('map-60.1698556-24.9383791-49.2827291--123.12073749999999', {
+        zoomSnap: 0.5
+    });
+    mapbox(map);
+
+    L.marker([src_lat, src_lon]).addTo(map);
+    L.marker([dst_lat, dst_lon]).addTo(map);
+    var polyline = L.polyline([[src_lat, src_lon], [dst_lat, dst_lon]], { color: 'red' }).addTo(map);
+
+    // zoom the map to the polyline
+    map.fitBounds(polyline.getBounds());
+</script><div class='image-gallery'>    <figure>
+        <img src="MibUbSJxD_fVJR5d-p0MHRD32Oc.jpg" alt="TODO">
+    </figure>
+</div><p>Had a great trip, but glad to be home again.</p><p>Appendix: Birds!</p><div class='image-gallery'>    <figure>
+        <img src="m1jFWs_V9jWeaoiS5XDJIITOoAA.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="fHrbcXeNDD_yHvkQAC1Dhzyhz6M.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="U2DhZ55nMJwK5cqstxzEI4wGwGk.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="VdJJNv7l3uq-StI1LxoIHRh4Pvw.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="M-yCAmQ-9Nnpb6cQEFQ-R1RMwAM.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="NNOIvnq2TU4GAW9gQ66Q-Pfwxi0.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="lQDwSx89JN0qXzuKlolVTHK1nA.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="5w-h9Gv0qmiO235Fokm6YYNVL2s.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="PTCTQhpsiDwpXxfMrRA8tAo-54w.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="7yq3xv1HzBmck_n1V6GMS8D1hmg.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="xZmuP8zL4-sEaEfbrSu6ozQRllM.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="8tXlHRM-WP3q-n1BaaKJIwxBNgY.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="NfiAZt1aGrsa_TVMH_qQ95KiCIM.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="sd2IurFM_pciSxJrgZkIGFvE7TY.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="mnoR8azlifOihfiEqpZOIuL28.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="KseO9hg3tTMFO_a7ix3dzL2mmKs.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="r56QL3CAg3qzzl_eHgAlJF3_tiE.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="ZvsbQ-v7O6aCX_m7Es8go5EGzU8.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="IvUqCt34754ogUjLWZIasP5fgKM.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="qFHyv0vNiCaW9g4i1A0-gnf-jO4.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="lb7_DlfsvBcG7MHbcMVE1G4rzX4.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="BVkgO20RmtnlR2_SxvNC9yaidPk.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="j0HeBlazwDCZ3MCLHlm5uGDXjzo.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="h61xaZk18GYD-pYK3BMngXQ0fsg.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="k7Qm-6CCun39KDfRoCKZ58mhyMY.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="XkDGtkphbyYr04WtGKcHNsc1T60.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="Mb3ZQ1EuF9w_ePHqXYxPcP6WB8U.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="QwAjaHTAVWJ6a3lUYPxMAyQkbvw.jpg" alt="TODO">
+    </figure>
+</div>
+---
+end_date: 2017-08-24
+---
+start_date: 2017-08-06

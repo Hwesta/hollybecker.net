@@ -1,0 +1,267 @@
+title: Family Boat Trip
+---
+attendees: with my parents and brother
+---
+body:
+
+<p>We had a 28' Bayliner Contessa called Second Choice when I was growing up, but it was sold when my brother and I went off to university and it wasn't getting much use. After a few years, I started missing boating, and feeling like I hadn't appreciated it enough when I was a kid. Clearly I wasn't the only one missing boating, because Dad bought one! It's a 31' Ranger Tug, big enough to sleep two couples, small enough for two people to handle. Recently I went out for the first weekend trip with my family in a decade, and I was really excited.</p>
+<div class='image-gallery'>
+    <figure>
+        <img src="qem2CvGdQ8mcQjLE4ovA-SmMIhE.jpg" alt="TODO">
+    </figure>
+</div>
+<figure class="mapbox map-journey">
+    <div id="map-49.0565214--122.8704983-48.8112169--123.1878977" class="map"></div>
+    <figcaption>Crescent Beach Marina to Boat Pass Trail</figcaption>
+</figure>
+
+<script>
+    var src_lat = 49.0565214;
+    var src_lon = -122.8704983;
+    var dst_lat = 48.8112169;
+    var dst_lon = -123.1878977;
+
+    var map = L.map('map-49.0565214--122.8704983-48.8112169--123.1878977', {
+        zoomSnap: 0.5
+    });
+    mapbox(map);
+
+    L.marker([src_lat, src_lon]).addTo(map);
+    L.marker([dst_lat, dst_lon]).addTo(map);
+    var polyline = L.polyline([[src_lat, src_lon], [dst_lat, dst_lon]], { color: 'red' }).addTo(map);
+
+    // zoom the map to the polyline
+    map.fitBounds(polyline.getBounds());
+</script>
+<p>Friday evening we embarked. It was a bumpy crossing, more because of currents than because of wind, but we made it to Winter Cove in time to catch the sunset.</p>
+<div class='image-gallery'>
+    <figure>
+        <img src="QTvAkP-Sznvjbs88QQSoMbMrR0o.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="DjT6brqKeJkNumwN_39DCgnNd5w.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="vNsVLbJZNw-30XE-Ri39Zhb1wOc.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="PEpEBj_3P1OZKc-25Ptrsn4u61U.jpg" alt="TODO">
+    </figure>
+</div>
+<figure class="mapbox map-journey">
+    <div id="map-48.8112169--123.1878977-48.7737553--123.0984163" class="map"></div>
+    <figcaption>Boat Pass Trail to Narvaez Bay campsite</figcaption>
+</figure>
+
+<script>
+    var src_lat = 48.8112169;
+    var src_lon = -123.1878977;
+    var dst_lat = 48.7737553;
+    var dst_lon = -123.0984163;
+
+    var map = L.map('map-48.8112169--123.1878977-48.7737553--123.0984163', {
+        zoomSnap: 0.5
+    });
+    mapbox(map);
+
+    L.marker([src_lat, src_lon]).addTo(map);
+    L.marker([dst_lat, dst_lon]).addTo(map);
+    var polyline = L.polyline([[src_lat, src_lon], [dst_lat, dst_lon]], { color: 'red' }).addTo(map);
+
+    // zoom the map to the polyline
+    map.fitBounds(polyline.getBounds());
+</script>
+<p>After a brief morning walk at Winter Cove, we putted around to Narvaez Bay on the other end of Saturna, enjoying the scenery and lunch on the way.</p>
+<div class='image-gallery'>
+    <figure>
+        <img src="c0V7BwqQzeyUvu_YVM67JMJdZ2k.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="GS5SisczHuoAYbUDqYta4vnbyYg.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="RnluIgcS09mg0d0sB7gzxI3HxFc.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="H-6UvwjsTCuOELg8r3CXKIZOcFw.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="tTorYTOnenjtytH-cwSpoTzObic.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="tnPpDWqnWYc3L2tiOGlY1YNRPso.jpg" alt="TODO">
+    </figure>
+</div>
+<p>We passed a small island of birds! No good pics, but good birds (Black Oystercatchers).</p>
+<div class='image-gallery'>
+    <figure>
+        <img src="YrtGX7e3ZfJflIoLg-FftVjQjrI.jpg" alt="TODO">
+    </figure>
+</div>
+<p>We took a nice walk across the park, and enjoyed the views in the little bay on the other side.</p>
+<div class='image-gallery'>
+    <figure>
+        <img src="YGzTdhqRGWyOaWt_E93lXYHCZT8.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="0-q6T0QGyr-Hez8_AxPQYs0KlX8.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="xBYqawhNvi733u5c3j3jiqtkLyI.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="BT8JxYnPY0-mdjrFP6RIkh2t9eQ.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="pVH2u3kOLDU4SWr4UlsvAWyLRPg.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="85dRe2obAsWGk_tJjQMHdJA0d-w.jpg" alt="TODO">
+    </figure>
+</div>
+<p>We saw some some critters! We also had two Ospreys fly quite close overhead.</p>
+<div class='image-gallery'>
+    <figure>
+        <img src="lVDVs7cucckGAabrQgCpsOKFUCk.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="BKDfm246fgVi4fe-eit-HFwwc_o.jpg" alt="TODO">
+    </figure>
+</div>
+<p>Surprise! We stumbled on a geocache! We don't geocache, but it was pretty neat.</p>
+<div class='image-gallery'>
+    <figure>
+        <img src="Xpk8MXBdiEpzTIOf-VXCey9Xpw4.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="9zpmDtEfc3wD3I67wdhS2OwfbeM.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="W7GCASo4rzjsbpJQ73Fkqtew8qw.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="aGK7y3Ci0uF46BtCcVMYx_2ShNg.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="sS16QdExvYbSy_88hbGC0Wog9iA.jpg" alt="TODO">
+    </figure>
+</div>
+<p>I woke up earlier than anyone else the next morning and relaxed on top of the boat with my binoculars and the wind. This really is one of the most beautiful places in the world.</p>
+<div class='image-gallery'>
+    <figure>
+        <img src="3p_GMG68Zx9ARNfO7FpLlG-Vf5c.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="RB4NEZPFyBc2Ffo-rzBvQDBmrjs.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="y2Y0I6NtlyfaexO4fPRFL3MWXCw.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="3ZujsUV8-OukJutAa3_AjkRvvJ4.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="lwHh2D2NxB6mqZJC_9V3_-QtO9M.jpg" alt="TODO">
+    </figure>
+</div>
+<figure class="mapbox map-journey">
+    <div id="map-48.7737553--123.0984163-48.7926924--123.06640039999999" class="map"></div>
+    <figcaption>Narvaez Bay campsite to Tumbo Island</figcaption>
+</figure>
+
+<script>
+    var src_lat = 48.7737553;
+    var src_lon = -123.0984163;
+    var dst_lat = 48.7926924;
+    var dst_lon = -123.06640039999999;
+
+    var map = L.map('map-48.7737553--123.0984163-48.7926924--123.06640039999999', {
+        zoomSnap: 0.5
+    });
+    mapbox(map);
+
+    L.marker([src_lat, src_lon]).addTo(map);
+    L.marker([dst_lat, dst_lon]).addTo(map);
+    var polyline = L.polyline([[src_lat, src_lon], [dst_lat, dst_lon]], { color: 'red' }).addTo(map);
+
+    // zoom the map to the polyline
+    map.fitBounds(polyline.getBounds());
+</script>
+<p>On Sunday we had time for a walk on Tumbo Island before going home.</p>
+<div class='image-gallery'>
+    <figure>
+        <img src="toCW4d8U2V_iASeOxn6g4522h6A.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="wefjvAo1Su9Fi_qKUrjT-iNBU_c.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="79DJBuw2EdkzdBYgcGZGzZfgdIg.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="iI9w6iTiLfnnUnmzC5wQ3Sn5Mxo.jpg" alt="TODO">
+    </figure>
+</div>
+<p>Dad and Andrew had fun on the swing rope.</p>
+<div class='image-gallery'>
+    <figure>
+        <img src="IK3zSIE9NCKwRoYHg8KapESsPGI.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="94-3xe9eDX0asjx5wrAcuvTsNqc.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="-sCM8jQNDcUprPp4IpYQ6sId83M.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="FeHE776pMNZZqZcNDo09NCS4yKM.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="HiByfM5yVzPABJtd2993LHE6YPU.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="DpuAm-ka2v3_GCsXqJA_SXWRStc.jpg" alt="TODO">
+    </figure>
+    <figure>
+        <img src="rooB_x_V8BW8V7k3Htl962YrQIA.jpg" alt="TODO">
+    </figure>
+</div>
+<p>Saw some more otters too!</p>
+<div class='image-gallery'>
+    <figure>
+        <img src="L35Qz_t6F1usO7IKGbicj_kIi9k.jpg" alt="TODO">
+    </figure>
+</div>
+<p>It's nice to be back on the water.</p>
+<div class='image-gallery'>
+    <figure>
+        <img src="7JpWJ1U-Cw2RSzt7f237fx3O52I.jpg" alt="TODO">
+    </figure>
+</div>
+<figure class="mapbox map-journey">
+    <div id="map-48.7926924--123.06640039999999-49.0565214--122.8704983" class="map"></div>
+    <figcaption>Tumbo Island to Crescent Beach Marina</figcaption>
+</figure>
+
+<script>
+    var src_lat = 48.7926924;
+    var src_lon = -123.06640039999999;
+    var dst_lat = 49.0565214;
+    var dst_lon = -122.8704983;
+
+    var map = L.map('map-48.7926924--123.06640039999999-49.0565214--122.8704983', {
+        zoomSnap: 0.5
+    });
+    mapbox(map);
+
+    L.marker([src_lat, src_lon]).addTo(map);
+    L.marker([dst_lat, dst_lon]).addTo(map);
+    var polyline = L.polyline([[src_lat, src_lon], [dst_lat, dst_lon]], { color: 'red' }).addTo(map);
+
+    // zoom the map to the polyline
+    map.fitBounds(polyline.getBounds());
+</script>
+---
+end_date: 2018-07-15
+---
+start_date: 2018-07-13

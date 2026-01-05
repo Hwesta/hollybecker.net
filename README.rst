@@ -4,9 +4,18 @@ README
 Install
 -------
 
-* pacman -S ruby ruby-bundler
-* yay -S ruby-build rbenv
+* Install python
+* Install lektor
+  * https://www.getlektor.com/docs/installation/
+  * `pipx install lektor`
+* Install plugins
+  * `lektor plugins add markdown-header-anchors`
 * cd <this project>
-* bundle install --path vendor/bundle
-* bundle exec jekyll serve # Run locally
-* bundel exec jekyll build # compile all the files
+* lektor serve # run locally
+* lektor build # compile files
+
+
+Deploy
+------
+
+`./_deploy.sh`

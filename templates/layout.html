@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>{% block title %}Home{% endblock %} — hollybecker.net</title>
+  <meta name="description" content="{% block summary %}Holly Becker's personal site. Fantasy & sci-fi fan, board & video gamer, book lover, Japanese learner, birdwatcher, software developer, Pythonista, geek. {% endblock %}">
+
+  <link rel="stylesheet" href="{{ '/css/style.css'|asseturl }}">
+  <link rel="stylesheet" href="{{ '/css/syntax.css'|asseturl }}">
+  {% block extra_head %}{% endblock %}
+</head>
+
+<body>
+  <header>
+    <hgroup>
+      <h1><a href="{{ '/'|url }}">Holly Becker</a></h1>
+    </hgroup>
+    <nav>
+      <ul>
+        {% for href, title in [
+        ['/blog', "Blog"],
+        ['/talks', "Talks"],
+        ['/about', "About Me"],
+        ] %}
+        <li{% if this.is_child_of(href) %} class="active" {% endif %}><a href="{{ href|url }}">{{ title }}</a></li>{% endfor %}
+      </ul>
+    </nav>
+  </header>
+  <main>
+    {% block body %}{% endblock %}
+  </main>
+
+  <footer>
+    <a href='https://images.nasa.gov/#/details-0302063.html'>Background Image source</a> | <a href='http://validator.w3.org/check?uri=referer'>Valid HTML</a>
+  </footer>
+</body>
+
+</html>
