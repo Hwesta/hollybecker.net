@@ -1,0 +1,26 @@
+{% if this.lat and this.lon %}
+
+<figure class="mapbox map-location">
+    <div id="map-{{ this.lat }}-{{ this.lon }}" class="map"></div>
+    <figcaption>{{ this.text }}</figcaption>
+</figure>
+
+<script>
+    var lat = {{ this.lat }};
+    var lon = {{ this.lon }};
+
+    var map = L.map('map-{{ this.lat }}-{{ this.lon }}', {
+        center: [lat, lon],
+        zoom: 14
+    });
+    mapbox(map);
+
+    L.marker([lat, lon]).addTo(map);
+</script>
+
+{% else %}
+
+<p>TODO add lat and long</p>
+{{ this }}
+
+{% endif %}
