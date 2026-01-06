@@ -1,0 +1,17 @@
+{% extends "layout.html" %}
+
+{% block title %}Craft Project - {{ this.title | striptags }}{% endblock %}
+{% if this.summary %}
+{% block summary %}{{ this.summary }}{% endblock %}
+{% endif %}
+
+{% block body %}
+<h2>{{ this.title }}</h2>
+<p class="blog-meta">{{ this.craft_type }}, {{ this.completion_date }}. {% if this.pattern %}<a href="{{this.pattern}}">Pattern</a>{%endif%}</p>
+
+{{ this.body }}
+<hr>
+
+<p class="page-meta"><a href="/craft-projects/">Return to crafts</a></p>
+
+{% endblock %}
