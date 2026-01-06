@@ -188,6 +188,11 @@ main ul {
     margin-bottom: 0.4rem;
 }
 
+main img {
+    max-width: var(--container-width);
+    border: 1px solid var(--primary-color);
+}
+
 /* Code */
 code {
     padding: 0 .2rem;
