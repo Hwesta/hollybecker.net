@@ -1,10 +1,12 @@
 [project]
 name = Holly Becker
+url = https://hollybecker.net
 locale = en_CA
 url_style = absolute
 
 [packages]
 lektor-markdown-header-anchors = 0.3.1
+lektor-atom = 0.4.0
 
 [servers.test]
 name = localtest
