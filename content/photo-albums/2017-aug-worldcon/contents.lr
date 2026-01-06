@@ -1,4 +1,4 @@
-title: WorldCon75 (Helsinki & Estonia)
+title: WorldCon75
 ---
 attendees: with Dale
 ---
@@ -1318,3 +1318,5 @@ Location: "Café Dannebrog, Tallinn", "None" (None,None)
 end_date: 2017-08-24
 ---
 start_date: 2017-08-06
+---
+location: Helsinki & Estonia

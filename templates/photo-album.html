@@ -33,7 +33,7 @@
 {% block body %}
 <hgroup>
     <h2>{{ this.title }}</h2>
-    <p class="blog-meta">{% if this.attendees %}{{this.attendees}}, {% endif %}{{ this.start_date | dateformat('medium') }} - {{ this.end_date | dateformat('medium') }}</p>
+    <p class="blog-meta">{% if this.location %}{{this.location}} {%endif%}{% if this.attendees %}{{this.attendees}}, {% endif %}{{ this.start_date | dateformat('medium') }} - {{ this.end_date | dateformat('medium') }}</p>
 </hgroup>
 
 {{ this.body }}

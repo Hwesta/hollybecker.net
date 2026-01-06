@@ -209,6 +209,34 @@ pre>code {
     white-space: pre;
 }
 
+/* Project gallery */
+
+.project-gallery {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    --image-width: 300px;
+    --padding: 20px;
+}
+
+div.project-box {
+    flex: 1;
+    min-width: calc(var(--image-width)+var(--padding)*2)px;
+    width: fit-content;
+    max-width: 100%;
+    margin: 1rem;
+    padding: var(--padding);
+    background-color: white;
+    box-shadow: 5px 5px 5px grey;
+    border: 1px solid var(--border-color);
+    border-radius: var(--border-radius);
+    text-align: center;
+
+    img {
+        max-width: var(--image-width);
+    }
+}
+
 /* Image gallery */
 
 div.image-gallery {

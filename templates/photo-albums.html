@@ -3,9 +3,19 @@
 {% block title %}{{ this.title }}{% endblock %}
 {% block body %}
 <h2>Trip Photo Albums</h2>
-<ul>
-    {% for child in this.pagination.items %}
-    <li><a href="{{child|url}}">{{child.title}}</a> <i>{{child.start_date}} - {{child.end_date}}</i></li>
+
+<div class='project-gallery'>
+    {% for album in this.pagination.items %}
+    <div class="project-box">
+        {% if album.attachments.images.filter(F.cover_image == true).first() %}
+        <a href="{{ album|url }}"><img src="{{ album.attachments.images.filter(F.cover_image == true).first().thumbnail(300, 300, mode='crop', upscale=false)|url }}"></a>
+        {% endif %}
+        <hgroup>
+            <h3><a href="{{ album|url }}">{{ album.title }}</a></h3>
+            <p class="blog-meta">{{ album.start_date | dateformat('medium') }} - {{ album.end_date | dateformat('medium') }}</p>
+            <p class='blog-meta'>{% if album.location %}{{album.location}} {%endif%}{% if album.attendees %}{{album.attendees}}{% endif %}</p>
+        </hgroup>
+    </div>
     {% endfor %}
-</ul>
+</div>
 {% endblock %}
