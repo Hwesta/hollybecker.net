@@ -252,12 +252,23 @@ div.image-gallery {
         margin: 0.5rem;
         padding: 0;
         text-align: center;
+        position: relative;
 
         img {
             object-fit: scale-down;
             max-height: 800px;
             min-width: 310px;
             max-width: 100%;
+        }
+
+        figcaption {
+            position: absolute;
+            bottom: 0.5rem;
+            left: 0;
+            width: 100%;
+            /* background: linear-gradient(0deg, grey, #0000); */
+            color: white;
+            font-style: italic;
         }
     }
 
