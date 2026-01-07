@@ -243,7 +243,7 @@ div.image-gallery {
     display: flex;
     flex-wrap: wrap;
     align-items: center;
-    justify-content: normal;
+    justify-content: space-around;
     margin: 0;
     padding: 0;
 
@@ -256,10 +256,15 @@ div.image-gallery {
         img {
             object-fit: scale-down;
             max-height: 800px;
-            min-width: 300px;
+            min-width: 310px;
             max-width: 100%;
         }
     }
+
+    .highlight {
+        min-width: 90%;
+    }
+
 }
 
 figure.mapbox {

@@ -2,360 +2,505 @@ title: PAX South 2017
 ---
 attendees: with Dale
 ---
-body:
+body_flow:
 
-<figure class="mapbox map-journey">
-    <div id="map-49.2827291--123.12073749999999-29.4241219--98.49362819999999" class="map"></div>
-    <figcaption>Vancouver to San Antonio</figcaption>
-</figure>
+#### map ####
+src_text: Vancouver
+----
+src_lat: 49.2827291
+----
+src_lon: -123.12073749999999
+----
+dst_text: San Antonio
+----
+dst_lat: 29.4241219
+----
+dst_lon: -98.49362819999999
+#### text ####
+text: Flight down was uneventful, but we got some nice pictures.
 
-<script>
-    var src_lat = 49.2827291;
-    var src_lon = -123.12073749999999;
-    var dst_lat = 29.4241219;
-    var dst_lon = -98.49362819999999;
+#### image-collection ####
+images:
 
-    var map = L.map('map-49.2827291--123.12073749999999-29.4241219--98.49362819999999', {
-        zoomSnap: 0.5
-    });
-    mapbox(map);
+##### image #####
+image: 6N0FT1o04SmNdYSwo3qIyGihU40.jpg
+-----
+alt: TODO
+##### image #####
+image: VpPpzKsVF4orGnci6Cf6G6yIcjs.jpg
+-----
+alt: TODO
+#### text ####
+text: We transferred through LAX and saw the HOLLYWOOD sign, and the first landed SpaceX rocket!!  (We were far away and the plane was bumpy)
 
-    L.marker([src_lat, src_lon]).addTo(map);
-    L.marker([dst_lat, dst_lon]).addTo(map);
-    var polyline = L.polyline([[src_lat, src_lon], [dst_lat, dst_lon]], { color: 'red' }).addTo(map);
+#### image-collection ####
+images:
 
-    // zoom the map to the polyline
-    map.fitBounds(polyline.getBounds());
-</script>
-<p>Flight down was uneventful, but we got some nice pictures.</p>
-<div class='image-gallery'>
-    <figure>
-        <img src="6N0FT1o04SmNdYSwo3qIyGihU40.jpg" alt="TODO">
-    </figure>
-    <figure>
-        <img src="VpPpzKsVF4orGnci6Cf6G6yIcjs.jpg" alt="TODO">
-    </figure>
-</div>
-<p>We transferred through LAX and saw the HOLLYWOOD sign, and the first landed SpaceX rocket!! (We were far away and the plane was bumpy)</p>
-<div class='image-gallery'>
-    <figure>
-        <img src="iFSA-0KKy_9v1vSA55fi09Or8hE.jpg" alt="TODO">
-    </figure>
-    <figure>
-        <img src="uadpC3asTrEYBmBcerMf-bLTb64.jpg" alt="TODO">
-    </figure>
-</div>
-<p>Our hotel had a nice view of downtown and the riverwalk</p>
-<div class='image-gallery'>
-    <figure>
-        <img src="dXiKPTgbLowiY4uEmYxXfQf7Ecw.jpg" alt="TODO">
-    </figure>
-    <figure>
-        <img src="vlccXHp1taix1491ouLifu5lses.jpg" alt="TODO">
-    </figure>
-    <figure>
-        <img src="OOeVExlAYV1vpHrn4eA2Sy6cD6k.jpg" alt="TODO">
-    </figure>
-</div>
-<p>Of course the first thing we did touristing was visit the Alamo</p>
-<div class='image-gallery'>
-    <figure>
-        <img src="zhTzjSkT9U2HZ92XitsGt0chrMk.jpg" alt="TODO">
-    </figure>
-</div>
-<p>Impressive even at night.</p>
-<div class='image-gallery'>
-    <figure>
-        <img src="xyxXxIBY6Gmvsf07Tcsrsz1qOt0.jpg" alt="TODO">
-    </figure>
-</div>
-<p>There was more to it than the famous entrance too.</p>
-<div class='image-gallery'>
-    <figure>
-        <img src="qxUTHhC9bdz5NmR0ar0jtIrg3os.jpg" alt="TODO">
-    </figure>
-</div>
-<p>I really enjoyed the riverwalk in San Antonio. Both the downtown parts... (Dale was super excited for the BBQ)</p>
-<div class='image-gallery'>
-    <figure>
-        <img src="9ZaWX_PuQglRHgIyadOR1dyM2IY.jpg" alt="TODO">
-    </figure>
-    <figure>
-        <img src="F4Cw2KwmMVgo2EiI3bT5kr2nofI.jpg" alt="TODO">
-    </figure>
-    <figure>
-        <img src="3lLmzGDFTTwCViYYl67krBkUwAo.jpg" alt="TODO">
-    </figure>
-</div>
-<p>..and the park-like atmosphere out of downtown.</p>
-<div class='image-gallery'>
-    <figure>
-        <img src="ptjE-qCGf04G4ZEVNxM7UmpFcE0.jpg" alt="TODO">
-    </figure>
-    <figure>
-        <img src="ZLFN45O-pc8zW26yld5D8tDxrfw.jpg" alt="TODO">
-    </figure>
-    <figure>
-        <img src="rICZfTZooUjIJ74UJpc463pTpnw.jpg" alt="TODO">
-    </figure>
-</div>
-<p>There were nice water features</p>
-<div class='image-gallery'>
-    <figure>
-        <img src="mXCxL498oChjqDaI5H7JIPkTpNI.jpg" alt="TODO">
-    </figure>
-    <figure>
-        <img src="uMNDbFdDpn4zVgdOzeILjPBdG9w.jpg" alt="TODO">
-    </figure>
-    <figure>
-        <img src="WdZaE7G-ZCwOfZHemfWyahuqPX4.jpg" alt="TODO">
-    </figure>
-</div>
-<p>And neat public art.</p>
-<div class='image-gallery'>
-    <figure>
-        <img src="1QMy4432jUsWvHWPEG2DP2iMt3o.jpg" alt="TODO">
-    </figure>
-    <figure>
-        <img src="Mlzt236roy4G2q09ao8ZMBWsuwg.jpg" alt="TODO">
-    </figure>
-</div>
-<p>We saw a turtle! They have weird back legs.</p>
-<div class='image-gallery'>
-    <figure>
-        <img src="LL3Q-4DPmYGRDrM6xmmP-rjxLOk.jpg" alt="TODO">
-    </figure>
-</div>
-<p>And some neat birds.</p>
-<div class='image-gallery'>
-    <figure>
-        <img src="V0WLX8t47DZX2oN0tmqQVEwi4t4.jpg" alt="TODO">
-    </figure>
-    <figure>
-        <img src="tM1dkJSSOX09dXfJAR7IwRyvxuQ.jpg" alt="TODO">
-    </figure>
-</div>
-<p>We found a delightful restaurant with swings facing the riverwalk.</p>
-<div class='image-gallery'>
-    <figure>
-        <img src="eQquSN4_Guxb13pKZJC4e8yk7TE.jpg" alt="TODO">
-    </figure>
-    <figure>
-        <img src="cz7w-3LRhWWnL085fI7QfCtbJIY.jpg" alt="TODO">
-    </figure>
-    <figure>
-        <img src="8gKOHYgdYsDGNuyz_hptWD5im6M.jpg" alt="TODO">
-    </figure>
-</div>
-<p>The church downtown was gorgeous.</p>
-<div class='image-gallery'>
-    <figure>
-        <img src="N1xurmj9C4gUporKD2rkjGHA9vs.jpg" alt="TODO">
-    </figure>
-</div>
-<p>And they did a lightshow showing the history of San Antonio on the church</p>
-<div class='image-gallery'>
-    <figure>
-        <img src="ZoEESwShhqUn5PYXTS2CjozzZuU.jpg" alt="TODO">
-    </figure>
-    <figure>
-        <img src="QgHxwvuLh1ikhlMpJ-Lc2bJHok4.jpg" alt="TODO">
-    </figure>
-    <figure>
-        <img src="1x8SyXYTbpQEaDT8r_070nbqtEA.jpg" alt="TODO">
-    </figure>
-    <figure>
-        <img src="PWb3U44vysB-H5L_oHpQuGYPhqs.jpg" alt="TODO">
-    </figure>
-    <figure>
-        <img src="nR4UQO4S4NDwzWb6bpGcpyRTJAg.jpg" alt="TODO">
-    </figure>
-    <figure>
-        <img src="XwlIDrvRaYLGyWG6KUzpLYkqY3E.jpg" alt="TODO">
-    </figure>
-    <figure>
-        <img src="u9KgluhfhdwPJdJ8JIhgElY2Y6s.jpg" alt="TODO">
-    </figure>
-    <figure>
-        <img src="kBvE9VdmPrnRIXwyU0va4ivCPK8.jpg" alt="TODO">
-    </figure>
-    <figure>
-        <img src="s823mty9Y6HYeHUAxLDk_2l7Tu0.jpg" alt="TODO">
-    </figure>
-    <figure>
-        <img src="Uaj6N6eNA58Kb2yoZWBZrQfOUS4.jpg" alt="TODO">
-    </figure>
-</div>
-<p>We spent a day visiting the other missions along the San Antonio river</p>
-<div class='image-gallery'>
-    <figure>
-        <img src="x6ZGpX74VUCE13JwH4sx0UbIrFQ.jpg" alt="TODO">
-    </figure>
-    <figure>
-        <img src="8JZ4xDtSp_HGIq1gHUTeRL4n_MA.jpg" alt="TODO">
-    </figure>
-    <figure>
-        <img src="0lJjG7dZnNXjVnIjFhhokUX0K_U.jpg" alt="TODO">
-    </figure>
-</div>
-<p>We saw the famous Rose Window</p>
-<div class='image-gallery'>
-    <figure>
-        <img src="UUtYK37MTJj8Mf56q-vjFuCipq8.jpg" alt="TODO">
-    </figure>
-</div>
-<p>And admired the interesting stonework and paintings.</p>
-<div class='image-gallery'>
-    <figure>
-        <img src="jfjHHjgY95XX3PENn5kVSp3X8-4.jpg" alt="TODO">
-    </figure>
-    <figure>
-        <img src="s4LgFNVqWs0ICN69SCNRTuB2nC8.jpg" alt="TODO">
-    </figure>
-</div>
-<p>I thought it was neat you could see where the filled in the bigger door to a smaller one.</p>
-<div class='image-gallery'>
-    <figure>
-        <img src="b71VugvRyGdfskqsTexDmwkmtfo.jpg" alt="TODO">
-    </figure>
-</div>
-<p>The food in Texas was all amazing.</p>
-<div class='image-gallery'>
-    <figure>
-        <img src="0xjDawEGn5Cx4X2iMbj2bJbqrxI.jpg" alt="TODO">
-    </figure>
-    <figure>
-        <img src="AE4m42aFuHK9P20JKRf46muuUSw.jpg" alt="TODO">
-    </figure>
-</div>
-<p>And the restaurants were bright and boisterous!</p>
-<div class='image-gallery'>
-    <figure>
-        <img src="QExiTzz-X4LR8UsH3WHcVon0pZc.jpg" alt="TODO">
-    </figure>
-    <figure>
-        <img src="YSG7vTYAKDtXRIgd0UUaehDpCvk.jpg" alt="TODO">
-    </figure>
-</div>
-<p>There were delicious Mexican baked goods.</p>
-<div class='image-gallery'>
-    <figure>
-        <img src="3RudCqjGSn3d1_HgtsIzmQRN_NA.jpg" alt="TODO">
-    </figure>
-</div>
-<p>And even mariachi bands!</p>
-<div class='image-gallery'>
-    <figure>
-        <img src="OwanPnBcgIJLzL4osHLFmje1Y6Q.jpg" alt="TODO">
-    </figure>
-    <figure>
-        <img src="QExj5G2h39gTAUxRBWaWmtlvfFc.jpg" alt="TODO">
-    </figure>
-</div>
-<p>No one told me there were unicorns in Texas! Sadly, I didn't get a ride.</p>
-<div class='image-gallery'>
-    <figure>
-        <img src="V3DU3dALEiIraZjHc-yoLbAi338.jpg" alt="TODO">
-    </figure>
-</div>
-<p>And they get sunsets that cover the sky</p>
-<div class='image-gallery'>
-    <figure>
-        <img src="L07REP_eowHYlN1UEYVVkK7UaPw.jpg" alt="TODO">
-    </figure>
-</div>
-<p>And then, the reason we came down: PAX South!</p>
-<div class='image-gallery'>
-    <figure>
-        <img src="Ni6LxjB3-8P8M6rmL_B7O_dXcTg.jpg" alt="TODO">
-    </figure>
-</div>
-<p>There were some amazing cosplays.</p>
-<div class='image-gallery'>
-    <figure>
-        <img src="M3Z7_x-T3lD5TAJINIdS0NJ6SkU.jpg" alt="TODO">
-    </figure>
-    <figure>
-        <img src="cOe3gsaNuoTREnPE0vJLolYI4GU.jpg" alt="TODO">
-    </figure>
-    <figure>
-        <img src="iNOIq3oFQlzhpGh0ufwH_sRprl4.jpg" alt="TODO">
-    </figure>
-    <figure>
-        <img src="2B1AIEpacYtfKrzkDGuDrDHTdbk.jpg" alt="TODO">
-    </figure>
-    <figure>
-        <img src="AlQy8ZuJTsuISZGYRRnTQAo48C4.jpg" alt="TODO">
-    </figure>
-    <figure>
-        <img src="76NxlN7lz2hi2hH6pYflcBP9A8g.jpg" alt="TODO">
-    </figure>
-    <figure>
-        <img src="nw04p8kJNo6_q6DPFviSV74lkSc.jpg" alt="TODO">
-    </figure>
-</div>
-<p>A Magic card vending machine (I got one for a friend)</p>
-<div class='image-gallery'>
-    <figure>
-        <img src="zCWh_WWt6uVC2nCqGRLCH2ZAHIk.jpg" alt="TODO">
-    </figure>
-</div>
-<p>And I played some games. (I won)</p>
-<div class='image-gallery'>
-    <figure>
-        <img src="hEaKxZXpXCUNJ-_YPE-GM-cvUMY.jpg" alt="TODO">
-    </figure>
-</div>
-<p>I also went to my first protest! Everyone was very friendly, and there were some great geeky signs.</p>
-<div class='image-gallery'>
-    <figure>
-        <img src="3wrfCeVcjvu89iawyseqTSmpAVg.jpg" alt="TODO">
-    </figure>
-    <figure>
-        <img src="DJ_Ir_v3sEweMjgbgpSmrWP0Zdc.jpg" alt="TODO">
-    </figure>
-</div>
-<p>The flight down and back both had an amazing sunset.</p>
-<div class='image-gallery'>
-    <figure>
-        <img src="RZlo6PdQSws88HnC_2GFVkThCCE.jpg" alt="TODO">
-    </figure>
-    <figure>
-        <img src="j5uBFhFA9O6VQu8muQ1KJswtPI4.jpg" alt="TODO">
-    </figure>
-</div>
-<figure class="mapbox map-journey">
-    <div id="map-29.4241219--98.4936281-49.2827291--123.12073749999999" class="map"></div>
-    <figcaption>San Antonio to Vancouver</figcaption>
-</figure>
+##### image #####
+image: iFSA-0KKy_9v1vSA55fi09Or8hE.jpg
+-----
+alt: TODO
+##### image #####
+image: uadpC3asTrEYBmBcerMf-bLTb64.jpg
+-----
+alt: TODO
+#### text ####
+text: Our hotel had a nice view of downtown and the riverwalk
 
-<script>
-    var src_lat = 29.4241219;
-    var src_lon = -98.4936281;
-    var dst_lat = 49.2827291;
-    var dst_lon = -123.12073749999999;
+#### image-collection ####
+images:
 
-    var map = L.map('map-29.4241219--98.4936281-49.2827291--123.12073749999999', {
-        zoomSnap: 0.5
-    });
-    mapbox(map);
+##### image #####
+image: dXiKPTgbLowiY4uEmYxXfQf7Ecw.jpg
+-----
+alt: TODO
+##### image #####
+image: vlccXHp1taix1491ouLifu5lses.jpg
+-----
+alt: TODO
+##### image #####
+image: OOeVExlAYV1vpHrn4eA2Sy6cD6k.jpg
+-----
+alt: TODO
+#### text ####
+text: Of course the first thing we did touristing was visit the Alamo
 
-    L.marker([src_lat, src_lon]).addTo(map);
-    L.marker([dst_lat, dst_lon]).addTo(map);
-    var polyline = L.polyline([[src_lat, src_lon], [dst_lat, dst_lon]], { color: 'red' }).addTo(map);
+#### image-collection ####
+images:
 
-    // zoom the map to the polyline
-    map.fitBounds(polyline.getBounds());
-</script>
-<p>Much to my surprise, Vancouver's arrivals has an amazing coast salish room.</p>
-<div class='image-gallery'>
-    <figure>
-        <img src="0YOlRrBcrkHBPmvixWq796BAYaA.jpg" alt="TODO">
-    </figure>
-    <figure>
-        <img src="8pRSE8yrN2Hey6dR-a2T1sEJhEs.jpg" alt="TODO">
-    </figure>
-</div>
+##### image #####
+image: zhTzjSkT9U2HZ92XitsGt0chrMk.jpg
+-----
+alt: TODO
+#### text ####
+text: Impressive even at night.
+
+#### image-collection ####
+images:
+
+##### image #####
+image: xyxXxIBY6Gmvsf07Tcsrsz1qOt0.jpg
+-----
+alt: TODO
+#### text ####
+text: There was more to it than the famous entrance too.
+
+#### image-collection ####
+images:
+
+##### image #####
+image: qxUTHhC9bdz5NmR0ar0jtIrg3os.jpg
+-----
+alt: TODO
+#### text ####
+text: I really enjoyed the riverwalk in San Antonio.  Both the downtown parts... (Dale was super excited for the BBQ)
+
+#### image-collection ####
+images:
+
+##### image #####
+image: 9ZaWX_PuQglRHgIyadOR1dyM2IY.jpg
+-----
+alt: TODO
+##### image #####
+image: F4Cw2KwmMVgo2EiI3bT5kr2nofI.jpg
+-----
+alt: TODO
+##### image #####
+image: 3lLmzGDFTTwCViYYl67krBkUwAo.jpg
+-----
+alt: TODO
+#### text ####
+text: ..and the park-like atmosphere out of downtown.
+
+#### image-collection ####
+images:
+
+##### image #####
+image: ptjE-qCGf04G4ZEVNxM7UmpFcE0.jpg
+-----
+alt: TODO
+##### image #####
+image: ZLFN45O-pc8zW26yld5D8tDxrfw.jpg
+-----
+alt: TODO
+##### image #####
+image: rICZfTZooUjIJ74UJpc463pTpnw.jpg
+-----
+alt: TODO
+#### text ####
+text: There were nice water features
+
+#### image-collection ####
+images:
+
+##### image #####
+image: mXCxL498oChjqDaI5H7JIPkTpNI.jpg
+-----
+alt: TODO
+##### image #####
+image: uMNDbFdDpn4zVgdOzeILjPBdG9w.jpg
+-----
+alt: TODO
+##### image #####
+image: WdZaE7G-ZCwOfZHemfWyahuqPX4.jpg
+-----
+alt: TODO
+#### text ####
+text: And neat public art.
+
+#### image-collection ####
+images:
+
+##### image #####
+image: 1QMy4432jUsWvHWPEG2DP2iMt3o.jpg
+-----
+alt: TODO
+##### image #####
+image: Mlzt236roy4G2q09ao8ZMBWsuwg.jpg
+-----
+alt: TODO
+#### text ####
+text: We saw a turtle! They have weird back legs.
+
+#### image-collection ####
+images:
+
+##### image #####
+image: LL3Q-4DPmYGRDrM6xmmP-rjxLOk.jpg
+-----
+alt: TODO
+#### text ####
+text: And some neat birds.
+
+#### image-collection ####
+images:
+
+##### image #####
+image: V0WLX8t47DZX2oN0tmqQVEwi4t4.jpg
+-----
+alt: TODO
+##### image #####
+image: tM1dkJSSOX09dXfJAR7IwRyvxuQ.jpg
+-----
+alt: TODO
+#### text ####
+text: We found a delightful restaurant with swings facing the riverwalk.
+
+#### image-collection ####
+images:
+
+##### image #####
+image: eQquSN4_Guxb13pKZJC4e8yk7TE.jpg
+-----
+alt: TODO
+##### image #####
+image: cz7w-3LRhWWnL085fI7QfCtbJIY.jpg
+-----
+alt: TODO
+##### image #####
+image: 8gKOHYgdYsDGNuyz_hptWD5im6M.jpg
+-----
+alt: TODO
+#### text ####
+text: The church downtown was gorgeous.
+
+#### image-collection ####
+images:
+
+##### image #####
+image: N1xurmj9C4gUporKD2rkjGHA9vs.jpg
+-----
+alt: TODO
+#### text ####
+text: And they did a lightshow showing the history of San Antonio on the church
+
+#### image-collection ####
+images:
+
+##### image #####
+image: ZoEESwShhqUn5PYXTS2CjozzZuU.jpg
+-----
+alt: TODO
+##### image #####
+image: QgHxwvuLh1ikhlMpJ-Lc2bJHok4.jpg
+-----
+alt: TODO
+##### image #####
+image: 1x8SyXYTbpQEaDT8r_070nbqtEA.jpg
+-----
+alt: TODO
+##### image #####
+image: PWb3U44vysB-H5L_oHpQuGYPhqs.jpg
+-----
+alt: TODO
+##### image #####
+image: nR4UQO4S4NDwzWb6bpGcpyRTJAg.jpg
+-----
+alt: TODO
+##### image #####
+image: XwlIDrvRaYLGyWG6KUzpLYkqY3E.jpg
+-----
+alt: TODO
+##### image #####
+image: u9KgluhfhdwPJdJ8JIhgElY2Y6s.jpg
+-----
+alt: TODO
+##### image #####
+image: kBvE9VdmPrnRIXwyU0va4ivCPK8.jpg
+-----
+alt: TODO
+##### image #####
+image: s823mty9Y6HYeHUAxLDk_2l7Tu0.jpg
+-----
+alt: TODO
+##### image #####
+image: Uaj6N6eNA58Kb2yoZWBZrQfOUS4.jpg
+-----
+alt: TODO
+#### text ####
+text: We spent a day visiting the other missions along the San Antonio river
+
+#### image-collection ####
+images:
+
+##### image #####
+image: x6ZGpX74VUCE13JwH4sx0UbIrFQ.jpg
+-----
+alt: TODO
+##### image #####
+image: 8JZ4xDtSp_HGIq1gHUTeRL4n_MA.jpg
+-----
+alt: TODO
+##### image #####
+image: 0lJjG7dZnNXjVnIjFhhokUX0K_U.jpg
+-----
+alt: TODO
+#### text ####
+text: We saw the famous Rose Window
+
+#### image-collection ####
+images:
+
+##### image #####
+image: UUtYK37MTJj8Mf56q-vjFuCipq8.jpg
+-----
+alt: TODO
+#### text ####
+text: And admired the interesting stonework and paintings.
+
+#### image-collection ####
+images:
+
+##### image #####
+image: jfjHHjgY95XX3PENn5kVSp3X8-4.jpg
+-----
+alt: TODO
+##### image #####
+image: s4LgFNVqWs0ICN69SCNRTuB2nC8.jpg
+-----
+alt: TODO
+#### text ####
+text: I thought it was neat you could see where the filled in the bigger door to a smaller one.
+
+#### image-collection ####
+images:
+
+##### image #####
+image: b71VugvRyGdfskqsTexDmwkmtfo.jpg
+-----
+alt: TODO
+#### text ####
+text: The food in Texas was all amazing.
+
+#### image-collection ####
+images:
+
+##### image #####
+image: 0xjDawEGn5Cx4X2iMbj2bJbqrxI.jpg
+-----
+alt: TODO
+##### image #####
+image: AE4m42aFuHK9P20JKRf46muuUSw.jpg
+-----
+alt: TODO
+#### text ####
+text: And the restaurants were bright and boisterous!
+
+#### image-collection ####
+images:
+
+##### image #####
+image: QExiTzz-X4LR8UsH3WHcVon0pZc.jpg
+-----
+alt: TODO
+##### image #####
+image: YSG7vTYAKDtXRIgd0UUaehDpCvk.jpg
+-----
+alt: TODO
+#### text ####
+text: There were delicious Mexican baked goods.
+
+#### image-collection ####
+images:
+
+##### image #####
+image: 3RudCqjGSn3d1_HgtsIzmQRN_NA.jpg
+-----
+alt: TODO
+#### text ####
+text: And even mariachi bands!
+
+#### image-collection ####
+images:
+
+##### image #####
+image: OwanPnBcgIJLzL4osHLFmje1Y6Q.jpg
+-----
+alt: TODO
+##### image #####
+image: QExj5G2h39gTAUxRBWaWmtlvfFc.jpg
+-----
+alt: TODO
+#### text ####
+text: No one told me there were unicorns in Texas! Sadly, I didn't get a ride.
+
+#### image-collection ####
+images:
+
+##### image #####
+image: V3DU3dALEiIraZjHc-yoLbAi338.jpg
+-----
+alt: TODO
+#### text ####
+text: And they get sunsets that cover the sky
+
+#### image-collection ####
+images:
+
+##### image #####
+image: L07REP_eowHYlN1UEYVVkK7UaPw.jpg
+-----
+alt: TODO
+#### text ####
+text: And then, the reason we came down: PAX South!
+
+#### image-collection ####
+images:
+
+##### image #####
+image: Ni6LxjB3-8P8M6rmL_B7O_dXcTg.jpg
+-----
+alt: TODO
+#### text ####
+text: There were some amazing cosplays.
+
+#### image-collection ####
+images:
+
+##### image #####
+image: M3Z7_x-T3lD5TAJINIdS0NJ6SkU.jpg
+-----
+alt: TODO
+##### image #####
+image: cOe3gsaNuoTREnPE0vJLolYI4GU.jpg
+-----
+alt: TODO
+##### image #####
+image: iNOIq3oFQlzhpGh0ufwH_sRprl4.jpg
+-----
+alt: TODO
+##### image #####
+image: 2B1AIEpacYtfKrzkDGuDrDHTdbk.jpg
+-----
+alt: TODO
+##### image #####
+image: AlQy8ZuJTsuISZGYRRnTQAo48C4.jpg
+-----
+alt: TODO
+##### image #####
+image: 76NxlN7lz2hi2hH6pYflcBP9A8g.jpg
+-----
+alt: TODO
+##### image #####
+image: nw04p8kJNo6_q6DPFviSV74lkSc.jpg
+-----
+alt: TODO
+#### text ####
+text: A Magic card vending machine (I got one for a friend)
+
+#### image-collection ####
+images:
+
+##### image #####
+image: zCWh_WWt6uVC2nCqGRLCH2ZAHIk.jpg
+-----
+alt: TODO
+#### text ####
+text: And I played some games. (I won)
+
+#### image-collection ####
+images:
+
+##### image #####
+image: hEaKxZXpXCUNJ-_YPE-GM-cvUMY.jpg
+-----
+alt: TODO
+#### text ####
+text: I also went to my first protest!  Everyone was very friendly, and there were some great geeky signs.
+
+#### image-collection ####
+images:
+
+##### image #####
+image: 3wrfCeVcjvu89iawyseqTSmpAVg.jpg
+-----
+alt: TODO
+##### image #####
+image: DJ_Ir_v3sEweMjgbgpSmrWP0Zdc.jpg
+-----
+alt: TODO
+#### text ####
+text: The flight down and back both had an amazing sunset.
+
+#### image-collection ####
+images:
+
+##### image #####
+image: RZlo6PdQSws88HnC_2GFVkThCCE.jpg
+-----
+alt: TODO
+##### image #####
+image: j5uBFhFA9O6VQu8muQ1KJswtPI4.jpg
+-----
+alt: TODO
+#### map ####
+src_text: San Antonio
+----
+src_lat: 29.4241219
+----
+src_lon: -98.4936281
+----
+dst_text: Vancouver
+----
+dst_lat: 49.2827291
+----
+dst_lon: -123.12073749999999
+#### text ####
+text: Much to my surprise, Vancouver's arrivals has an amazing coast salish room.
+
+#### image-collection ####
+images:
+
+##### image #####
+image: 0YOlRrBcrkHBPmvixWq796BAYaA.jpg
+-----
+alt: TODO
+##### image #####
+image: 8pRSE8yrN2Hey6dR-a2T1sEJhEs.jpg
+-----
+alt: TODO
+
 ---
 end_date: 2017-01-30
 ---

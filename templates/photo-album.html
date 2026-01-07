@@ -36,5 +36,6 @@
     <p class="blog-meta">{% if this.location %}{{this.location}} {%endif%}{% if this.attendees %}{{this.attendees}}, {% endif %}{{ this.start_date | dateformat('medium') }} - {{ this.end_date | dateformat('medium') }}</p>
 </hgroup>
 
-{{ this.body }}
+{% if this.body_flow %}{{ this.body_flow }}{% else %}{{ this.body }}{% endif %}
+
 {% endblock %}
