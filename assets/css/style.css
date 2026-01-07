@@ -233,7 +233,9 @@ div.project-box {
     text-align: center;
 
     img {
-        max-width: var(--image-width);
+        object-fit: scale-down;
+        min-width: 200px;
+        max-width: 100%;
     }
 }
 
