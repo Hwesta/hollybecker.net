@@ -1,5 +1,5 @@
 {% set img = record.attachments.images.get(this.image) %}
 <figure style="flex: calc({{img.width}}/{{img.height}})" {% if this.css_classes %}class="{% for c in this.css_classes %}{{c}} {%endfor%}" {% endif %}>
-    <a href="{% if img.video_link %}{{img.video_link}}{%else%}{{ this.image }}{%endif%}" target="_blank" rel="noopener noreferrer"><img src="{{ img.thumbnail(height=600) }}" alt="{{ this.alt }}" loading="lazy"></a>
-    {% if this.caption %}<figcaption>{{ this.caption }}</figcaption>{% endif %}
+    <a href="{% if this.video_link %}{{this.video_link}}{%else%}{{ this.image }}{%endif%}" target="_blank" rel="noopener noreferrer"><img src="{{ img.thumbnail(height=600) }}" alt="{{ this.alt }}" loading="lazy"></a>
+    {% if this.caption or this.video_link %}<figcaption>{%if this.video_link%}Click for video {%endif%}{{ this.caption }}</figcaption>{% endif %}
 </figure>

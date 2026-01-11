@@ -426,6 +426,8 @@ caption:
 alt: TODO
 -----
 css_classes: 
+-----
+video_link: train-turntable-sm-short.mp4
 #### text ####
 text: They had an exhibit on how the Shinkansen was built, and it made me realize both what a huge scale infrastructure project it was, and that the shinkansen is the tracks, not the trains. The trains have been upgraded several times, and there were models showing the nose getting longer and longer!
 #### image-collection ####
@@ -472,6 +474,8 @@ caption:
 alt: TODO
 -----
 css_classes: 
+-----
+video_link: train-saitama-north-sm.mp4
 ##### image #####
 image: pzJEEvuugL71r4zqXG7TUN1OmC0.jpg
 -----
@@ -748,6 +752,8 @@ caption:
 alt: TODO
 -----
 css_classes: 
+-----
+video_link: hakodate-cable-car-up-sm.mp4
 ##### image #####
 image: ROIccyz9auwaVON6LydoqehAwPc.jpg
 -----
@@ -759,11 +765,13 @@ css_classes:
 ##### image #####
 image: hakodate-cable-car-down.jpg
 -----
-caption: Video by James
+caption: by James
 -----
 alt: TODO
 -----
 css_classes: 
+-----
+video_link: hakodate-cable-car-down-sm.mp4
 #### text ####
 text: I'm told the views are better at night, but I enjoyed the daytime ones! Mt Hakodate was once a restricted access military base so the surrounding area was left untouched, and is now a rich nature preserve popular with hikers.
 #### image-collection ####
@@ -1017,6 +1025,8 @@ caption:
 alt: TODO
 -----
 css_classes: 
+-----
+video_link: train-hokkaido-ocean-sm.mp4
 ##### image #####
 image: train-hokkaido-city.jpg
 -----
@@ -1025,6 +1035,8 @@ caption:
 alt: TODO
 -----
 css_classes: 
+-----
+video_link: train-hokkaido-city-sm.mp4
 #### text ####
 text: We arrived in Sapporo! It's the biggest city we visited outside of Tokyo this trip - largest in Hokkaido and fifth largest in Japan. Despite that, it's only about 2.5 million people, which is about the same as Metro Vancouver. The famous local clocktower has a selfie platform so that tourists stop standing in traffic to get photos.
 #### image-collection ####
@@ -1612,6 +1624,8 @@ caption: Video by James
 alt: TODO
 -----
 css_classes: 
+-----
+video_link: jigokudani-steam-sm.mp4
 #### text ####
 text: We took a short hike in the adjacent hills to see the nearby lake and some birds. Despite the rain, the Eastern Crowned Warbler came and sat on a branch at eye level and sang its heart out for us. The Narcissus Flycatcher is always a treat to see.
 #### image-collection ####
@@ -1716,6 +1730,8 @@ caption:
 alt: TODO
 -----
 css_classes: 
+-----
+video_link: aomori-cruise-ship-sm.mp4
 #### text ####
 text: Aomori is very focused on the letter A. The tourism building is shaped like an A, the bridge across downtown has A shaped arches, and the selfie sign is written with English characters to have the A.
 #### image-collection ####
@@ -2101,6 +2117,8 @@ caption:
 alt: TODO
 -----
 css_classes: 
+-----
+video_link: hirosaki-iwaki-sm.mp4
 ##### image #####
 image: dmyF9LcI6gZpbTsnXWwFX-qeFis.jpg
 -----
@@ -2192,6 +2210,8 @@ caption:
 alt: TODO
 -----
 css_classes: 
+-----
+video_link: train-sendai-sm.mp4
 #### text ####
 text: We had a couple hours to kill and visited the Museum of the Kamei Collection, which had more moths and butterflies (and beetles) than I've ever seen before, including the biggest and the smallest butterfly.
 #### image-collection ####
@@ -2961,11 +2981,13 @@ images:
 ##### image #####
 image: heavy-rain.jpg
 -----
-caption: Photo by James
+caption: by James
 -----
 alt: TODO
 -----
 css_classes: 
+-----
+video_link: heavy-rain-sm.mp4
 ##### image #####
 image: bSTPo3OwcdLcGmkF6A9Ss0fhtT8.jpg
 -----
