@@ -75,8 +75,7 @@ header {
 }
 
 hgroup {
-    /* Title is twice as wide as links */
-    flex: 2;
+    flex: 1;
 }
 
 nav {
@@ -91,7 +90,6 @@ nav {
             text-align: right;
             font-variant: small-caps;
             font-weight: bold;
-            padding-bottom: 0.2rem;
 
 
             a {
