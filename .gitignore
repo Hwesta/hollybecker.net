@@ -4,6 +4,5 @@ _site
 .bundle
 vendor
 .jekyll-cache
-bin
 _uncommitted
 resume
