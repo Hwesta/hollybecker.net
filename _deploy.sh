@@ -10,7 +10,6 @@ mkdir -p assets/resume
 cp ./resume/index.html assets/resume/
 cp -r ./resume/css/ assets/resume
 echo 'Lektor build'
-lektor clean --yes
 lektor build
 echo 'Deploy via rsync'
 lektor deploy adrestia
