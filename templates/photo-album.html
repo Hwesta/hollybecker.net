@@ -5,6 +5,9 @@
 {% endif %}
 
 {% block extra_head %}
+<meta property="og:image" content="{{ this.attachments.images.filter(F.cover_image == true).first().thumbnail(300, 300, mode='crop', upscale=false)|url }}" />
+<meta property="og:type" content="article" />
+<meta property="og:locale" content="en">
 <style>
     :root {
         --container-width-large-screen: 1000px;
