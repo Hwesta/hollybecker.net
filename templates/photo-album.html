@@ -5,7 +5,10 @@
 {% endif %}
 
 {% block extra_head %}
-<meta property="og:image" content="{{ this.attachments.images.filter(F.cover_image == true).first().thumbnail(300, 300, mode='crop', upscale=false)|url }}">
+{% set cover = this.attachments.images.filter(F.cover_image == true).first() %}
+{% if cover %}
+<meta property="og:image" content="{{ cover.thumbnail(300, 300, mode='crop', upscale=false)|url }}">
+{% endif %}
 <meta property="og:type" content="article">
 <meta property="og:locale" content="en">
 <style>
