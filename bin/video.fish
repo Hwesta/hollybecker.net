@@ -12,3 +12,6 @@ ffmpeg -i input.mp4 -ss 00:00:08 -async 1 -c copy output-short.mp4
 
 # Make a thumbnail from the first frame of video
 ffmpeg -i input.mp4 -frames:v 1 -an -vf "setsar=1" -y output.jpg
+
+# remove audio
+-an
