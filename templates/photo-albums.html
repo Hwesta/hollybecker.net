@@ -15,8 +15,8 @@
         {% endif %}
         <hgroup>
             <h3><a href="{{ album|url }}">{{ album.title }}</a></h3>
-            <p class="blog-meta">{{ album.start_date | dateformat('medium') }} - {{ album.end_date | dateformat('medium') }}</p>
-            <p class='blog-meta'>{% if album.location %}{{album.location}} {%endif%}{% if album.attendees %}{{album.attendees}}{% endif %}</p>
+            <p class="page-meta">{{ album.start_date | dateformat('medium') }} - {{ album.end_date | dateformat('medium') }}</p>
+            <p class='page-meta'>{% if album.location %}{{album.location}} {%endif%}{% if album.attendees %}{{album.attendees}}{% endif %}</p>
         </hgroup>
     </div>
     {% endfor %}

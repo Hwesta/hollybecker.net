@@ -4,7 +4,7 @@
 {% else %}
 <h2>{{ post.title }}</h2>
 {% endif %}
-<p class="blog-meta">{% if post.pub_date %}posted on {{ post.pub_date | dateformat('long') }}</p>
+<p class="page-meta">{% if post.pub_date %}posted on {{ post.pub_date | dateformat('long') }}</p>
 {% else %}unpublished{% endif%}
 {% if from_index %}
 <p>{{ post.preview }}</p>
