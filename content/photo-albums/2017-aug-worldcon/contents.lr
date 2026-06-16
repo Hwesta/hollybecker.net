@@ -24,11 +24,13 @@ images:
 ##### image #####
 image: waMnynVv7A_lIcJPOxywEQMjYuU.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### map ####
 src_text: Edmonton International Airport
 ----
@@ -49,11 +51,13 @@ images:
 ##### image #####
 image: S57-8bufzY5EXYeOf2mXBKsARKU.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### text ####
 text: It was pretty amazing to see the sun come up in the north.
 #### image-collection ####
@@ -62,11 +66,13 @@ images:
 ##### image #####
 image: s9z27UUuvUe8LkB1MX4F_OZ5LMc.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### text ####
 text: Iceland was amazing even just flying over it, I want to go back and actually see it.
 #### image-collection ####
@@ -75,19 +81,23 @@ images:
 ##### image #####
 image: Q6qvl4n4Z2AKHFjOb2tl_l4yIQo.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 ##### image #####
 image: z4teEsGjDxh0Vpk4ElQ-YktHtpY.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### text ####
 text: On the way, we were the furthest north we've ever been: 68° 4' N !
 #### map ####
@@ -118,19 +128,23 @@ images:
 ##### image #####
 image: E5yslp2NZ_aiMcc7NGmV9dBvxNM.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 ##### image #####
 image: vqEh-5B6K-9nlcXvhHxpDJ83Eao.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### text ####
 text: Everyone really does ride bikes everywhere. This was the courtyard of our AirBnB. Most streets were 2-4 lanes of cars, 2 lanes of tram, plus wide bike lanes and sidewalks (or mixed use bikelane/sidewalks).
 #### image-collection ####
@@ -139,11 +153,13 @@ images:
 ##### image #####
 image: alCR5AX17KdKzygxJIICwSDcRko.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### text ####
 text: They also have lots more trains! Including lots of long and short distance rail.
 #### image-collection ####
@@ -152,11 +168,13 @@ images:
 ##### image #####
 image: 9d7NUmyrV8P2Q9t1cnwYT4gDQGw.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### text ####
 text: Lots of nice historical boats too.
 #### image-collection ####
@@ -165,19 +183,23 @@ images:
 ##### image #####
 image: 4z8PO2mPYFLGTl7B2H2Y1aSClVE.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 ##### image #####
 image: yvbiw_h06rZelQX28CJnwNVM3F0.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### text ####
 text: We stumbled on a shop, Finn Enterprise, that had both modern and historical weapons. These knife sheathes had been made by bored soldiers during WWII/Winter War/Continuation War from the remains of downed Russian planes.
 #### image-collection ####
@@ -186,11 +208,13 @@ images:
 ##### image #####
 image: jP_1yn0Lw3FSwTNx9BRTWMkSprQ.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### location ####
 text: Uspenski Cathedral
 ----
@@ -205,19 +229,23 @@ images:
 ##### image #####
 image: 6VuCBcuFOXnADdSPJS7fGcaGj4g.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 ##### image #####
 image: 7wRiRuEQGTShHvI9PAHCF7Llgys.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### location ####
 text: Helsinki Cathedral
 ----
@@ -232,19 +260,23 @@ images:
 ##### image #####
 image: VqVRII02wU30fdXgEkmFY9tF5vo.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 ##### image #####
 image: 6ETztnJk05i-r2_lfnQKv5-jWrI.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### location ####
 text: Senate Square
 ----
@@ -259,27 +291,33 @@ images:
 ##### image #####
 image: rTmZCq-4Fms0WW7RsoOHg4us0cU.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 ##### image #####
 image: 9hrcEY7noCX-AP49mbTvJjtaqDo.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 ##### image #####
 image: FJjtDXhQdT9O09WBLgrEarCf4K4.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### location ####
 text: Finnish National Theatre
 ----
@@ -294,11 +332,13 @@ images:
 ##### image #####
 image: IOFo6Cehc_9Q1UJSQ62lEJxbXAE.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### text ####
 text: The street our AirBnB was on was named after this guy! Aleksiskivenkatu (aka Aleksis Kivi's Street). Aleksis Kivi wrote the first significant novel in the Finnish language, and is among the earliest & greatest Finnish language authors.
 #### image-collection ####
@@ -307,11 +347,13 @@ images:
 ##### image #####
 image: hiVGR0mvgJAhaKsWKZsNQRjHayo.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### location ####
 text: Central railway station
 ----
@@ -326,11 +368,13 @@ images:
 ##### image #####
 image: -7I5CyTkoiv2EJcQTrqMviR526A.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### location ####
 text: Kallio Church
 ----
@@ -345,11 +389,13 @@ images:
 ##### image #####
 image: 1gJ034mUU5DOqk17I2fWvfnBEpk.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### location ####
 text: Esplanadi
 ----
@@ -364,11 +410,13 @@ images:
 ##### image #####
 image: NXVAXHhqYhjAApHQtVPdmCXgFHo.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### location ####
 text: Messukeskus
 ----
@@ -376,18 +424,20 @@ lat: 60.2032502
 ----
 lon: 24.936463699999997
 #### text ####
-text: The reason we came: WorldCon75!(That's the mascot: Major Ursa!)
+text: The reason we came: WorldCon75! (That's the mascot: Major Ursa!)
 #### image-collection ####
 images:
 
 ##### image #####
 image: G4V4lhoTQpEuh7ldy17VIauAnXQ.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### text ####
 text: The opening ceremonies did a great job of showcasing some Finnish culture. Much of the text was in Finnish, but the speaking was in English.
 #### image-collection ####
@@ -396,11 +446,13 @@ images:
 ##### image #####
 image: r3INgRRXPH7qFQJxzjWLF1fOe4U.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### text ####
 text: Lots of great cosplay, more than I could get photos of.
 #### image-collection ####
@@ -409,35 +461,43 @@ images:
 ##### image #####
 image: WhNwxy5fqZZdHCNC_S6ijhecOxE.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 ##### image #####
 image: HKEntTcJUZbqT9tukUHwH5fkFR8.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 ##### image #####
 image: ZRLU2ZdaPPqJyPedNultdm1un_c.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 ##### image #####
 image: ZgMfBNAYKN4IpKBrG8UPkQPHCEI.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### text ####
 text: Surprise hit for me: learning Finnish folk dances, and historical dances.
 #### image-collection ####
@@ -446,19 +506,23 @@ images:
 ##### image #####
 image: tAFlcweI-fkpDu0YQ24ZmwqR3qo.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 ##### image #####
 image: EDAh_MBXs4eiEy9hUDhy9r2xJEc.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### text ####
 text: The Hugo Award ceremony was the highlight.  I was most excited when Ursula Vernon won.
 #### text ####
@@ -481,35 +545,43 @@ images:
 ##### image #####
 image: 6dAMPIpq6Gx56-OQlZyo6bFETt0.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 ##### image #####
 image: hRlRRTTrr4sM3cPWulY_Fm-ykPI.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 ##### image #####
 image: Ju0BQHphxzJ1CwdB8C2LDZ-nnXI.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 ##### image #####
 image: slj4njSSihTiGBudECg2CAYtHE8.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### text ####
 text: New birds! These are barnacle geese, which seem to be as common as Canada geese are at home.  Unlike Canada geese, they're actually kinda friendly.
 #### image-collection ####
@@ -518,11 +590,13 @@ images:
 ##### image #####
 image: J4vjeau_-WWnA8eKjhiu5dAHcVU.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### location ####
 text: Lammassaren lintutorni (birdwatching tower)
 ----
@@ -537,11 +611,13 @@ images:
 ##### image #####
 image: PlhHIJPMb0gcyOxhLjBu7rHzRkw.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### text ####
 text: Visible from the birdwatching tower were historic Finnish cows & sheep that are being conserved at the park.
 #### image-collection ####
@@ -550,11 +626,13 @@ images:
 ##### image #####
 image: 50NKOlJ3zJvxNXcSlJYEFlBqcjM.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### text ####
 text: The island is also used for camping and summer cottages.
 #### image-collection ####
@@ -563,11 +641,13 @@ images:
 ##### image #####
 image: nK1LcnEX_wb1UkSGBwajfQjiDKY.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### text ####
 text: Next up: museums!
 #### location ####
@@ -584,11 +664,13 @@ images:
 ##### image #####
 image: ZqsPoZemvAztQOwWlowck1wo4_8.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### location ####
 text: Finnish National Museum
 ----
@@ -601,11 +683,13 @@ images:
 ##### image #####
 image: cCnutysOIqo7ZP-JMbiFzmF_VwM.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### text ####
 text: The National Museum had a broken window in the front door from the 1918 civil war, just after they declared independence. Quite the introduction to Finnish history!
 #### image-collection ####
@@ -614,11 +698,13 @@ images:
 ##### image #####
 image: WYZNoGq4L9xsNUcPOXg26f6VDs0.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### text ####
 text: Everything was labelled in the two national languages: Finnish and Swedish, as well as English.
 #### text ####
@@ -629,27 +715,33 @@ images:
 ##### image #####
 image: lXaqneKVX0U6mv43fEFoCm943Us.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 ##### image #####
 image: v8AeayWVGQ4toGjoqIIanx3kBkg.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 ##### image #####
 image: wov49L3OBE1RepFuuIrkhy2oUHw.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### text ####
 text: I liked the bowls shaped like birds, used for dipping milk or beer out of a big central barrel.
 #### image-collection ####
@@ -658,11 +750,13 @@ images:
 ##### image #####
 image: iCBHzR4zDt_9yDcpkOVszg3SZIQ.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### text ####
 text: The display on the last 100 years of Finland was very up to date! I liked that the museum took a political stance on immigration.
 #### image-collection ####
@@ -671,19 +765,23 @@ images:
 ##### image #####
 image: eiF46rqeoD-1Svwpm1GF2JlFRpE.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 ##### image #####
 image: h3NUOARqvWwpkdPrWat5QpW70vs.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### text ####
 text: There were so many churches we didn't bother getting amazing photos of each one.
 #### image-collection ####
@@ -692,11 +790,13 @@ images:
 ##### image #####
 image: TtK_T79ThGwe28Wy5YcOshtIais.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### text ####
 text: Stopped at the Moomin Cafe for a snack, including a traditional Finnish Karelian pastry.
 #### image-collection ####
@@ -705,19 +805,23 @@ images:
 ##### image #####
 image: XBfUVXYLlsqdcFlGSVo6PwBlCLk.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 ##### image #####
 image: XWEtIFoUurMNMRftlV5NWqyYLQI.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### text ####
 text: The design museum highlighted a few famous things to come out of Finland: Nokia, Angry Birds, and the Ball Chair (I thought it was uncomfortable).
 #### image-collection ####
@@ -726,27 +830,33 @@ images:
 ##### image #####
 image: e9yK9Z4DI6dErt_8kyN-D7FkJDo.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 ##### image #####
 image: 81WYR3pf1G4cnsnFdKipV1IkVaI.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 ##### image #####
 image: x2o2KUL_qa0w_RDoqrlwtzh7Q80.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### text ####
 text: We also found the most Finnish thing possible: Moomin Fiskars scissors.
 #### image-collection ####
@@ -755,11 +865,13 @@ images:
 ##### image #####
 image: tXkNviynJatluNyT493xE3cxQjw.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### location ####
 text: Architecture Museum
 ----
@@ -774,11 +886,13 @@ images:
 ##### image #####
 image: brevy1GQSgAcQsfYZOCn3dQ5bpM.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### text ####
 text: Our AirBnB was in an apartment building from the 1930s.  It had been built before the days of in-suite washrooms, and had a tiny, bizarrely-shaped bathroom retrofitted in.  There was a communal laundry room but it was busy when we needed it, so we had the novel experience of hanging our clothes to dry in the attic.
 #### image-collection ####
@@ -787,11 +901,13 @@ images:
 ##### image #####
 image: JqvL19AXnPmGzjcjl67_JhANdfs.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### map ####
 src_text: Helsinki
 ----
@@ -814,56 +930,58 @@ images:
 ##### image #####
 image: 7Qe32uo0GcPIOghytyEGQ5nBfBI.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 ##### image #####
 image: AxhiUyso0zUgDEbuWEYyuyDFETE.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 ##### image #####
 image: TcNMikDBf2FvnQqcERfnjnzmWXU.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### text ####
-text: The views through the 200-300 year old walls were amazing.
+text: The views through the 200-300 year old walls were amazing - the walls are so thick!
 #### image-collection ####
 images:
 
 ##### image #####
 image: 5ksBJygIxXTSysbj4c705aTGpto.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
-##### image #####
-image: zW_W7W9mE_Bc2ilqDcdtjwnu8GY.jpg
 -----
 caption: 
 -----
-alt: TODO
------
-css_classes: 
+video_link: 
 ##### image #####
 image: VodSFM2ehjbgCUicYuTqiv0P6BA.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### text ####
 text: The canons and walls were amazing.
 #### image-collection ####
@@ -872,35 +990,43 @@ images:
 ##### image #####
 image: FrnewpisIVL-L2pLjPv0Juzx_JE.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 ##### image #####
 image: OqPw7xDPSDc7jo-ygFoA9sxo1Ng.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 ##### image #####
 image: 1ok56E95BXzBkET3sgV9WCa7Mgc.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 ##### image #####
 image: lDGNvunBleZVTNOBNq1R32zz3fY.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### text ####
 text: The scale of the restoration and maintenance was amazing. It's largely done by prisoners as rehabilitation work. There's a prison on the island, and the warden had to close the gates because tourists kept walking in! Very different attitude towards crime and punishment/rehabilitation.
 #### image-collection ####
@@ -909,11 +1035,13 @@ images:
 ##### image #####
 image: QlUZ8-USovzdb9iw9FpJ62Wwz0s.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### text ####
 text: The cafes were amazing. This was a Russian cafe in the buildings that Russian merchants had lived in on the islands. Previously, the military had the right to destroy anything if they needed to. These houses were built once civilians were provided a safe place to build and promised buildings wouldn't be destroyed based on military needs.
 #### image-collection ####
@@ -922,19 +1050,23 @@ images:
 ##### image #####
 image: -IsjX3svhZfqSrp66WmoSnVgssE.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 ##### image #####
 image: vs9drWfhNtEy2b0P6-0jVDGHs74.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### location ####
 text: Suomenlinna Dry Dock
 ----
@@ -949,27 +1081,33 @@ images:
 ##### image #####
 image: tt7VK6Bj4Ks84Ku5EYSVyq0xMeo.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 ##### image #####
 image: rsCVeY4F3qr3WrHADFRg4FVuL8U.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 ##### image #####
 image: KJ_8blSW271WjRNsdCvyrsXojEc.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### text ####
 text: Suomenlinna has a ton of museums on it.
 #### location ####
@@ -986,27 +1124,33 @@ images:
 ##### image #####
 image: Id6rVDryhPV0tdaORz0qCVlTEkk.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 ##### image #####
 image: DvSAzhinvv9hP59MM3W5lPU2Tlw.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 ##### image #####
 image: 5spu2GmVhtXrqoSeCn8SqK3iX6Q.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### text ####
 text: Ehrensvard was the person mostly responsible for the building of the Suomenlinna fortress. His house was a museum, and built into the walls of the fort!
 #### image-collection ####
@@ -1015,19 +1159,23 @@ images:
 ##### image #####
 image: Zg5OWReisgQPoaU9Xjb12hKaaAE.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 ##### image #####
 image: -Qi8Vdbd0mvxnSWTWahxYIB0RvM.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### location ####
 text: Customs Museum
 ----
@@ -1044,11 +1192,13 @@ images:
 ##### image #####
 image: fj8dK0a9_v0svytqtFIfpbujOd4.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### location ####
 text: Suomenlinna Museum
 ----
@@ -1065,11 +1215,13 @@ images:
 ##### image #####
 image: mOtfWyYF7_stTUr24t3erNAR3Zk.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### text ####
 text: It was impossible to get a bad photo on the island - everything was lovely.
 #### image-collection ####
@@ -1078,43 +1230,53 @@ images:
 ##### image #####
 image: gszrA2hEvMXPE6j-1RBVyAzMcuI.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 ##### image #####
 image: r0tF9UcQG7Y21aahhFyTR2BVn4s.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 ##### image #####
 image: HVOu3jKwk05QlSStCy_1O5F0HYU.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 ##### image #####
 image: AJ3os4ThgbB2oIoU8Qn-R-sm55o.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 ##### image #####
 image: FP84wswM3QbKoVoAN3gScE-eO9A.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### map ####
 src_text: Helsinki
 ----
@@ -1137,27 +1299,33 @@ images:
 ##### image #####
 image: 1LolfSKJCj-NBl37B7gU07HN1IQ.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 ##### image #####
 image: O7e0uDDtGO5NQJsRWQpupmCBFao.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 ##### image #####
 image: Ry_xF5bMCZjGqqRu_AL2wPm3ZKc.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### location ####
 text: Tallinn
 ----
@@ -1172,19 +1340,23 @@ images:
 ##### image #####
 image: MABr6xPZ8Wbgg7gjMYI54O2sp_M.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 ##### image #####
 image: ChEX6d9b6iBnRwl4Vclpuvch7zc.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### text ####
 text: Our first dinner was in a Medieval costume restaurant looking at a 13th century town hall in the 700 year old Old Town. It was pretty amazing.
 #### image-collection ####
@@ -1193,11 +1365,13 @@ images:
 ##### image #####
 image: XkJrkF5j6hYuYvGB3YDrj3D81SY.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### text ####
 text: Everything about the Old Town was amazing and incredibly old.
 #### image-collection ####
@@ -1206,11 +1380,13 @@ images:
 ##### image #####
 image: XOtw52-Dtlwxf9TxHLtG954YN6E.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### text ####
 text: Tallinn had many more amazing old buildings, all different eras right next to each other.
 #### image-collection ####
@@ -1219,27 +1395,33 @@ images:
 ##### image #####
 image: lYdJqkE23WtuVlbkRhgtQeUmmZk.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 ##### image #####
 image: vAx0VSrNgNDGE0zOTAUH_OylqjY.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 ##### image #####
 image: vp6bFpTJ0WKpplA_v6LPm7B2T_8.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### text ####
 text: And everywhere we turned was another amazing view of a church or historic building.
 #### image-collection ####
@@ -1248,59 +1430,73 @@ images:
 ##### image #####
 image: mZm5SIDs5R3yqBAzNKvhW0GkVh0.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 ##### image #####
 image: Pfe-uMAV2Qwz1huzgBUjhiHskfw.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 ##### image #####
 image: dq85s4xffMBDZUWZs_DpxWgF_MI.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 ##### image #####
 image: C9VsCiQ5KmEW9gga2twkonnMKmA.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 ##### image #####
 image: 1hzGslgIiP07c7-ENl6LltxHGzw.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 ##### image #####
 image: wBrR-YKVMiANvA-96sF_E_GH6ds.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 ##### image #####
 image: JahBO96d31kTrhp28BQog8VPNjM.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### location ####
 text: Paljassaare
 ----
@@ -1315,11 +1511,13 @@ images:
 ##### image #####
 image: tJeHjznXkxpZkGxodAldQ-G3OBE.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### text ####
 text: We found an old Soviet base that was now abandoned and covered in graffiti.
 #### image-collection ####
@@ -1328,19 +1526,23 @@ images:
 ##### image #####
 image: Zgc39ZfOqDFhhrSINS5S9SFwsRk.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 ##### image #####
 image: NcxC0Jl3YI2VfjAVVyXFfN2AM4w.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### text ####
 text: Then, museums again!
 #### location ####
@@ -1357,11 +1559,13 @@ images:
 ##### image #####
 image: YH3EP0GOTpU9_FEagtq40r101Ow.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### text ####
 text: The exhibits were very well put together, organized thematically rather than chronologically.
 #### image-collection ####
@@ -1370,19 +1574,23 @@ images:
 ##### image #####
 image: YL1O5z1rd-qMbYJkaeC_CQmofR0.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 ##### image #####
 image: 0BSXYO4Vzl5NACmcbJm_Dmj-rgY.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### location ####
 text: Tallinn City Museum
 ----
@@ -1397,11 +1605,13 @@ images:
 ##### image #####
 image: pMlfjZq2jNA82LD7j4CuLFemZ88.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### text ####
 text: The Tallinn City Museum had the oldest coin I'd ever seen: Roman coin from 81-96 CE.
 #### image-collection ####
@@ -1410,11 +1620,13 @@ images:
 ##### image #####
 image: -4yuaFmdvw7ArAzXjfEJcBru7uM.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### text ####
 text: And this coin, which was so fancy it was in an alarmed box, specially lit, in a different room from the rest of the coins (but I don't remember what was fancy about it!)
 #### image-collection ####
@@ -1423,11 +1635,13 @@ images:
 ##### image #####
 image: zZWTWVk9TQAm55nUMz8URVBq0jw.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### text ####
 text: We had an evening snack at Café Dannebrog built into the wall of Old Tallinn.  You had to haul yourself up tall, steep, narrow stairs with a chain for leverage to get up there, but the patio was long and narrow over one of the gates. Total tourist trap place, but it was pretty special to enjoy the nighttime view of the city from such an unusual place.
 #### image-collection ####
@@ -1436,11 +1650,13 @@ images:
 ##### image #####
 image: DZlkqoyZxosr17FX4uDdjcaqF9g.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### location ####
 text: Rataskaevu 16
 ----
@@ -1455,19 +1671,23 @@ images:
 ##### image #####
 image: kQE5dzaSmnd_qKKxwTsglXoeMFs.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 ##### image #####
 image: vA6sQ1iD-OqAqmeYLWYrQMniXo0.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### text ####
 text: My least favorite was the unnerving surprise in the bathroom. They'd left a clear cover over a steep staircase.
 #### image-collection ####
@@ -1476,11 +1696,13 @@ images:
 ##### image #####
 image: zPBYv1Ie3Iy8V9mJd_KBulcm_oY.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### location ####
 text: St Olaf's church
 ----
@@ -1495,11 +1717,13 @@ images:
 ##### image #####
 image: uIEStDKHF1KbnymWDzuCTWk0L_A.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### text ####
 text: St. Olaf's cathedral claims to have been the tallest building in the world from 1549 to 1625. You could pay to climb up to the top of the tower (not roof) for an amazing view, via 258 tiny curving stairs.
 #### image-collection ####
@@ -1508,19 +1732,23 @@ images:
 ##### image #####
 image: 53tuiG2m542vI_fH5sEj4aVvguQ.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 ##### image #####
 image: jL6MmyQERgmmAnLvE7aWyIDp_D0.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### text ####
 text: The view at the top was amazing
 #### image-collection ####
@@ -1529,27 +1757,33 @@ images:
 ##### image #####
 image: 4FkeAJeP8vy1XUtKc7xNGGM3hGE.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 ##### image #####
 image: 2zpITQElMxC--sttiGYKWx6sPqE.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 ##### image #####
 image: 5WKauYWmm-GSCZJGytm-5l450GY.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### text ####
 text: But terrifying
 #### image-collection ####
@@ -1558,11 +1792,13 @@ images:
 ##### image #####
 image: WPVVU_oBQV1Q33EZjVlWNV0nghU.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### text ####
 text: Proof I made it to the top!
 #### image-collection ####
@@ -1571,11 +1807,13 @@ images:
 ##### image #####
 image: LK-puafx5bxOB960F2EIJpIkSUk.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### location ####
 text: Linnahall
 ----
@@ -1590,27 +1828,33 @@ images:
 ##### image #####
 image: s4ra8Vw_f3tgCt4HMLHu_TKCzEA.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 ##### image #####
 image: qSjBdRXgkfbbPjsfE86ENu5SiVI.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 ##### image #####
 image: AT1tONGwWd-i5OPa7EjHrgJyUqI.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### location ####
 text: Energy Discovery Centre
 ----
@@ -1625,19 +1869,23 @@ images:
 ##### image #####
 image: IKzx3CBFQDaCZYtKUs_abnG5Mzc.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 ##### image #####
 image: Z5PLRSy0HeWhemeC8wW1HdV986M.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### location ####
 text: Estonian Maritime Museum
 ----
@@ -1652,11 +1900,13 @@ images:
 ##### image #####
 image: 99A2kuIw2b0eZ3OsiNya2udOCh0.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### text ####
 text: Most of the museums had English: in Finland, they had Finnish, Swedish & English, in Estonia they had Estonian and English. The Maritime Museum, however, was mostly in Russian, since it dated from the Soviet era!
 #### image-collection ####
@@ -1665,27 +1915,33 @@ images:
 ##### image #####
 image: kD8AZevq8fAeB5ewCntEgZT6qWY.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 ##### image #####
 image: ZwR0ECNziivKBSa0NCGqPnptKcA.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 ##### image #####
 image: fXExak_gCHw0uE4w51ZkSb_iVXo.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### text ####
 text: The boat from the deadliest peacetime maritime disaster in Europe!
 #### image-collection ####
@@ -1694,19 +1950,23 @@ images:
 ##### image #####
 image: M1VHFb7jFNZv1LwB9KkirdhoQJc.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 ##### image #####
 image: ys_kqzpd0sb1oLmjZIJNwLAHoE4.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### text ####
 text: There was a lot more travel in ancient times than I realized. These are coins from Estonia, including Arabic, Byzantine and Indian coins.
 #### image-collection ####
@@ -1715,11 +1975,13 @@ images:
 ##### image #####
 image: sHClxkqPcXM33Vj4KBpUo6uIAiM.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### map ####
 src_text: Tallinn
 ----
@@ -1740,27 +2002,33 @@ images:
 ##### image #####
 image: kn_iFycjaPDGM2a2RREdxDFkIxI.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 ##### image #####
 image: x1jWuvUxEQ30q43vYJbYmSxWcCY.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 ##### image #####
 image: OgkUtRqwKsU1Uru1zyckEHTiZTY.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### location ####
 text: Helsinki
 ----
@@ -1777,19 +2045,23 @@ images:
 ##### image #####
 image: GbdTXQbdgxuQD_BVY7qh_2qzrnE.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 ##### image #####
 image: amRLFoUEVXwICPb4M5duE1iaG_A.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### location ####
 text: Café Ekberg
 ----
@@ -1804,11 +2076,13 @@ images:
 ##### image #####
 image: Go3Mb-aNyNF7izN9HXL_xqhLC70.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### location ####
 text: Helsinki City Museum
 ----
@@ -1823,11 +2097,13 @@ images:
 ##### image #####
 image: VDlBv7k88fKqzqO7Bk_V-1WRmUo.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### location ####
 text: Seurasaari Open-Air Museum
 ----
@@ -1842,27 +2118,33 @@ images:
 ##### image #####
 image: pCTZmU8p4PNCyU3vaCe5lMxckCU.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 ##### image #####
 image: XpFESB-Wif0zcxA7ygTDssehPrQ.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 ##### image #####
 image: RrUtMvoxffGJCuYZmEKbhYY4Z6Y.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### text ####
 text: I got to hold some Great Tits, and we almost got a photo of it too.
 #### image-collection ####
@@ -1871,11 +2153,13 @@ images:
 ##### image #####
 image: RISdwX6Bq_v5OApEr6AF17OlpQE.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### text ####
 text: The ducks left trails in the algae over the clay pit pools!
 #### image-collection ####
@@ -1884,11 +2168,13 @@ images:
 ##### image #####
 image: qgQKiM-n7YbCa3XTLOiPsx_n0vM.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### text ####
 text: And, back on the train to head home.
 #### image-collection ####
@@ -1897,19 +2183,23 @@ images:
 ##### image #####
 image: tUXOGuncffEbD4GhRa06CpPLxaE.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 ##### image #####
 image: 174NEc5-1felJ2cl8DKSt8hOGeo.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### map ####
 src_text: Helsinki
 ----
@@ -1928,11 +2218,13 @@ images:
 ##### image #####
 image: MibUbSJxD_fVJR5d-p0MHRD32Oc.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: 
+-----
+video_link: 
 #### text ####
 text: Had a great trip, but glad to be home again.
 #### text ####
@@ -1943,227 +2235,223 @@ images:
 ##### image #####
 image: m1jFWs_V9jWeaoiS5XDJIITOoAA.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: Common Goldeneye
+-----
+video_link: 
 ##### image #####
 image: fHrbcXeNDD_yHvkQAC1Dhzyhz6M.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: Great Tit
+-----
+video_link: 
 ##### image #####
 image: U2DhZ55nMJwK5cqstxzEI4wGwGk.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
-##### image #####
-image: VdJJNv7l3uq-StI1LxoIHRh4Pvw.jpg
 -----
-caption: 
+caption: House Sparrow
 -----
-alt: TODO
------
-css_classes: 
+video_link: 
 ##### image #####
 image: M-yCAmQ-9Nnpb6cQEFQ-R1RMwAM.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: Common Gull
+-----
+video_link: 
 ##### image #####
 image: NNOIvnq2TU4GAW9gQ66Q-Pfwxi0.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: Jackdaw
+-----
+video_link: 
 ##### image #####
 image: lQDwSx89JN0qXzuKlolVTHK1nA.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: Common Wood-pigeon
+-----
+video_link: 
 ##### image #####
 image: 5w-h9Gv0qmiO235Fokm6YYNVL2s.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
-##### image #####
-image: PTCTQhpsiDwpXxfMrRA8tAo-54w.jpg
 -----
-caption: 
+caption: Great Black-backed Gulls
 -----
-alt: TODO
------
-css_classes: 
-##### image #####
-image: 7yq3xv1HzBmck_n1V6GMS8D1hmg.jpg
------
-caption: 
------
-alt: TODO
------
-css_classes: 
-##### image #####
-image: xZmuP8zL4-sEaEfbrSu6ozQRllM.jpg
------
-caption: 
------
-alt: TODO
------
-css_classes: 
-##### image #####
-image: 8tXlHRM-WP3q-n1BaaKJIwxBNgY.jpg
------
-caption: 
------
-alt: TODO
------
-css_classes: 
+video_link: 
 ##### image #####
 image: NfiAZt1aGrsa_TVMH_qQ95KiCIM.jpg
 -----
-caption: 
+alt: TODO
+-----
+css_classes: 
+-----
+caption: White Wagtail
+-----
+video_link: 
+##### image #####
+image: 7yq3xv1HzBmck_n1V6GMS8D1hmg.jpg
 -----
 alt: TODO
 -----
 css_classes: 
+-----
+caption: Tree Pipit
+-----
+video_link: 
+##### image #####
+image: 8tXlHRM-WP3q-n1BaaKJIwxBNgY.jpg
+-----
+alt: TODO
+-----
+css_classes: 
+-----
+caption: White Wagtail
+-----
+video_link: 
+##### image #####
+image: PTCTQhpsiDwpXxfMrRA8tAo-54w.jpg
+-----
+alt: TODO
+-----
+css_classes: 
+-----
+caption: Eurasian Wigeons
+-----
+video_link: 
 ##### image #####
 image: sd2IurFM_pciSxJrgZkIGFvE7TY.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: Common Merganser
+-----
+video_link: 
 ##### image #####
 image: mnoR8azlifOihfiEqpZOIuL28.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: Common Eider
+-----
+video_link: 
 ##### image #####
 image: KseO9hg3tTMFO_a7ix3dzL2mmKs.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: Chaffinch
+-----
+video_link: 
 ##### image #####
 image: r56QL3CAg3qzzl_eHgAlJF3_tiE.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
-##### image #####
-image: ZvsbQ-v7O6aCX_m7Es8go5EGzU8.jpg
 -----
-caption: 
+caption: Eurasian Nuthatch
 -----
-alt: TODO
------
-css_classes: 
-##### image #####
-image: IvUqCt34754ogUjLWZIasP5fgKM.jpg
------
-caption: 
------
-alt: TODO
------
-css_classes: 
-##### image #####
-image: qFHyv0vNiCaW9g4i1A0-gnf-jO4.jpg
------
-caption: 
------
-alt: TODO
------
-css_classes: 
+video_link: 
 ##### image #####
 image: lb7_DlfsvBcG7MHbcMVE1G4rzX4.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: Eurasian Tree Sparrow
+-----
+video_link: 
 ##### image #####
 image: BVkgO20RmtnlR2_SxvNC9yaidPk.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: Hooded Crow
+-----
+video_link: 
 ##### image #####
 image: j0HeBlazwDCZ3MCLHlm5uGDXjzo.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
-##### image #####
-image: h61xaZk18GYD-pYK3BMngXQ0fsg.jpg
 -----
-caption: 
+caption: Awkward teenage Jackdaw
 -----
-alt: TODO
------
-css_classes: 
+video_link: 
 ##### image #####
 image: k7Qm-6CCun39KDfRoCKZ58mhyMY.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: Great Crested Grebe
+-----
+video_link: 
 ##### image #####
 image: XkDGtkphbyYr04WtGKcHNsc1T60.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: Canada Goose
+-----
+video_link: 
 ##### image #####
 image: Mb3ZQ1EuF9w_ePHqXYxPcP6WB8U.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: Great Crested Grebes, two babies and an adult
+-----
+video_link: 
 ##### image #####
 image: QwAjaHTAVWJ6a3lUYPxMAyQkbvw.jpg
 -----
-caption: 
------
 alt: TODO
 -----
 css_classes: 
+-----
+caption: Mute Swans
+-----
+video_link: 
 ---
 end_date: 2017-08-24
 ---
