@@ -1,8 +1,6 @@
-README
-======
+# README
 
-Install
--------
+## Install
 
 * Install python
 * Install lektor
@@ -10,12 +8,11 @@ Install
   * `pipx install lektor`
 * Install plugins
   * `lektor plugins add markdown-header-anchors`
-* cd <this project>
-* lektor serve # run locally
-* lektor build # compile files
+* `cd <this project>`
+* `lektor serve # run locally`
+* `lektor build # compile files`
 
 
-Deploy
-------
+## Deploy
 
 `./_deploy.sh`
