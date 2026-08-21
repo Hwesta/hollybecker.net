@@ -1,0 +1,21 @@
+{% extends "layout.html" %}
+{% from "macros/imagegallery.html" import image_gallery %}
+
+{% block title %}Craft Project - {{ this.title | striptags }}{% endblock %}
+{% if this.summary %}
+{% block summary %}{{ this.summary }}{% endblock %}
+{% endif %}
+
+{% block body %}
+<hgroup>
+    <h2>{{ this.title }}</h2>
+    <p class="page-meta">{{ this.craft_type | title }}, completed {{ this.completion_date | dateformat('MMMM yyyy') }}. {% if this.pattern %}<a href="{{this.pattern}}">Pattern</a>{%endif%}</p>
+</hgroup>
+
+{{ this.body }}
+
+{{ image_gallery(this.attachments.images) }}
+
+<hr>
+<p class="page-meta"><a href="/craft-projects/">Return to crafts</a></p>
+{% endblock %}

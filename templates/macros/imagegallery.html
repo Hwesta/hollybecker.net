@@ -1,0 +1,13 @@
+{% macro image_gallery(images) %}
+
+<div class='image-gallery'>
+    {% for img in images %}
+    <figure style="flex: calc({{img.width}}/{{img.height}})" {% if img.css_classes %}class="{% for c in img.css_classes %}{{c}} {% endfor %}" {% endif %}>
+        <a href="{% if img.video_link %}{{img.video_link}}{% else %}{{ img | url }}{% endif %}" target="_blank" rel="noopener noreferrer"><img src="{{ img.thumbnail(height=600) }}" alt="{{ img.alttext }}" loading="lazy"></a>
+        {% if img.caption or img.video_link %}<figcaption>{%if img.video_link%}Click for video {%endif%}{{ img.caption }}</figcaption>{% endif %}
+    </figure>
+    {% endfor %}
+</div>
+
+
+{% endmacro %}

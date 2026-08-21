@@ -1,0 +1,27 @@
+{% extends "layout.html" %}
+{% from "macros/pagination.html" import render_pagination %}
+{% block title %}{{ this.title }}{% endblock %}
+{% block body %}
+<h2>Craft Projects</h2>
+
+<p>I have <a href="https://www.ravelry.com/projects/Hwesta">Ravelry</a> to keep track of all my knitting projects, and this is to keep track of anything else I create.</p>
+
+<div class='project-gallery'>
+    {% for child in this.pagination.items %}
+    <div class="project-box">
+        {% set cover = child.attachments.images.filter(F.cover_image == true).first() %}
+
+        {% if cover %}
+        <a href="{{ child|url }}"><img src="{{ cover.thumbnail(300, 300, mode='crop', upscale=false)|url }}"></a>
+        {% endif %}
+
+        <hgroup>
+            <h3><a href="{{ child|url }}">{{ child.title }}</a></h3>
+            <p class="page-meta">{{child.craft_type | title }}, {{child.completion_date | dateformat('MMMM yyyy') }}</p>
+        </hgroup>
+    </div>
+    {% endfor %}
+</div>
+
+{{ render_pagination(this.pagination) }}
+{% endblock %}
