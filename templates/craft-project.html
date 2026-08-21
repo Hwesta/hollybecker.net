@@ -9,7 +9,7 @@
 {% block body %}
 <hgroup>
     <h2>{{ this.title }}</h2>
-    <p class="page-meta">{{ this.craft_type | title }}, completed {{ this.completion_date | dateformat('MMMM yyyy') }}. {% if this.pattern %}<a href="{{this.pattern}}">Pattern</a>{%endif%}</p>
+    <p class="page-meta">{{ this.craft_type | title }}, completed {{ this.completion_date | dateformat('MMMM yyyy') }}. {% if this.pattern_url %}<a href="{{this.pattern_url}}">{{ this.pattern_name}}</a>{%endif%}</p>
 </hgroup>
 
 {{ this.body }}
